@@ -23,7 +23,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoibXVyYWRndWxpeWV2IiwiYSI6ImNscnBjcWs1ZDAzemQya
 
   map.on('load', function() {
     // Fetch GeoJSON data from file
-    fetch('/data_geojson.json')
+    fetch('https://raw.githubusercontent.com/empathy0/moyka-app/0ad3c8c498804d15f74a8aeb156aa14de48214d3/data_geojson.json')
     .then(response => response.json())
     .then(data => {
         // Add GeoJSON data as a source
