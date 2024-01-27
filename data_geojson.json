@@ -1,0 +1,2045 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8102294, 40.3677509]
+      },
+      "properties": {
+        "place_id": "ChIJ8wPraQp9MEARVRIlV-VoiuA",
+        "name": "Moyka 50 qepik",
+        "link": "https://www.google.com/maps/place/Moyka+50+qepik/data=!4m7!3m6!1s0x40307d0a69eb03f3:0xe08a68e557251255!8m2!3d40.3677509!4d49.8102294!16s%2Fg%2F11rqsyx33l!19sChIJ8wPraQp9MEARVRIlV-VoiuA?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 4.8,
+        "reviews": 16,
+        "address": "Moyka 50 qepik, Matbuat avenue, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.7241208, 40.4571702]
+      },
+      "properties": {
+        "place_id": "ChIJw6jeaUmFMEARlqc8zedN4EU",
+        "name": "Delux Detailing AAAF Park",
+        "link": "https://www.google.com/maps/place/Delux+Detailing+AAAF+Park/data=!4m7!3m6!1s0x4030854969dea8c3:0x45e04de7cd3ca796!8m2!3d40.4571702!4d49.7241208!16s%2Fg%2F11t1h2ndj_!19sChIJw6jeaUmFMEARlqc8zedN4EU?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 15,
+        "address": "Delux Detailing AAAF Park, bina 1, Abseron Rayonu, Xirdalan səhəri, AAAF PARK, kuc 25, Xirdalan 0100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.856867, 40.3822938]
+      },
+      "properties": {
+        "place_id": "ChIJ66b4ag99MEARn_ZU4uWqhKU",
+        "name": "Washtec Baku",
+        "link": "https://www.google.com/maps/place/Washtec+Baku/data=!4m7!3m6!1s0x40307d0f6af8a6eb:0xa584aae5e254f69f!8m2!3d40.3822938!4d49.856867!16s%2Fg%2F11c5hpcqx1!19sChIJ66b4ag99MEARn_ZU4uWqhKU?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 3.6,
+        "reviews": 14,
+        "address": "Washtec Baku, Keykab Khanim Safaraliyeva, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.804866, 40.3851618]
+      },
+      "properties": {
+        "place_id": "ChIJpYoUaot9MEARFCdyDP3Kzn8",
+        "name": "METAS VIP",
+        "link": "https://www.google.com/maps/place/METAS+VIP/data=!4m7!3m6!1s0x40307d8b6a148aa5:0x7fcecafd0c722714!8m2!3d40.3851618!4d49.804866!16s%2Fg%2F11g8v575g9!19sChIJpYoUaot9MEARFCdyDP3Kzn8?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 4.3,
+        "reviews": 12,
+        "address": "METAS VIP, 2 Akim Abbasov St, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8529372, 40.3762001]
+      },
+      "properties": {
+        "place_id": "ChIJp8SquKl9MEARHogXIOjYOYk",
+        "name": "Washtec Baku",
+        "link": "https://www.google.com/maps/place/Washtec+Baku/data=!4m7!3m6!1s0x40307da9b8aac4a7:0x8939d8e82017881e!8m2!3d40.3762001!4d49.8529372!16s%2Fg%2F11c20fzztc!19sChIJp8SquKl9MEARHogXIOjYOYk?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 4.5,
+        "reviews": 8,
+        "address": "Washtec Baku, 49 Khagani Street, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.807694, 40.380917]
+      },
+      "properties": {
+        "place_id": "ChIJ_TOHVb59MEARBic3KMOW4No",
+        "name": "Baku Car Wash",
+        "link": "https://www.google.com/maps/place/Baku+Car+Wash/data=!4m7!3m6!1s0x40307dbe558733fd:0xdae096c328372706!8m2!3d40.380917!4d49.807694!16s%2Fg%2F11l6j8zyq5!19sChIJ_TOHVb59MEARBic3KMOW4No?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 7,
+        "address": "9RJ5+938 Baku Car Wash, Gazanfer Musabeyov Parki, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.9041144, 40.3910215]
+      },
+      "properties": {
+        "place_id": "ChIJvWUlRXd9MEARr9nSXBkCwpc",
+        "name": "Euromax Avtoservis Avadinliqlari",
+        "link": "https://www.google.com/maps/place/Euromax+Avtoservis+Avadinliqlari/data=!4m7!3m6!1s0x40307d77452565bd:0x97c202195cd2d9af!8m2!3d40.3910215!4d49.9041144!16s%2Fg%2F11jr34vw5t!19sChIJvWUlRXd9MEARr9nSXBkCwpc?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 6,
+        "address": "9WR3+CJ5 Euromax Avtoservis Avadinliqlari, Babək Prospekti, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.7557084, 40.4588339]
+      },
+      "properties": {
+        "place_id": "ChIJh5ifPp-FMEARQvX_rXAH-Fk",
+        "name": "Emirat Avtoyuma",
+        "link": "https://www.google.com/maps/place/Emirat+Avtoyuma/data=!4m7!3m6!1s0x4030859f3e9f9887:0x59f80770adfff542!8m2!3d40.4588339!4d49.7557084!16s%2Fg%2F11kqnz4b1y!19sChIJh5ifPp-FMEARQvX_rXAH-Fk?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi, Kofe dukani",
+        "rating": 5.0,
+        "reviews": 6,
+        "address": "Emirat Avtoyuma, Abseron rayonu , Xirdalan səhəri , əliaga Vahid kucəsi 41, Xirdalan 0123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.811072, 40.398488]
+      },
+      "properties": {
+        "place_id": "ChIJ0RTRD3mHMEARoochDY73yis",
+        "name": "OLDSCHOOL DETAILING",
+        "link": "https://www.google.com/maps/place/OLDSCHOOL+DETAILING/data=!4m7!3m6!1s0x403087790fd114d1:0x2bcaf78e0d2187a2!8m2!3d40.398488!4d49.811072!16s%2Fg%2F11clsf_w14!19sChIJ0RTRD3mHMEARoochDY73yis?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi, Kimyəvi Təmizləmə",
+        "rating": 5.0,
+        "reviews": 4,
+        "address": "OLDSCHOOL DETAILING, 57/A Tbilisi prospekti, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8439651, 40.3766591]
+      },
+      "properties": {
+        "place_id": "ChIJ3USI5aV9MEARhUHEzW2giLg",
+        "name": "AvtoYuma",
+        "link": "https://www.google.com/maps/place/AvtoYuma/data=!4m7!3m6!1s0x40307da5e58844dd:0xb888a06dcdc44185!8m2!3d40.3766591!4d49.8439651!16s%2Fg%2F11b7c3v3t2!19sChIJ3USI5aV9MEARhUHEzW2giLg?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 4.0,
+        "reviews": 4,
+        "address": "9RGV+MH8 AvtoYuma, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8381462, 40.3740464]
+      },
+      "properties": {
+        "place_id": "ChIJa1WvV219MEARtSYsyfwfz-s",
+        "name": "Car wash",
+        "link": "https://www.google.com/maps/place/Car+wash/data=!4m7!3m6!1s0x40307d6d57af556b:0xebcf1ffcc92c26b5!8m2!3d40.3740464!4d49.8381462!16s%2Fg%2F11v4tnvn4m!19sChIJa1WvV219MEARtSYsyfwfz-s?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 4,
+        "address": "Car wash, 71 Alovsat Guliyev St, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8385311, 40.396955]
+      },
+      "properties": {
+        "place_id": "ChIJ4aeVh5x9MEARv38KVNeZN6A",
+        "name": "Həsən Avto Yuma",
+        "link": "https://www.google.com/maps/place/H%C9%99s%C9%99n+Avto+Yuma/data=!4m7!3m6!1s0x40307d9c8795a7e1:0xa03799d7540a7fbf!8m2!3d40.396955!4d49.8385311!16s%2Fg%2F11fp8clvnh!19sChIJ4aeVh5x9MEARv38KVNeZN6A?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 4,
+        "address": "Həsən Avto Yuma, 61 Abbas Sahhat, Baku 1007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.9347037, 40.4190251]
+      },
+      "properties": {
+        "place_id": "ChIJJUaxk_BjMEARerz9psO7LDg",
+        "name": "Garage avtoyuma",
+        "link": "https://www.google.com/maps/place/Garage+avtoyuma/data=!4m7!3m6!1s0x403063f093b14625:0x382cbbc3a6fdbc7a!8m2!3d40.4190251!4d49.9347037!16s%2Fg%2F11frnkg5n_!19sChIJJUaxk_BjMEARerz9psO7LDg?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 4.0,
+        "reviews": 4,
+        "address": "Garage avtoyuma, 46 Alif Hajiyev St, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8273905, 40.3840989]
+      },
+      "properties": {
+        "place_id": "ChIJVzdeLJp9MEARQJ8-kADGQpE",
+        "name": "Garage Avto Yuyucu",
+        "link": "https://www.google.com/maps/place/Garage+Avto+Yuyucu/data=!4m7!3m6!1s0x40307d9a2c5e3757:0x9142c600903e9f40!8m2!3d40.3840989!4d49.8273905!16s%2Fg%2F11fy9g8db3!19sChIJVzdeLJp9MEARQJ8-kADGQpE?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 4,
+        "address": "Garage Avto Yuyucu, 188 Murtuza Mukhtarov, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8162328, 40.4190695]
+      },
+      "properties": {
+        "place_id": "ChIJ4Yl8UMSHMEAREi0LCqTmelM",
+        "name": "098 AVTOYUMA",
+        "link": "https://www.google.com/maps/place/098+AVTOYUMA/data=!4m7!3m6!1s0x403087c4507c89e1:0x537ae6a40a0b2d12!8m2!3d40.4190695!4d49.8162328!16s%2Fg%2F11vdb6m8p5!19sChIJ4Yl8UMSHMEAREi0LCqTmelM?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 4,
+        "address": "098 AVTOYUMA, 37 A əlisgəndər Isgəndərov, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.853012, 40.41991]
+      },
+      "properties": {
+        "place_id": "ChIJwyfISxKHMEART9ZEtLUSLVI",
+        "name": "50 qəpik moyka",
+        "link": "https://www.google.com/maps/place/50+q%C9%99pik+moyka/data=!4m7!3m6!1s0x403087124bc827c3:0x522d12b5b444d64f!8m2!3d40.41991!4d49.853012!16s%2Fg%2F11tnhzspq1!19sChIJwyfISxKHMEART9ZEtLUSLVI?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 4.8,
+        "reviews": 4,
+        "address": "CV93+W96 50 qəpik moyka, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.9208973, 40.3929895]
+      },
+      "properties": {
+        "place_id": "ChIJm0YOuwJjMEARZXIzGbRTip8",
+        "name": "Avtoyuma Omer",
+        "link": "https://www.google.com/maps/place/Avtoyuma+Omer/data=!4m7!3m6!1s0x40306302bb0e469b:0x9f8a53b419337265!8m2!3d40.3929895!4d49.9208973!16s%2Fg%2F11smf49xq9!19sChIJm0YOuwJjMEARZXIzGbRTip8?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 4,
+        "address": "9WVC+59R Avtoyuma Omer, Babək Prospekti, Qaracuxur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8482447, 40.3908003]
+      },
+      "properties": {
+        "place_id": "ChIJDbkKhm19MEAROQ1_AGVcImc",
+        "name": "AutoSpa",
+        "link": "https://www.google.com/maps/place/AutoSpa/data=!4m7!3m6!1s0x40307d6d860ab90d:0x67225c65007f0d39!8m2!3d40.3908003!4d49.8482447!16s%2Fg%2F11g873x210!19sChIJDbkKhm19MEAROQ1_AGVcImc?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 4.3,
+        "reviews": 3,
+        "address": "9RRX+87H AutoSpa, ul. Bakikhanova, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.9766251, 40.3557425]
+      },
+      "properties": {
+        "place_id": "ChIJIcmMIvtlMEARXc7xf8ztJYo",
+        "name": "50 qepik moyka",
+        "link": "https://www.google.com/maps/place/50+qepik+moyka/data=!4m7!3m6!1s0x403065fb228cc921:0x8a25edcc7ff1ce5d!8m2!3d40.3557425!4d49.9766251!16s%2Fg%2F11q9m8zk45!19sChIJIcmMIvtlMEARXc7xf8ztJYo?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 3,
+        "address": "50 qepik moyka, beton yol baku bus, Zig yolu, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8695367, 40.3846668]
+      },
+      "properties": {
+        "place_id": "ChIJZbxNEBd9MEARMPa2g7mhsgE",
+        "name": "Car Wash service",
+        "link": "https://www.google.com/maps/place/Car+Wash+service/data=!4m7!3m6!1s0x40307d17104dbc65:0x1b2a1b983b6f630!8m2!3d40.3846668!4d49.8695367!16s%2Fg%2F1tjym5vb!19sChIJZbxNEBd9MEARMPa2g7mhsgE?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 2.7,
+        "reviews": 3,
+        "address": "Car Wash service, Parking, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8159551, 40.3841521]
+      },
+      "properties": {
+        "place_id": "ChIJv5VYYY59MEAR-8qGuo2ENbU",
+        "name": "Luxor car wash",
+        "link": "https://www.google.com/maps/place/Luxor+car+wash/data=!4m7!3m6!1s0x40307d8e615895bf:0xb535848dba86cafb!8m2!3d40.3841521!4d49.8159551!16s%2Fg%2F11bx894_3q!19sChIJv5VYYY59MEAR-8qGuo2ENbU?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 3,
+        "address": "Luxor car wash, 18 Akim Abbasov St, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.9657043, 40.4054838]
+      },
+      "properties": {
+        "place_id": "ChIJ0_E6gBljMEAR-qa5JyiKLDk",
+        "name": "Pay Wash",
+        "link": "https://www.google.com/maps/place/Pay+Wash/data=!4m7!3m6!1s0x40306319803af1d3:0x392c8a2827b9a6fa!8m2!3d40.4054838!4d49.9657043!16s%2Fg%2F11k2ychll0!19sChIJ0_E6gBljMEAR-qa5JyiKLDk?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 3,
+        "address": "CX48+57W Pay Wash, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.9649302, 40.3784349]
+      },
+      "properties": {
+        "place_id": "ChIJHVpYHKxjMEARsuywhveqjb0",
+        "name": "Ximcistka Baku",
+        "link": "https://www.google.com/maps/place/Ximcistka+Baku/data=!4m7!3m6!1s0x403063ac1c585a1d:0xbd8daaf786b0ecb2!8m2!3d40.3784349!4d49.9649302!16s%2Fg%2F11snvkdq21!19sChIJHVpYHKxjMEARsuywhveqjb0?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 3,
+        "address": "Ximcistka Baku, 3 General əliaga Sixlinski kucəsi, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8230946, 40.4249252]
+      },
+      "properties": {
+        "place_id": "ChIJVR2JocWHMEARct8HE2cEGoE",
+        "name": "moyka",
+        "link": "https://www.google.com/maps/place/moyka/data=!4m7!3m6!1s0x403087c5a1891d55:0x811a04671307df72!8m2!3d40.4249252!4d49.8230946!16s%2Fg%2F1td40zsp!19sChIJVR2JocWHMEARct8HE2cEGoE?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 3,
+        "address": "moyka, Hamza Babashov, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8548885, 40.4037824]
+      },
+      "properties": {
+        "place_id": "ChIJw5a7lsh9MEARfh69SPWuRFM",
+        "name": "Avto Yuma 071",
+        "link": "https://www.google.com/maps/place/Avto+Yuma+071/data=!4m7!3m6!1s0x40307dc896bb96c3:0x5344aef548bd1e7e!8m2!3d40.4037824!4d49.8548885!16s%2Fg%2F11q3qr6tc9!19sChIJw5a7lsh9MEARfh69SPWuRFM?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 3,
+        "address": "CV33+GX6 Avto Yuma 071, Həsən əliyev Kucəsi, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.854304, 40.430277]
+      },
+      "properties": {
+        "place_id": "ChIJy3V4-GKJMEARaLl7cAssX78",
+        "name": "Hacioglu.detailing",
+        "link": "https://www.google.com/maps/place/Hacioglu.detailing/data=!4m7!3m6!1s0x40308962f87875cb:0xbf5f2c0b707bb968!8m2!3d40.430277!4d49.854304!16s%2Fg%2F11v5vzv0ms!19sChIJy3V4-GKJMEARaLl7cAssX78?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 3,
+        "address": "Hacioglu.detailing, 3123 Suleyman Sani Axundov kucəsi, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.9649413, 40.3854854]
+      },
+      "properties": {
+        "place_id": "ChIJm9c885djMEARBkybLSPI7OI",
+        "name": "AvtoYuma xidmeti",
+        "link": "https://www.google.com/maps/place/AvtoYuma+xidmeti/data=!4m7!3m6!1s0x40306397f33cd79b:0xe2ecc8232d9b4c06!8m2!3d40.3854854!4d49.9649413!16s%2Fg%2F11fkh3gzx1!19sChIJm9c885djMEARBkybLSPI7OI?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 4.7,
+        "reviews": 3,
+        "address": "9XP7+5XW AvtoYuma xidmeti, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.7916836, 40.3975916]
+      },
+      "properties": {
+        "place_id": "ChIJue-BsG6HMEARwUtyn-C_xgE",
+        "name": "Car Wash 200, Auto Yuma",
+        "link": "https://www.google.com/maps/place/Car+Wash+200,+Auto+Yuma/data=!4m7!3m6!1s0x4030876eb081efb9:0x1c6bfe09f724bc1!8m2!3d40.3975916!4d49.7916836!16s%2Fg%2F11fxb55zs9!19sChIJue-BsG6HMEARwUtyn-C_xgE?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 4.0,
+        "reviews": 2,
+        "address": "Car Wash 200, Auto Yuma, 94a Mahammad Khiyabani, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8700709, 40.4081004]
+      },
+      "properties": {
+        "place_id": "ChIJYQfWWlJ9MEARux9FaMjjhA8",
+        "name": "Shark",
+        "link": "https://www.google.com/maps/place/Shark/data=!4m7!3m6!1s0x40307d525ad60761:0xf84e3c868451fbb!8m2!3d40.4081004!4d49.8700709!16s%2Fg%2F1hhvz0wvq!19sChIJYQfWWlJ9MEARux9FaMjjhA8?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 3.5,
+        "reviews": 2,
+        "address": "CV5C+62W Shark, Faig Yusifov, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8419716, 40.385667]
+      },
+      "properties": {
+        "place_id": "ChIJS5yYdHx9MEARMd6VqlnY9uU",
+        "name": "H2O Club",
+        "link": "https://www.google.com/maps/place/H2O+Club/data=!4m7!3m6!1s0x40307d7c74989c4b:0xe5f6d859aa95de31!8m2!3d40.385667!4d49.8419716!16s%2Fg%2F11h6m86n33!19sChIJS5yYdHx9MEARMd6VqlnY9uU?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 2,
+        "address": "H2O Club, 35A Suleyman Rustam Rd, Baku 1022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.7914526, 40.3965468]
+      },
+      "properties": {
+        "place_id": "ChIJLxCyMWmHMEARJ2HHXGeriOg",
+        "name": "PIP Clean Car Wash Moika",
+        "link": "https://www.google.com/maps/place/PIP+Clean+Car+Wash+%D0%9C%D0%BE%D0%B9%D0%BA%D0%B0/data=!4m7!3m6!1s0x4030876931b2102f:0xe888ab675cc76127!8m2!3d40.3965468!4d49.7914526!16s%2Fg%2F11c53n27m1!19sChIJLxCyMWmHMEARJ2HHXGeriOg?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 2,
+        "address": "9QWR+JH8 PIP Clean Car Wash Moika, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8064207, 40.3828761]
+      },
+      "properties": {
+        "place_id": "ChIJx-98FHx9MEARmwl9p3R7bxY",
+        "name": "999 Detailing",
+        "link": "https://www.google.com/maps/place/999+Detailing/data=!4m7!3m6!1s0x40307d7c147cefc7:0x166f7b74a77d099b!8m2!3d40.3828761!4d49.8064207!16s%2Fg%2F11jsztwcdq!19sChIJx-98FHx9MEARmwl9p3R7bxY?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 2,
+        "address": "45, 999 Detailing, 45 Mirali Seyidov, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8617868, 40.4074338]
+      },
+      "properties": {
+        "place_id": "ChIJyZrV0VB9MEAR7lKOWjqJ2dE",
+        "name": "Auto Clean Baku",
+        "link": "https://www.google.com/maps/place/Auto+Clean+Baku/data=!4m7!3m6!1s0x40307d50d1d59ac9:0xd1d9893a5a8e52ee!8m2!3d40.4074338!4d49.8617868!16s%2Fg%2F11h9zm50m4!19sChIJyZrV0VB9MEAR7lKOWjqJ2dE?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 2.5,
+        "reviews": 2,
+        "address": "CV46+XPF Auto Clean Baku, Unnamed Road, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8070187, 40.3761615]
+      },
+      "properties": {
+        "place_id": "ChIJK6acvO59MEARTlX3Mjv3cnA",
+        "name": "Auto Yuma",
+        "link": "https://www.google.com/maps/place/Auto+Yuma/data=!4m7!3m6!1s0x40307deebc9ca62b:0x7072f73b32f7554e!8m2!3d40.3761615!4d49.8070187!16s%2Fg%2F11bbrgfddt!19sChIJK6acvO59MEARTlX3Mjv3cnA?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 3.0,
+        "reviews": 2,
+        "address": "9RG4+FR6 Auto Yuma, Mirali Seyidov, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8098197, 40.3821107]
+      },
+      "properties": {
+        "place_id": "ChIJP0e1POh9MEARaG7Q6Y2v5rQ",
+        "name": "Garage Detailing",
+        "link": "https://www.google.com/maps/place/Garage+Detailing/data=!4m7!3m6!1s0x40307de83cb5473f:0xb4e6af8de9d06e68!8m2!3d40.3821107!4d49.8098197!16s%2Fg%2F11rvds4pq3!19sChIJP0e1POh9MEARaG7Q6Y2v5rQ?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 2,
+        "address": "Garage Detailing, 121 Zahid Xəlilov Kucəsi, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8647703, 40.4068961]
+      },
+      "properties": {
+        "place_id": "ChIJT01iPJ99MEARi4-Qqr8cgpo",
+        "name": "Shine Systems Detailing",
+        "link": "https://www.google.com/maps/place/Shine+Systems+Detailing/data=!4m7!3m6!1s0x40307d9f3c624d4f:0x9a821cbfaa908f8b!8m2!3d40.4068961!4d49.8647703!16s%2Fg%2F11kqffy1v5!19sChIJT01iPJ99MEARi4-Qqr8cgpo?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 3.0,
+        "reviews": 2,
+        "address": "Shine Systems Detailing, 1963 məhəllə, əhməd Rəcəbli, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.81637, 40.4016]
+      },
+      "properties": {
+        "place_id": "ChIJsSYFwouHMEARYzoO2IRo8bE",
+        "name": "50 qəpik moyka",
+        "link": "https://www.google.com/maps/place/50+q%C9%99pik+moyka/data=!4m7!3m6!1s0x4030878bc20526b1:0xb1f16884d80e3a63!8m2!3d40.4016!4d49.81637!16s%2Fg%2F11k528t7zh!19sChIJsSYFwouHMEARYzoO2IRo8bE?authuser=0&hl=az&rclk=1",
+        "main_category": "",
+        "categories": "",
+        "rating": 3.0,
+        "reviews": 2,
+        "address": "50 qəpik moyka, 53 Abdulvahab Salamzade, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8170764, 40.4202207]
+      },
+      "properties": {
+        "place_id": "ChIJL6fXnriHMEARiC7mqSOBdvQ",
+        "name": "Avto Yuma",
+        "link": "https://www.google.com/maps/place/Avto+Yuma/data=!4m7!3m6!1s0x403087b89ed7a72f:0xf4768123a9e62e88!8m2!3d40.4202207!4d49.8170764!16s%2Fg%2F11g70x5r0d!19sChIJL6fXnriHMEARiC7mqSOBdvQ?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 3.0,
+        "reviews": 2,
+        "address": "Avto Yuma, 37 A Alisgandar Isgandarov, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8212462, 40.3978909]
+      },
+      "properties": {
+        "place_id": "ChIJA0DERJWHMEARAwq1gAkIPWQ",
+        "name": "Avtomoyka Seyid",
+        "link": "https://www.google.com/maps/place/Avtomoyka+Seyid/data=!4m7!3m6!1s0x4030879544c44003:0x643d080980b50a03!8m2!3d40.3978909!4d49.8212462!16s%2Fg%2F11vc96m7sc!19sChIJA0DERJWHMEARAwq1gAkIPWQ?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 2,
+        "address": "9RXC+5F5 Avtomoyka Seyid, Azər əliyev, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.9801232, 40.3860574]
+      },
+      "properties": {
+        "place_id": "ChIJlcK_hX5jMEARRjyHqkGAOQw",
+        "name": "Avto Yuma Car Wash",
+        "link": "https://www.google.com/maps/place/Avto+Yuma+Car+Wash/data=!4m7!3m6!1s0x4030637e85bfc295:0xc398041aa873c46!8m2!3d40.3860574!4d49.9801232!16s%2Fg%2F11g72wzvlk!19sChIJlcK_hX5jMEARRjyHqkGAOQw?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 4.0,
+        "reviews": 2,
+        "address": "9XPJ+C2H Avto Yuma Car Wash, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8321034, 40.4175148]
+      },
+      "properties": {
+        "place_id": "ChIJuWX3LF6HMEARkO097bsx2Lk",
+        "name": "Avtoyuma- Premium rich auto",
+        "link": "https://www.google.com/maps/place/Avtoyuma-+Premium+rich+auto/data=!4m7!3m6!1s0x4030875e2cf765b9:0xb9d831bbed3ded90!8m2!3d40.4175148!4d49.8321034!16s%2Fg%2F11l1l90rwd!19sChIJuWX3LF6HMEARkO097bsx2Lk?authuser=0&hl=az&rclk=1",
+        "main_category": "Self Servis Oto Yikama",
+        "categories": "Self Servis Oto Yikama",
+        "rating": 5.0,
+        "reviews": 2,
+        "address": "Avtoyuma- Premium rich auto, OBA MTK binalarinin yani, Cəfər Xəndan, Baki 1117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8324565, 40.3815072]
+      },
+      "properties": {
+        "place_id": "ChIJS9GeSRB9MEARD9EZHZ4FUvM",
+        "name": "Moyka",
+        "link": "https://www.google.com/maps/place/Moyka/data=!4m7!3m6!1s0x40307d10499ed14b:0xf352059e1d19d10f!8m2!3d40.3815072!4d49.8324565!16s%2Fg%2F11tc7jww92!19sChIJS9GeSRB9MEARD9EZHZ4FUvM?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 2,
+        "address": "9RJJ+JX4 Moyka, Jalil Mammadguluzadeh, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8212974, 40.3918563]
+      },
+      "properties": {
+        "place_id": "ChIJE1aBqr19MEARGZR53DZTASI",
+        "name": "Raufun moykasi",
+        "link": "https://www.google.com/maps/place/Raufun+moykas%C4%B1/data=!4m7!3m6!1s0x40307dbdaa815613:0x22015336dc799419!8m2!3d40.3918563!4d49.8212974!16s%2Fg%2F11svbrc2lr!19sChIJE1aBqr19MEARGZR53DZTASI?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 2.5,
+        "reviews": 2,
+        "address": "9RRC+MJ4 Raufun moykasi, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8437537, 40.4115958]
+      },
+      "properties": {
+        "place_id": "ChIJ4xfyr3-HMEARUwX5vOC9wQc",
+        "name": "\"Yu Moto\" Yuyucu",
+        "link": "https://www.google.com/maps/place/%22Yu+Moto%22+Yuyucu/data=!4m7!3m6!1s0x4030877faff217e3:0x7c1bde0bcf90553!8m2!3d40.4115958!4d49.8437537!16s%2Fg%2F11gyc1t4sf!19sChIJ4xfyr3-HMEARUwX5vOC9wQc?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 3.0,
+        "reviews": 2,
+        "address": "CR6V+JGJ \"Yu Moto\" Yuyucu, Unnamed Road, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.7935246, 40.4217265]
+      },
+      "properties": {
+        "place_id": "ChIJ35ZfuniHMEARynfuPK1Zf2E",
+        "name": "Avtoyuma",
+        "link": "https://www.google.com/maps/place/Avtoyuma/data=!4m7!3m6!1s0x40308778ba5f96df:0x617f59ad3cee77ca!8m2!3d40.4217265!4d49.7935246!16s%2Fg%2F11v3_vc6qc!19sChIJ35ZfuniHMEARynfuPK1Zf2E?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 2,
+        "address": "Avtoyuma, Azərbaycan, Baki, Avtovagzal, 1-ci, 221 motodron dongəsi, Baki 1005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8881738, 40.3908225]
+      },
+      "properties": {
+        "place_id": "ChIJsz0waS99MEAR4S0gtuDczx8",
+        "name": "Avtomoyka",
+        "link": "https://www.google.com/maps/place/Avtomoyka/data=!4m7!3m6!1s0x40307d2f69303db3:0x1fcfdce0b6202de1!8m2!3d40.3908225!4d49.8881738!16s%2Fg%2F11dxs54rss!19sChIJsz0waS99MEAR4S0gtuDczx8?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 2,
+        "address": "9VRQ+87F Avtomoyka, Babak Pros, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8180789, 40.3974895]
+      },
+      "properties": {
+        "place_id": "ChIJ2Rqwe3-HMEAR5BEUg_nd76E",
+        "name": "Rise Avtoyuyucu",
+        "link": "https://www.google.com/maps/place/Rise+Avtoyuyucu/data=!4m7!3m6!1s0x4030877f7bb01ad9:0xa1efddf9831411e4!8m2!3d40.3974895!4d49.8180789!16s%2Fg%2F1pv00zdg6!19sChIJ2Rqwe3-HMEAR5BEUg_nd76E?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 2,
+        "address": "9RW9+X6W Rise Avtoyuyucu, Rise yasayis kompleksi daxili yol, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8948245, 40.3920092]
+      },
+      "properties": {
+        "place_id": "ChIJf8RXCqV9MEARfBULGZoVpf4",
+        "name": "Avto yuma (Moyka)",
+        "link": "https://www.google.com/maps/place/Avto+yuma+%28Moyka%29/data=!4m7!3m6!1s0x40307da50a57c47f:0xfea5159a190b157c!8m2!3d40.3920092!4d49.8948245!16s%2Fg%2F11swzz9pkj!19sChIJf8RXCqV9MEARfBULGZoVpf4?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 4.0,
+        "reviews": 1,
+        "address": "9VRV+RW4 Avto yuma (Moyka), Məsədi Hilal Kazimov, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.861438, 40.385307]
+      },
+      "properties": {
+        "place_id": "ChIJHa1x_rl9MEARPr1qqpZClxs",
+        "name": "Monza Detailing Baku",
+        "link": "https://www.google.com/maps/place/Monza+Detailing+Baku/data=!4m7!3m6!1s0x40307db9fe71ad1d:0x1b974296aa6abd3e!8m2!3d40.385307!4d49.861438!16s%2Fg%2F11twqwgg8y!19sChIJHa1x_rl9MEARPr1qqpZClxs?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "Monza Detailing Baku, 8-ci zavod, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8234302, 40.3791082]
+      },
+      "properties": {
+        "place_id": "ChIJQWP2Mz19MEARoKg4WG5k4f0",
+        "name": "Avtoyuma",
+        "link": "https://www.google.com/maps/place/Avtoyuma/data=!4m7!3m6!1s0x40307d3d33f66341:0xfde1646e5838a8a0!8m2!3d40.3791082!4d49.8234302!16s%2Fg%2F11sct0kv7y!19sChIJQWP2Mz19MEARoKg4WG5k4f0?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 4.0,
+        "reviews": 1,
+        "address": "9RHF+Q9R Avtoyuma, Balababa Majidov St, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.872353, 40.4099663]
+      },
+      "properties": {
+        "place_id": "ChIJycKviKd9MEAR8A7BIagXbFo",
+        "name": "Avtoyuma",
+        "link": "https://www.google.com/maps/place/Avtoyuma/data=!4m7!3m6!1s0x40307da788afc2c9:0x5a6c17a821c10ef0!8m2!3d40.4099663!4d49.872353!16s%2Fg%2F11rzbkk7hp!19sChIJycKviKd9MEAR8A7BIagXbFo?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 1.0,
+        "reviews": 1,
+        "address": "CV5C+XWQ Avtoyuma, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8865443, 40.3815764]
+      },
+      "properties": {
+        "place_id": "ChIJ1atcDkp9MEARAlN0AKN20YE",
+        "name": "White City Car Wash",
+        "link": "https://www.google.com/maps/place/White+City+Car+Wash/data=!4m7!3m6!1s0x40307d4a0e5cabd5:0x81d176a300745302!8m2!3d40.3815764!4d49.8865443!16s%2Fg%2F11j_0ysh5q!19sChIJ1atcDkp9MEARAlN0AKN20YE?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "White City Car Wash, 1-ci fəvvarələr kucəsi, Baki 2002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8700544, 40.4081282]
+      },
+      "properties": {
+        "place_id": "ChIJo6cq2Ap9MEARN-E1nkRa-FY",
+        "name": "AvtoYuma 030",
+        "link": "https://www.google.com/maps/place/AvtoYuma+030/data=!4m7!3m6!1s0x40307d0ad82aa7a3:0x56f85a449e35e137!8m2!3d40.4081282!4d49.8700544!16s%2Fg%2F11svcght4h!19sChIJo6cq2Ap9MEARN-E1nkRa-FY?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "CV5C+723 AvtoYuma 030, Faig Yusifov, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8612773, 40.3789427]
+      },
+      "properties": {
+        "place_id": "ChIJgaBrV7F9MEAR1ltB20RcD10",
+        "name": "Avtoyuma",
+        "link": "https://www.google.com/maps/place/Avtoyuma/data=!4m7!3m6!1s0x40307db1576ba081:0x5d0f5c44db415bd6!8m2!3d40.3789427!4d49.8612773!16s%2Fg%2F11smdj9114!19sChIJgaBrV7F9MEAR1ltB20RcD10?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "Avtoyuma, 249a Nizami St, Baku 1010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8153353, 40.3688726]
+      },
+      "properties": {
+        "place_id": "ChIJSZouI5l9MEAR53T1FmFwvsI",
+        "name": "Avto Yuyucu",
+        "link": "https://www.google.com/maps/place/Avto+Yuyucu/data=!4m7!3m6!1s0x40307d99232e9a49:0xc2be706116f574e7!8m2!3d40.3688726!4d49.8153353!16s%2Fg%2F11s9nprxvl!19sChIJSZouI5l9MEAR53T1FmFwvsI?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 4.0,
+        "reviews": 1,
+        "address": "9R98+G4W Avto Yuyucu, Ayna Sultanova, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8275921, 40.39585]
+      },
+      "properties": {
+        "place_id": "ChIJPyOcRvZ9MEAROI_xoIwll94",
+        "name": "ARES Detailing Center",
+        "link": "https://www.google.com/maps/place/ARES+Detailing+Center/data=!4m7!3m6!1s0x40307df6469c233f:0xde97258ca0f18f38!8m2!3d40.39585!4d49.8275921!16s%2Fg%2F11rv97j7rz!19sChIJPyOcRvZ9MEAROI_xoIwll94?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "ARES Detailing Center, 89 Cəlil Məmmədquluzadə kucəsi, Baki 1078"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.7926438, 40.3990335]
+      },
+      "properties": {
+        "place_id": "ChIJbz6-UZyHMEARgMlvAqzz0fY",
+        "name": "3 Manatliq Moyka",
+        "link": "https://www.google.com/maps/place/3+Manatliq+Moyka/data=!4m7!3m6!1s0x4030879c51be3e6f:0xf6d1f3ac026fc980!8m2!3d40.3990335!4d49.7926438!16s%2Fg%2F11jsf7rbyn!19sChIJbz6-UZyHMEARgMlvAqzz0fY?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "3 Manatliq Moyka, 202A Mahammad Khiyabani, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8241148, 40.374996]
+      },
+      "properties": {
+        "place_id": "ChIJ1cpYQNJ9MEAR3L0GTYAnixg",
+        "name": "Trust Auto Wash",
+        "link": "https://www.google.com/maps/place/Trust+Auto+Wash/data=!4m7!3m6!1s0x40307dd24058cad5:0x188b27804d06bddc!8m2!3d40.374996!4d49.8241148!16s%2Fg%2F11rylt5wj3!19sChIJ1cpYQNJ9MEAR3L0GTYAnixg?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "Trust Auto Wash, 127 Nariman Narimanov Ave, Baku 1006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8201744, 40.3977586]
+      },
+      "properties": {
+        "place_id": "ChIJ98VatVyHMEARFwYV3TVOMwA",
+        "name": "QARAJ 085 AVTOYUMA",
+        "link": "https://www.google.com/maps/place/QARAJ+085+AVTOYUMA/data=!4m7!3m6!1s0x4030875cb55ac5f7:0x334e35dd150617!8m2!3d40.3977586!4d49.8201744!16s%2Fg%2F11vc2m6xy4!19sChIJ98VatVyHMEARFwYV3TVOMwA?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "QARAJ 085 AVTOYUMA, 57b Azər əliyev, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8723184, 40.3892753]
+      },
+      "properties": {
+        "place_id": "ChIJATr0jSd9MEARFgsCLOUHr9U",
+        "name": "Car Cube Premium Detailing",
+        "link": "https://www.google.com/maps/place/Car+Cube+Premium+Detailing/data=!4m7!3m6!1s0x40307d278df43a01:0xd5af07e52c020b16!8m2!3d40.3892753!4d49.8723184!16s%2Fg%2F11jzfm827f!19sChIJATr0jSd9MEARFgsCLOUHr9U?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "9VQF+P4V Car Cube Premium Detailing, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8376455, 40.4155471]
+      },
+      "properties": {
+        "place_id": "ChIJ90hGKdaHMEAR4iYNFpZqjDA",
+        "name": "Car spa",
+        "link": "https://www.google.com/maps/place/Car+spa/data=!4m7!3m6!1s0x403087d6294648f7:0x308c6a96160d26e2!8m2!3d40.4155471!4d49.8376455!16s%2Fg%2F11t77hzx9b!19sChIJ90hGKdaHMEAR4iYNFpZqjDA?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "Car spa, 32 əcəmi Naxcivani, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8507167, 40.411125]
+      },
+      "properties": {
+        "place_id": "ChIJNZFxXlqHMEARq1z1-I2gwwQ",
+        "name": "Avto Yuma",
+        "link": "https://www.google.com/maps/place/Avto+Yuma/data=!4m7!3m6!1s0x4030875a5e719135:0x4c3a08df8f55cab!8m2!3d40.411125!4d49.8507167!16s%2Fg%2F11sx55cssp!19sChIJNZFxXlqHMEARq1z1-I2gwwQ?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "CV62+55 Avto Yuma, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8352142, 40.3863314]
+      },
+      "properties": {
+        "place_id": "ChIJB4YpbJ59MEARg0fBD0k-n1s",
+        "name": "Avtoyuyucu",
+        "link": "https://www.google.com/maps/place/Avtoyuyucu/data=!4m7!3m6!1s0x40307d9e6c298607:0x5b9f3e490fc14783!8m2!3d40.3863314!4d49.8352142!16s%2Fg%2F119w6q15j!19sChIJB4YpbJ59MEARg0fBD0k-n1s?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "9RPP+G3P Avtoyuyucu, Mərdanov Qardaslari, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8718632, 40.427429]
+      },
+      "properties": {
+        "place_id": "ChIJZ-YiB9CJMEAR1MW1sZINnGg",
+        "name": "50 qepik dernegul",
+        "link": "https://www.google.com/maps/place/50+qepik+dernegul/data=!4m7!3m6!1s0x403089d00722e667:0x689c0d92b1b5c5d4!8m2!3d40.427429!4d49.8718632!16s%2Fg%2F11l289mrkm!19sChIJZ-YiB9CJMEAR1MW1sZINnGg?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "CVHC+7V5 50 qepik dernegul, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.9356347, 40.3979243]
+      },
+      "properties": {
+        "place_id": "ChIJaUp6qABjMEAR2DrP8ZQXyuc",
+        "name": "Avtomobil yuma (moyka)",
+        "link": "https://www.google.com/maps/place/Avtomobil+yuma+%28moyka%29/data=!4m7!3m6!1s0x40306300a87a4a69:0xe7ca1794f1cf3ad8!8m2!3d40.3979243!4d49.9356347!16s%2Fg%2F11stj90rg2!19sChIJaUp6qABjMEAR2DrP8ZQXyuc?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "9WXP+588 Avtomobil yuma (moyka), 2403 Mikayil Aliyev, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8670924, 40.4092617]
+      },
+      "properties": {
+        "place_id": "ChIJV1YIb219MEARZzUem4ohsOQ",
+        "name": "BOSS detailing",
+        "link": "https://www.google.com/maps/place/BOSS+detailing/data=!4m7!3m6!1s0x40307d6d6f085657:0xe4b0218a9b1e3567!8m2!3d40.4092617!4d49.8670924!16s%2Fg%2F11ryqrc0bw!19sChIJV1YIb219MEARZzUem4ohsOQ?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "CV58+PR4 BOSS detailing, Baki 1052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.836803, 40.4224929]
+      },
+      "properties": {
+        "place_id": "ChIJ5y6HF36HMEAR3nwDvVwBgtw",
+        "name": "Avto Yuma",
+        "link": "https://www.google.com/maps/place/Avto+Yuma/data=!4m7!3m6!1s0x4030877e17872ee7:0xdc82015cbd037cde!8m2!3d40.4224929!4d49.836803!16s%2Fg%2F11svqdwpyp!19sChIJ5y6HF36HMEAR3nwDvVwBgtw?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "CRFP+4P4 Avto Yuma, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8574345, 40.3829772]
+      },
+      "properties": {
+        "place_id": "ChIJ3zyU3K19MEARzGSKAAAnwts",
+        "name": "Qardaslar avto yuma",
+        "link": "https://www.google.com/maps/place/Qarda%C5%9Flar+avto+yuma/data=!4m7!3m6!1s0x40307daddc943cdf:0xdbc22700008a64cc!8m2!3d40.3829772!4d49.8574345!16s%2Fg%2F11vhj2rw1t!19sChIJ3zyU3K19MEARzGSKAAAnwts?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "Qardaslar avto yuma, 44 Keykab Khanim Safaraliyeva, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8315734, 40.3995768]
+      },
+      "properties": {
+        "place_id": "ChIJU6COP4h9MEARPXQnoAFqSJg",
+        "name": "Moyka",
+        "link": "https://www.google.com/maps/place/Moyka/data=!4m7!3m6!1s0x40307d883f8ea053:0x98486a01a027743d!8m2!3d40.3995768!4d49.8315734!16s%2Fg%2F11t81nsf3p!19sChIJU6COP4h9MEARPXQnoAFqSJg?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "Moyka, 941 Səməd Vurgun, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.9108796, 40.3865063]
+      },
+      "properties": {
+        "place_id": "ChIJTzrf8nJ9MEAR8_EgBjAH2F0",
+        "name": "Lux wash",
+        "link": "https://www.google.com/maps/place/Lux+wash/data=!4m7!3m6!1s0x40307d72f2df3a4f:0x5dd807300620f1f3!8m2!3d40.3865063!4d49.9108796!16s%2Fg%2F11jz6lmctf!19sChIJTzrf8nJ9MEAR8_EgBjAH2F0?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "9WP6+J92 Lux wash, Rəsid Bagirov kucəsi, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8452557, 40.4120336]
+      },
+      "properties": {
+        "place_id": "ChIJx9KExwaHMEARv1okuEq4FWI",
+        "name": "REKA Avtoyuma",
+        "link": "https://www.google.com/maps/place/REKA+Avtoyuma/data=!4m7!3m6!1s0x40308706c784d2c7:0x6215b84ab8245abf!8m2!3d40.4120336!4d49.8452557!16s%2Fg%2F11fjw0fw41!19sChIJx9KExwaHMEARv1okuEq4FWI?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "REKA Avtoyuma, 52 Ibrahimpasa Dadasov, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.9160292, 40.3920846]
+      },
+      "properties": {
+        "place_id": "ChIJg7yJmedjMEARsP_M3gp28jk",
+        "name": "CarCube Premium Detailing",
+        "link": "https://www.google.com/maps/place/CarCube+Premium+Detailing/data=!4m7!3m6!1s0x403063e79989bc83:0x39f2760adeccffb0!8m2!3d40.3920846!4d49.9160292!16s%2Fg%2F11tjzp2tx0!19sChIJg7yJmedjMEARsP_M3gp28jk?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "9WR8+RCJ CarCube Premium Detailing, Babək Prospekti, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.889188, 40.38977]
+      },
+      "properties": {
+        "place_id": "ChIJUz8vbep9MEARgKr2yuYjktI",
+        "name": "Rəsad Avtoyuma",
+        "link": "https://www.google.com/maps/place/R%C9%99%C5%9Fad+Avtoyuma/data=!4m7!3m6!1s0x40307dea6d2f3f53:0xd29223e6caf6aa80!8m2!3d40.38977!4d49.889188!16s%2Fg%2F11y1wsbsy9!19sChIJUz8vbep9MEARgKr2yuYjktI?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "9VQQ+VFP Rəsad Avtoyuma, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8399789, 40.414117]
+      },
+      "properties": {
+        "place_id": "ChIJA9h-0XWHMEARvoK9gGvR-es",
+        "name": "Andrey Avto yuma",
+        "link": "https://www.google.com/maps/place/Andrey+Avto+yuma/data=!4m7!3m6!1s0x40308775d17ed803:0xebf9d16b80bd82be!8m2!3d40.414117!4d49.8399789!16s%2Fg%2F11hz6mzn_2!19sChIJA9h-0XWHMEARvoK9gGvR-es?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "Andrey Avto yuma, 35 əcəmi Naxcivani, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8797969, 40.4308125]
+      },
+      "properties": {
+        "place_id": "ChIJjbD6GEuJMEAR5WDOr7ZeP0E",
+        "name": "FHN Yuma Deqazasiya Mərkəzi",
+        "link": "https://www.google.com/maps/place/FHN+Yuma+Deqazasiya+M%C9%99rk%C9%99zi/data=!4m7!3m6!1s0x4030894b18fab08d:0x413f5eb6afce60e5!8m2!3d40.4308125!4d49.8797969!16s%2Fg%2F11jz9tjp1s!19sChIJjbD6GEuJMEAR5WDOr7ZeP0E?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "CVJH+8WF FHN Yuma Deqazasiya Mərkəzi, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.9296792, 40.4218838]
+      },
+      "properties": {
+        "place_id": "ChIJkblBDWBiMEARLsMkzRA8aRk",
+        "name": "Car Wash Moyka",
+        "link": "https://www.google.com/maps/place/Car+Wash+Moyka/data=!4m7!3m6!1s0x403062600d41b991:0x19693c10cd24c32e!8m2!3d40.4218838!4d49.9296792!16s%2Fg%2F11c6dl6tqn!19sChIJkblBDWBiMEARLsMkzRA8aRk?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 4.0,
+        "reviews": 1,
+        "address": "CWCH+QV3 Car Wash Moyka, Rizvan Teymurov Street, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.9304815, 40.4445831]
+      },
+      "properties": {
+        "place_id": "ChIJkeESVAuJMEAR0Vuz0sE8wRc",
+        "name": "əcəmi 2",
+        "link": "https://www.google.com/maps/place/%C6%8Fc%C9%99mi+2/data=!4m7!3m6!1s0x4030890b5412e191:0x17c13cc1d2b35bd1!8m2!3d40.4445831!4d49.9304815!16s%2Fg%2F11sc70bmj2!19sChIJkeESVAuJMEAR0Vuz0sE8wRc?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "CWWJ+333 əcəmi 2, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8204489, 40.396447]
+      },
+      "properties": {
+        "place_id": "ChIJnw3unPGHMEARMjG5lCDyWg8",
+        "name": "Ayxan avtoMOYKA",
+        "link": "https://www.google.com/maps/place/Ayxan+avtoMOYKA/data=!4m7!3m6!1s0x403087f19cee0d9f:0xf5af22094b93132!8m2!3d40.396447!4d49.8204489!16s%2Fg%2F11s5gs9l1f!19sChIJnw3unPGHMEARMjG5lCDyWg8?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "9RWC+H5G Ayxan avtoMOYKA, Həsən əliyev Kucəsi, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8814086, 40.4006319]
+      },
+      "properties": {
+        "place_id": "ChIJR7vB2ct9MEARnro0I7NyewY",
+        "name": "PRO Montin Avtoyuma",
+        "link": "https://www.google.com/maps/place/PRO+Montin+Avtoyuma/data=!4m7!3m6!1s0x40307dcbd9c1bb47:0x67b72b32334ba9e!8m2!3d40.4006319!4d49.8814086!16s%2Fg%2F11s32wt57m!19sChIJR7vB2ct9MEARnro0I7NyewY?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 1.0,
+        "reviews": 1,
+        "address": "PRO Montin Avtoyuma, 34-40 əliyar əliyev, Baki 1005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8187156, 40.4159101]
+      },
+      "properties": {
+        "place_id": "ChIJ_UZ0q1KHMEARc2DrktF1ncY",
+        "name": "Sadiqin Moykasi",
+        "link": "https://www.google.com/maps/place/Sadiqin+Moykas%C4%B1/data=!4m7!3m6!1s0x40308752ab7446fd:0xc69d75d192eb6073!8m2!3d40.4159101!4d49.8187156!16s%2Fg%2F11sw2ssjcl!19sChIJ_UZ0q1KHMEARc2DrktF1ncY?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "CR89+8FW Sadiqin Moykasi, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8102561, 40.4192489]
+      },
+      "properties": {
+        "place_id": "ChIJ2XFFPqCHMEAR7KtWX76upNg",
+        "name": "Avto Yuma 555",
+        "link": "https://www.google.com/maps/place/Avto+Yuma+555/data=!4m7!3m6!1s0x403087a03e4571d9:0xd8a4aebe5f56abec!8m2!3d40.4192489!4d49.8102561!16s%2Fg%2F11sbd_6b75!19sChIJ2XFFPqCHMEAR7KtWX76upNg?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 1,
+        "address": "Avto Yuma 555, 34 Mir Cəlal, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8906341, 40.3967939]
+      },
+      "properties": {
+        "place_id": "ChIJ7eBaY6p9MEARUUuFeYc4TDo",
+        "name": "Stardetailing",
+        "link": "https://www.google.com/maps/place/Stardetailing/data=!4m7!3m6!1s0x40307daa635ae0ed:0x3a4c388779854b51!8m2!3d40.3967939!4d49.8906341!16s%2Fg%2F11txhp2cd0!19sChIJ7eBaY6p9MEARUUuFeYc4TDo?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "Stardetailing, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8800014, 40.4041889]
+      },
+      "properties": {
+        "place_id": "ChIJ8QqiCeV9MEARBNAzUKCJnaI",
+        "name": "Molecule Carwash",
+        "link": "https://www.google.com/maps/place/Molecule+Carwash/data=!4m7!3m6!1s0x40307de509a20af1:0xa29d89a05033d004!8m2!3d40.4041889!4d49.8800014!16s%2Fg%2F11l211mxqd!19sChIJ8QqiCeV9MEARBNAzUKCJnaI?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "Molecule Carwash, 20 Aliyar Aliyev, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8380013, 40.3873103]
+      },
+      "properties": {
+        "place_id": "ChIJo8ZKDZJ9MEARHDpOouT_11s",
+        "name": "Detail CarWash Baku",
+        "link": "https://www.google.com/maps/place/Detail+CarWash+Baku/data=!4m7!3m6!1s0x40307d920d4ac6a3:0x5bd7ffe4a24e3a1c!8m2!3d40.3873103!4d49.8380013!16s%2Fg%2F11scfp1rzt!19sChIJo8ZKDZJ9MEARHDpOouT_11s?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "Detail CarWash Baku, 90 Səməd Vurgun, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8673726, 40.3789947]
+      },
+      "properties": {
+        "place_id": "ChIJa2khOJl9MEARdVa9xp2kLSE",
+        "name": "CarBath.az",
+        "link": "https://www.google.com/maps/place/CarBath.az/data=!4m7!3m6!1s0x40307d993821696b:0x212da49dc6bd5675!8m2!3d40.3789947!4d49.8673726!16s%2Fg%2F11flf5stm8!19sChIJa2khOJl9MEARdVa9xp2kLSE?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "CarBath.az, 11 Afiyaddin Jalilov Street, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8835608, 40.3847084]
+      },
+      "properties": {
+        "place_id": "ChIJK3biwSF9MEAR00GfE2gaCeE",
+        "name": "Balina Carwash",
+        "link": "https://www.google.com/maps/place/Balina+Carwash/data=!4m7!3m6!1s0x40307d21c1e2762b:0xe1091a68139f41d3!8m2!3d40.3847084!4d49.8835608!16s%2Fg%2F11vkdm84kn!19sChIJK3biwSF9MEAR00GfE2gaCeE?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "Balina Carwash, 3 Mərkəzi Bulvar, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8440324, 40.4100478]
+      },
+      "properties": {
+        "place_id": "ChIJsw8ZwhqHMEARmqEL6EdW6vs",
+        "name": "Wash_No1",
+        "link": "https://www.google.com/maps/place/Wash_No1/data=!4m7!3m6!1s0x4030871ac2190fb3:0xfbea5647e80ba19a!8m2!3d40.4100478!4d49.8440324!16s%2Fg%2F11sy71sftq!19sChIJsw8ZwhqHMEARmqEL6EdW6vs?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "Wash_No1, 50 Ibrahimpasa Dadasov, Baki 1069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.9068136, 40.3914582]
+      },
+      "properties": {
+        "place_id": "ChIJFVxoPjdjMEARcAXVEth1nL0",
+        "name": "Pax Makina Azerbaijan",
+        "link": "https://www.google.com/maps/place/Pax+Makina+Azerbaijan/data=!4m7!3m6!1s0x403063373e685c15:0xbd9c75d812d50570!8m2!3d40.3914582!4d49.9068136!16s%2Fg%2F11qb86k5h7!19sChIJFVxoPjdjMEARcAXVEth1nL0?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "Pax Makina Azerbaijan, Nizami Rayonu, Babək Prospekti, 39 Q, Baki 1001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8442024, 40.4168837]
+      },
+      "properties": {
+        "place_id": "ChIJW_-BbOWHMEARi4IEZDgPx98",
+        "name": "Baku Car Wash",
+        "link": "https://www.google.com/maps/place/Baku+Car+Wash/data=!4m7!3m6!1s0x403087e56c81ff5b:0xdfc70f386404828b!8m2!3d40.4168837!4d49.8442024!16s%2Fg%2F11f3zdyrpf!19sChIJW_-BbOWHMEARi4IEZDgPx98?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "Baku Car Wash, 13 Ajami Nakhchivani, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8073464, 40.4114051]
+      },
+      "properties": {
+        "place_id": "ChIJS3KjM7SHMEARFz_KzY3P5aM",
+        "name": "Car wash",
+        "link": "https://www.google.com/maps/place/Car+wash/data=!4m7!3m6!1s0x403087b433a3724b:0xa3e5cf8dcdca3f17!8m2!3d40.4114051!4d49.8073464!16s%2Fg%2F11j99jg3hv!19sChIJS3KjM7SHMEARFz_KzY3P5aM?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "Car wash, 4a 20th January, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8680122, 40.3797758]
+      },
+      "properties": {
+        "place_id": "ChIJFTS2ZZR9MEAR3h5Gp9caAhY",
+        "name": "Car Wash Zone",
+        "link": "https://www.google.com/maps/place/Car+Wash+Zone/data=!4m7!3m6!1s0x40307d9465b63415:0x16021ad7a7461ede!8m2!3d40.3797758!4d49.8680122!16s%2Fg%2F11spwsl108!19sChIJFTS2ZZR9MEAR3h5Gp9caAhY?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "9VH9+W66 Car Wash Zone, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8138155, 40.3975751]
+      },
+      "properties": {
+        "place_id": "ChIJLzxa8yeHMEARwal726944ac",
+        "name": "AJK Avto Yuma ( AJK Car Wash )",
+        "link": "https://www.google.com/maps/place/AJK+Avto+Yuma+%28+AJK+Car+Wash+%29/data=!4m7!3m6!1s0x40308727f35a3c2f:0xa7e178afdb7ba9c1!8m2!3d40.3975751!4d49.8138155!16s%2Fg%2F11shx82fpr!19sChIJLzxa8yeHMEARwal726944ac?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "9RX7+2GP AJK Avto Yuma ( AJK Car Wash ), Tbilisi avenue, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.9603968, 40.3640731]
+      },
+      "properties": {
+        "place_id": "ChIJwUFk9bFkMEARDP0z50DS4xg",
+        "name": "Car Wash",
+        "link": "https://www.google.com/maps/place/Car+Wash/data=!4m7!3m6!1s0x403064b1f56441c1:0x18e3d240e733fd0c!8m2!3d40.3640731!4d49.9603968!16s%2Fg%2F11g68_548x!19sChIJwUFk9bFkMEARDP0z50DS4xg?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "Car Wash, 41 Ganja Ave, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8672159, 40.3889635]
+      },
+      "properties": {
+        "place_id": "ChIJyftc-Dt9MEARLF5qehJf4KE",
+        "name": "Quantum Car Wash - Baku - Azerbaijan",
+        "link": "https://www.google.com/maps/place/Quantum+Car+Wash+-+Baku+-+Azerbaijan/data=!4m7!3m6!1s0x40307d3bf85cfbc9:0xa1e05f127a6a5e2c!8m2!3d40.3889635!4d49.8672159!16s%2Fg%2F11v5g609tj!19sChIJyftc-Dt9MEARLF5qehJf4KE?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "9VQ8+HV Quantum Car Wash - Baku - Azerbaijan, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8235558, 40.3833299]
+      },
+      "properties": {
+        "place_id": "ChIJVZ_WlUx9MEARXsL9qbZxhyE",
+        "name": "Car Wash 76",
+        "link": "https://www.google.com/maps/place/Car+Wash+76/data=!4m7!3m6!1s0x40307d4c95d69f55:0x218771b6a9fdc25e!8m2!3d40.3833299!4d49.8235558!16s%2Fg%2F11vl0ngd3b!19sChIJVZ_WlUx9MEARXsL9qbZxhyE?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "Car Wash 76, 2 Basti Baghirova Street, Baku 1065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8300613, 40.3841941]
+      },
+      "properties": {
+        "place_id": "ChIJa6MvMF99MEARRhCgbSnuOI0",
+        "name": "Avto Yuma / Moika",
+        "link": "https://www.google.com/maps/place/Avto+Yuma+%2F+%D0%9C%D0%BE%D0%B9%D0%BA%D0%B0/data=!4m7!3m6!1s0x40307d5f302fa36b:0x8d38ee296da01046!8m2!3d40.3841941!4d49.8300613!16s%2Fg%2F11gmwhg7kb!19sChIJa6MvMF99MEARRhCgbSnuOI0?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "9RMJ+M2F Avto Yuma / Moika, Zivarbey Ahmadbeyov Street, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8599539, 40.400462]
+      },
+      "properties": {
+        "place_id": "ChIJgfHKd419MEAR5S4GqlHp_Jw",
+        "name": "Car Wash",
+        "link": "https://www.google.com/maps/place/Car+Wash/data=!4m7!3m6!1s0x40307d8d77caf181:0x9cfce951aa062ee5!8m2!3d40.400462!4d49.8599539!16s%2Fg%2F11vf72f3_v!19sChIJgfHKd419MEAR5S4GqlHp_Jw?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "CV25+5XP Car Wash, Koroglu Rəhimov kucəsi, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8157595, 40.4265493]
+      },
+      "properties": {
+        "place_id": "ChIJr2uMwTOHMEARB757oS18bFY",
+        "name": "Auto Wash 600",
+        "link": "https://www.google.com/maps/place/Auto+Wash+600/data=!4m7!3m6!1s0x40308733c18c6baf:0x566c7c2da17bbe07!8m2!3d40.4265493!4d49.8157595!16s%2Fg%2F11q9fv6k_h!19sChIJr2uMwTOHMEARB757oS18bFY?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "CRG8+J86 Auto Wash 600, Adil Məmmədov, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8434968, 40.3750517]
+      },
+      "properties": {
+        "place_id": "ChIJ0zzrJnd9MEARHPsYBgqHCgU",
+        "name": "Sikuze daldanova",
+        "link": "https://www.google.com/maps/place/Sikuze+daldanova/data=!4m7!3m6!1s0x40307d7726eb3cd3:0x50a870a0618fb1c!8m2!3d40.3750517!4d49.8434968!16s%2Fg%2F11l5t7mrc6!19sChIJ0zzrJnd9MEARHPsYBgqHCgU?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "9RGV+29H Sikuze daldanova, 28 May St, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8316482, 40.3839364]
+      },
+      "properties": {
+        "place_id": "ChIJTXa1MJl9MEARA7U53EEY3vg",
+        "name": "333 Avtoyuma",
+        "link": "https://www.google.com/maps/place/333+Avtoyuma/data=!4m7!3m6!1s0x40307d9930b5764d:0xf8de1841dc39b503!8m2!3d40.3839364!4d49.8316482!16s%2Fg%2F11c1p5zzkb!19sChIJTXa1MJl9MEARA7U53EEY3vg?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "9RMJ+HMC 333 Avtoyuma, Jalil Mammadguluzadeh, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.9648003, 40.3663498]
+      },
+      "properties": {
+        "place_id": "ChIJ_b3_2C5lMEARX21OKLO0YQc",
+        "name": "Baku",
+        "link": "https://www.google.com/maps/place/Baku/data=!4m7!3m6!1s0x4030652ed8ffbdfd:0x761b4b3284e6d5f!8m2!3d40.3663498!4d49.9648003!16s%2Fg%2F11tx6gm2bk!19sChIJ_b3_2C5lMEARX21OKLO0YQc?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "Baku, 39A General Sixlinski, Baki 1123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8150333, 40.4041961]
+      },
+      "properties": {
+        "place_id": "ChIJr2c6bXCHMEARLRectpDnFNc",
+        "name": "HM detailing",
+        "link": "https://www.google.com/maps/place/HM+detailing/data=!4m7!3m6!1s0x403087706d3a67af:0xd714e790b69c172d!8m2!3d40.4041961!4d49.8150333!16s%2Fg%2F11txgzr39g!19sChIJr2c6bXCHMEARLRectpDnFNc?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "CR38+M2F HM detailing, Ceyhun Səlimov103, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8643602, 40.406725]
+      },
+      "properties": {
+        "place_id": "ChIJJ5ncnUt9MEAR4HAomxOtMQw",
+        "name": "AutoArtDetailing",
+        "link": "https://www.google.com/maps/place/AutoArtDetailing/data=!4m7!3m6!1s0x40307d4b9ddc9927:0xc31ad139b2870e0!8m2!3d40.406725!4d49.8643602!16s%2Fg%2F11hgjfyj1y!19sChIJJ5ncnUt9MEAR4HAomxOtMQw?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "AutoArtDetailing, MediStyle Hospital, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8164555, 40.4191177]
+      },
+      "properties": {
+        "place_id": "ChIJx4UOdBSHMEARF6wcD4-3dT0",
+        "name": "012 Avto Yuma",
+        "link": "https://www.google.com/maps/place/012+Avto+Yuma/data=!4m7!3m6!1s0x40308714740e85c7:0x3d75b78f0f1cac17!8m2!3d40.4191177!4d49.8164555!16s%2Fg%2F11kq9h6_gp!19sChIJx4UOdBSHMEARF6wcD4-3dT0?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "012 Avto Yuma, 229 Mirmahmud Kazimovski, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8362696, 40.3490299]
+      },
+      "properties": {
+        "place_id": "ChIJTWRoHiR8MEARN7Tce6-9h9w",
+        "name": "Avto Hamam",
+        "link": "https://www.google.com/maps/place/Avto+Hamam/data=!4m7!3m6!1s0x40307c241e68644d:0xdc87bdaf7bdcb437!8m2!3d40.3490299!4d49.8362696!16s%2Fg%2F1thq8blx!19sChIJTWRoHiR8MEARN7Tce6-9h9w?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "8RXP+JG6 Avto Hamam, Mikayil Huseynov Prospekti, Baki 1000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8756974, 40.4074471]
+      },
+      "properties": {
+        "place_id": "ChIJUf3P8qd9MEARPf__q54g1Zc",
+        "name": "Azinko Avtoyuma",
+        "link": "https://www.google.com/maps/place/Azinko+Avtoyuma/data=!4m7!3m6!1s0x40307da7f2cffd51:0x97d5209eabffff3d!8m2!3d40.4074471!4d49.8756974!16s%2Fg%2F11rqx563tj!19sChIJUf3P8qd9MEARPf__q54g1Zc?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "Azinko Avtoyuma, 1-st floor 3-rd building, 26a, 1956-1989 block, AZ1052, Aliyar Aliyev, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8607953, 40.3957612]
+      },
+      "properties": {
+        "place_id": "ChIJ8Z5ooox9MEARu1CV6OKF-gE",
+        "name": "Zibilanoc",
+        "link": "https://www.google.com/maps/place/Zibilanoc/data=!4m7!3m6!1s0x40307d8ca2689ef1:0x1fa85e2e89550bb!8m2!3d40.3957612!4d49.8607953!16s%2Fg%2F11l30hqpgr!19sChIJ8Z5ooox9MEARu1CV6OKF-gE?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "Zibilanoc, 9 Koroghlu Rahimov St, Baki 1072"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.95846, 40.3858776]
+      },
+      "properties": {
+        "place_id": "ChIJgayRESdjMEARnzpaCarX3YU",
+        "name": "Kerbelayi avtoyuma",
+        "link": "https://www.google.com/maps/place/Kerbelayi+avtoyuma/data=!4m7!3m6!1s0x403063271191ac81:0x85ddd7aa095a3a9f!8m2!3d40.3858776!4d49.95846!16s%2Fg%2F11tc_x9rk8!19sChIJgayRESdjMEARnzpaCarX3YU?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "Kerbelayi avtoyuma, 18 Sarayevo, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8136707, 40.4052201]
+      },
+      "properties": {
+        "place_id": "ChIJL9JgovWHMEAR971OKSxMYwk",
+        "name": "Xalil Kral Uzbekistana",
+        "link": "https://www.google.com/maps/place/Xalil+Kral+Uzbekistana/data=!4m7!3m6!1s0x403087f5a260d22f:0x9634c2c294ebdf7!8m2!3d40.4052201!4d49.8136707!16s%2Fg%2F11sbdzg222!19sChIJL9JgovWHMEAR971OKSxMYwk?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "CR47+4FG Xalil Kral Uzbekistana, Cavadxan, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8712258, 40.4093122]
+      },
+      "properties": {
+        "place_id": "ChIJAcm0io19MEARMMJr2tJeDJQ",
+        "name": "Rehimli Home",
+        "link": "https://www.google.com/maps/place/Rehimli+Home/data=!4m7!3m6!1s0x40307d8d8ab4c901:0x940c5ed2da6bc230!8m2!3d40.4093122!4d49.8712258!16s%2Fg%2F11v02yhv9l!19sChIJAcm0io19MEARMMJr2tJeDJQ?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "CV5C+PFH Rehimli Home, Agha Neymatullah, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.839075, 40.426489]
+      },
+      "properties": {
+        "place_id": "ChIJWTbw_zuHMEARfHvCqoFgKao",
+        "name": "Clean Car \"Azadliq\" filiali",
+        "link": "https://www.google.com/maps/place/Clean+Car+%22Azadl%C4%B1q%22+filial%C4%B1/data=!4m7!3m6!1s0x4030873bfff03659:0xaa296081aac27b7c!8m2!3d40.426489!4d49.839075!16s%2Fg%2F11kjq502n1!19sChIJWTbw_zuHMEARfHvCqoFgKao?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "Clean Car \"Azadliq\" filiali, Milli Aerokosmik Agentliyi, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8275739, 40.3366557]
+      },
+      "properties": {
+        "place_id": "ChIJDdClh9d_MEARddpW5Y6Nyfs",
+        "name": "Nano Car Wash",
+        "link": "https://www.google.com/maps/place/Nano+Car+Wash/data=!4m7!3m6!1s0x40307fd787a5d00d:0xfbc98d8ee556da75!8m2!3d40.3366557!4d49.8275739!16s%2Fg%2F11vd6w07zq!19sChIJDdClh9d_MEARddpW5Y6Nyfs?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "8RPG+PR9 Nano Car Wash, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8512957, 40.4188331]
+      },
+      "properties": {
+        "place_id": "ChIJDW4hJD-HMEARdjEC5BnAcQY",
+        "name": "Avto yuma",
+        "link": "https://www.google.com/maps/place/Avto+yuma/data=!4m7!3m6!1s0x4030873f24216e0d:0x671c019e4023176!8m2!3d40.4188331!4d49.8512957!16s%2Fg%2F11pv0z2hpf!19sChIJDW4hJD-HMEARdjEC5BnAcQY?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "Avto yuma, 9 Ajami Nakhchivani, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8273327, 40.3964924]
+      },
+      "properties": {
+        "place_id": "ChIJX38LCvJ9MEARurhhqIN1OlE",
+        "name": "Yaquar Avtoyuma",
+        "link": "https://www.google.com/maps/place/Yaquar+Avtoyuma/data=!4m7!3m6!1s0x40307df20a0b7f5f:0x513a7583a861b8ba!8m2!3d40.3964924!4d49.8273327!16s%2Fg%2F11kkyh28l0!19sChIJX38LCvJ9MEARurhhqIN1OlE?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "9RWG+HWW Yaquar Avtoyuma, Cəlil Məmmədquluzadə kucəsi, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8204545, 40.380505]
+      },
+      "properties": {
+        "place_id": "ChIJ9fmEUGV9MEARXvFJBw1CPSs",
+        "name": "Moyka",
+        "link": "https://www.google.com/maps/place/Moyka/data=!4m7!3m6!1s0x40307d655084f9f5:0x2b3d420d0749f15e!8m2!3d40.380505!4d49.8204545!16s%2Fg%2F11s2ldnm0p!19sChIJ9fmEUGV9MEARXvFJBw1CPSs?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "Moyka, Azərbaycan Dovlət Mədəniyyət və Incəsənət Universiteti, 9 Inshaatchilar avenue, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8682955, 40.3839045]
+      },
+      "properties": {
+        "place_id": "ChIJCyInAzN9MEARWP3ZDHO3hpE",
+        "name": "Master car wash",
+        "link": "https://www.google.com/maps/place/Master+car+wash/data=!4m7!3m6!1s0x40307d330327220b:0x9186b7730cd9fd58!8m2!3d40.3839045!4d49.8682955!16s%2Fg%2F11s2rw1ydv!19sChIJCyInAzN9MEARWP3ZDHO3hpE?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "9VM9+H87 Master car wash, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8327922, 40.3830872]
+      },
+      "properties": {
+        "place_id": "ChIJDTYihW99MEARRea_5_XXt2M",
+        "name": "CallShine",
+        "link": "https://www.google.com/maps/place/CallShine/data=!4m7!3m6!1s0x40307d6f8522360d:0x63b7d7f5e7bfe645!8m2!3d40.3830872!4d49.8327922!16s%2Fg%2F11trlxv46g!19sChIJDTYihW99MEARRea_5_XXt2M?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "9RMM+64M CallShine, Subhi Salayev, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.7980129, 40.3997024]
+      },
+      "properties": {
+        "place_id": "ChIJGwbUDwuHMEARTybfdZYNu-w",
+        "name": "Avto yuma",
+        "link": "https://www.google.com/maps/place/Avto+yuma/data=!4m7!3m6!1s0x4030870b0fd4061b:0xecbb0d9675df264f!8m2!3d40.3997024!4d49.7980129!16s%2Fg%2F11t63_p13v!19sChIJGwbUDwuHMEARTybfdZYNu-w?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "9QXX+V6J Avto yuma, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.843992, 40.410772]
+      },
+      "properties": {
+        "place_id": "ChIJSfDztNeHMEARAmK0f5zlnW0",
+        "name": "313 car wash",
+        "link": "https://www.google.com/maps/place/313+car+wash/data=!4m7!3m6!1s0x403087d7b4f3f049:0x6d9de59c7fb46202!8m2!3d40.410772!4d49.843992!16s%2Fg%2F11tg5spf9q!19sChIJSfDztNeHMEARAmK0f5zlnW0?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "313 car wash, 62-63 Ibrahimpasa Dadasov, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.835236, 40.3875033]
+      },
+      "properties": {
+        "place_id": "ChIJaZhA-p19MEARMWT6ecOpWsA",
+        "name": "Avto Moyka",
+        "link": "https://www.google.com/maps/place/Avto+Moyka/data=!4m7!3m6!1s0x40307d9dfa409869:0xc05aa9c379fa6431!8m2!3d40.3875033!4d49.835236!16s%2Fg%2F11c1qj1330!19sChIJaZhA-p19MEARMWT6ecOpWsA?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "Avto Moyka, 96 A Mardanov Gardashlar, Baku"
+      }
+    }
+  ]
+}
