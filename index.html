@@ -4,6 +4,16 @@
     <meta charset='utf-8' />
     <title>Moyka App</title>
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <!-- Google Analytics Tracking Code -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ETP0RF93C"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'G-9ETP0RF93C');
+    </script>
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.css' rel='stylesheet' />
     <style>
@@ -18,11 +28,11 @@
 <body>
     <div id='map'></div>
     <div id="search-container">
-        <input type="text" id="searchInput" placeholder="Search...">
-        <button onclick="performSearch()">Search</button>
+        <input type="text" id="searchInput" placeholder="detailing, 50...">
+        <button onclick="performSearch()">Axtar</button>
     </div>
     <div id="results-container">
-        <button class="close-button" onclick="closeResultsContainer()">Close</button>
+        <button class="close-button" onclick="closeResultsContainer()">Bağla</button>
     </div>
     
     <script src="script.js"></script>

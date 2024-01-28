@@ -108,20 +108,21 @@ function processDataAndMap() {
       container: 'map',
       style: 'mapbox://styles/mapbox/streets-v9',
       center: [49.8302375129846, 40.39577415685276],
-      zoom: 9
+      zoom: 11
   });
   
   // Add geolocate control to the map.
   map.addControl(
     new mapboxgl.GeolocateControl({
-        positionOptions: {
-            enableHighAccuracy: true
-        },
-        // When active the map will receive updates to the device's location as it changes.
-        trackUserLocation: true,
-        // Draw an arrow next to the location dot to indicate which direction the device is heading.
-        showUserHeading: true
-    })
+      positionOptions: {
+        enableHighAccuracy: true,
+      },
+      // When active the map will receive updates to the device's location as it changes.
+      trackUserLocation: true,
+      // Draw an arrow next to the location dot to indicate which direction the device is heading.
+      showUserHeading: true
+    }),
+    'bottom-right'
   );
 
   map.on('load', function() {
