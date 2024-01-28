@@ -78,7 +78,33 @@ body {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
   transition: background-color 0.3s ease;
 }
+/* Media query for screens with a maximum width of 600px (typical for phones) */
+@media (max-width: 600px) {
+  #feedbackButton {
+      padding: 8px 16px; /* Reduce padding for smaller screens */
+      font-size: 14px; /* Reduce font size for smaller screens */
+  }
+}
 
 #feedbackButton:hover {
   background-color: #1565C0; /* Darker shade on hover */
+}
+
+/* Original styles for the popup */
+.popup-content {
+  /* Your existing styles for the popup */
+  max-width: 300px; /* Adjust the maximum width as needed */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Media query for screens with a maximum width of 600px (typical for phones) */
+@media (max-width: 600px) {
+  .popup-content {
+      max-width: 100%; /* Make the popup fill the entire width on small screens */
+      padding: 10px; /* Reduce padding for smaller screens */
+      border-radius: 0; /* Remove border-radius for a cleaner look */
+      box-shadow: none; /* Remove box shadow on small screens */
+  }
 }
