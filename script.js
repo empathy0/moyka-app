@@ -127,7 +127,7 @@ function processDataAndMap() {
 
   map.on('load', function() {
     // Fetch GeoJSON data from file
-    fetch('https://raw.githubusercontent.com/empathy0/moyka-app/0ad3c8c498804d15f74a8aeb156aa14de48214d3/data_geojson.json')
+    fetch('https://raw.githubusercontent.com/empathy0/moyka-app/main/data-v2_geojson.json')
     .then(response => response.json())
     .then(fetchedData => {
         // Assign the fetched data to the global variable

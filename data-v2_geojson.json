@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8102294,
-          40.3677509
+          40.3677509,
+          49.8102294
         ]
       },
       "properties": {
@@ -26,16 +26,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9834849,
-          40.4325298
+          40.4325298,
+          49.9834849
         ]
       },
       "properties": {
         "place_id": "ChIJBaed0Cx9MEARkWTu0f2WzYA",
         "name": "Diamond Tuning & Detailing",
         "link": "https://www.google.com/maps/place/Diamond+Tuning+%26+Detailing/data=!4m7!3m6!1s0x40307d2cd09da705:0x80cd96fdd1ee6491!8m2!3d40.4325298!4d49.9834849!16s%2Fg%2F11kkbchmw5!19sChIJBaed0Cx9MEARkWTu0f2WzYA?authuser=0&hl=az&rclk=1",
-        "main_category": "Avomobil T?miri Dukani",
-        "categories": "Avomobil T?miri Dukani, Avto B?rpaciliq Xidm?ti, Avto Kokl?m? Xidm?ti, Avtomobil Yuyulmasi",
+        "main_category": "Avomobil T\u00c9\u2122miri Dukani",
+        "categories": "Avomobil T\u00c9\u2122miri Dukani, Avto B\u00c9\u2122rpaciliq Xidm\u00c9\u2122ti, Avto Kokl\u00c9\u2122m\u00c9\u2122 Xidm\u00c9\u2122ti, Avtomobil Yuyulmasi",
         "rating": 4.0,
         "reviews": 16,
         "address": "Diamond Tuning & Detailing, str, 52A Sattar Bahlul- Zadeh, Baki"
@@ -46,8 +46,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7241208,
-          40.4571702
+          40.4571702,
+          49.7241208
         ]
       },
       "properties": {
@@ -58,7 +58,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 15,
-        "address": "Delux Detailing AAAF Park, bina 1, Abseron Rayonu, Xirdalan s?h?ri, AAAF PARK, kuc 25, Xirdalan 0100"
+        "address": "Delux Detailing AAAF Park, bina 1, Abseron Rayonu, Xirdalan s\u00c9\u2122h\u00c9\u2122ri, AAAF PARK, kuc 25, Xirdalan 0100"
       }
     },
     {
@@ -66,8 +66,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.856867,
-          40.3822938
+          40.3822938,
+          49.856867
         ]
       },
       "properties": {
@@ -86,8 +86,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.804866,
-          40.3851618
+          40.3851618,
+          49.804866
         ]
       },
       "properties": {
@@ -106,19 +106,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8823592,
-          40.4011903
+          40.4011903,
+          49.8823592
         ]
       },
       "properties": {
         "place_id": "ChIJl-0NGiB9MEARUZdQOW5wXOc",
         "name": "AutoLab",
         "link": "https://www.google.com/maps/place/AutoLab/data=!4m7!3m6!1s0x40307d201a0ded97:0xe75c706e39509751!8m2!3d40.4011903!4d49.8823592!16s%2Fg%2F11rxj0y4m_!19sChIJl-0NGiB9MEARUZdQOW5wXOc?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 4.9,
         "reviews": 11,
-        "address": "CV2J+FWH AutoLab, ?. ?liyev kuc?si, Baku"
+        "address": "CV2J+FWH AutoLab, \u00c9\u2122. \u00c9\u2122liyev kuc\u00c9\u2122si, Baku"
       }
     },
     {
@@ -126,8 +126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7129842,
-          40.563537
+          40.563537,
+          49.7129842
         ]
       },
       "properties": {
@@ -146,8 +146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8529372,
-          40.3762001
+          40.3762001,
+          49.8529372
         ]
       },
       "properties": {
@@ -166,8 +166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.807694,
-          40.380917
+          40.380917,
+          49.807694
         ]
       },
       "properties": {
@@ -186,19 +186,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.861775,
-          40.3973189
+          40.3973189,
+          49.861775
         ]
       },
       "properties": {
         "place_id": "ChIJR2KmJBTA34YRnWWe-xpyJh0",
         "name": "Mega Garaj",
         "link": "https://www.google.com/maps/place/Mega+Garaj/data=!4m7!3m6!1s0x86dfc01424a66247:0x1d26721afb9e659d!8m2!3d40.3973189!4d49.861775!16s%2Fg%2F11rtf1kxv0!19sChIJR2KmJBTA34YRnWWe-xpyJh0?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 2.0,
         "reviews": 8,
-        "address": "9VW6+WPC Mega Garaj, Bala?mi Dadasov, Baki"
+        "address": "9VW6+WPC Mega Garaj, Bala\u00c9\u2122mi Dadasov, Baki"
       }
     },
     {
@@ -206,19 +206,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8598264,
-          40.3966151
+          40.3966151,
+          49.8598264
         ]
       },
       "properties": {
         "place_id": "ChIJa2AuhAV9MEARdg-zb9BB8D0",
         "name": "Detailing Shahriyar",
         "link": "https://www.google.com/maps/place/Detailing+Shahriyar/data=!4m7!3m6!1s0x40307d05842e606b:0x3df041d06fb30f76!8m2!3d40.3966151!4d49.8598264!16s%2Fg%2F11swhf4msb!19sChIJa2AuhAV9MEARdg-zb9BB8D0?authuser=0&hl=az&rclk=1",
-        "main_category": "Avto Kokl?m? Xidm?ti",
-        "categories": "Avto Kokl?m? Xidm?ti",
+        "main_category": "Avto Kokl\u00c9\u2122m\u00c9\u2122 Xidm\u00c9\u2122ti",
+        "categories": "Avto Kokl\u00c9\u2122m\u00c9\u2122 Xidm\u00c9\u2122ti",
         "rating": 5.0,
         "reviews": 7,
-        "address": "Detailing Shahriyar, 3 Koroglu R?himov kuc?si, Baki"
+        "address": "Detailing Shahriyar, 3 Koroglu R\u00c9\u2122himov kuc\u00c9\u2122si, Baki"
       }
     },
     {
@@ -226,8 +226,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7557084,
-          40.4588339
+          40.3910215,
+          49.9041144
+        ]
+      },
+      "properties": {
+        "place_id": "ChIJvWUlRXd9MEARr9nSXBkCwpc",
+        "name": "Euromax Avtoservis Avadinliqlari",
+        "link": "https://www.google.com/maps/place/Euromax+Avtoservis+Avadinliqlari/data=!4m7!3m6!1s0x40307d77452565bd:0x97c202195cd2d9af!8m2!3d40.3910215!4d49.9041144!16s%2Fg%2F11jr34vw5t!19sChIJvWUlRXd9MEARr9nSXBkCwpc?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 5.0,
+        "reviews": 6,
+        "address": "9WR3+CJ5 Euromax Avtoservis Avadinliqlari, Bab\u00c9\u2122k Prospekti, Baki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4588339,
+          49.7557084
         ]
       },
       "properties": {
@@ -238,7 +258,7 @@
         "categories": "Avtomobil Yuyulmasi, Kofe dukani",
         "rating": 5.0,
         "reviews": 6,
-        "address": "Emirat Avtoyuma, Abseron rayonu , Xirdalan s?h?ri , ?liaga Vahid kuc?si 41, Xirdalan 0123"
+        "address": "Emirat Avtoyuma, Abseron rayonu , Xirdalan s\u00c9\u2122h\u00c9\u2122ri , \u00c9\u2122liaga Vahid kuc\u00c9\u2122si 41, Xirdalan 0123"
       }
     },
     {
@@ -246,8 +266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9573082,
-          40.4163019
+          40.4163019,
+          49.9573082
         ]
       },
       "properties": {
@@ -266,28 +286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9399269,
-          40.4181503
-        ]
-      },
-      "properties": {
-        "place_id": "ChIJ28zg5DJjMEARtar0n24k0g4",
-        "name": "Musa peisiar",
-        "link": "https://www.google.com/maps/place/%D0%9C%D1%83%D1%81%D0%B0+%D0%BF%D0%B5%D0%B9%D1%81%D1%8F%D1%80/data=!4m7!3m6!1s0x40306332e4e0ccdb:0xed2246e9ff4aab5!8m2!3d40.4181503!4d49.9399269!16s%2Fg%2F11l25859_l!19sChIJ28zg5DJjMEARtar0n24k0g4?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Yuyulmasi",
-        "categories": "Avtomobil Yuyulmasi",
-        "rating": 5.0,
-        "reviews": 6,
-        "address": "CW9Q+7X7 Musa peisiar, Baki"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.3342853,
-          40.6771162
+          40.6771162,
+          46.3342853
         ]
       },
       "properties": {
@@ -298,7 +298,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 3.4,
         "reviews": 5,
-        "address": "M8GM+RPV Moyka, G?nc?"
+        "address": "M8GM+RPV Moyka, G\u00c9\u2122nc\u00c9\u2122"
       }
     },
     {
@@ -306,16 +306,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9398253,
-          40.3929405
+          40.3929405,
+          49.9398253
         ]
       },
       "properties": {
         "place_id": "ChIJ15OpKBZjMEARAB8aDPywBlU",
         "name": "BMW Ehtiyyat Hisseleri",
         "link": "https://www.google.com/maps/place/BMW+Ehtiyyat+Hisseleri/data=!4m7!3m6!1s0x4030631628a993d7:0x5506b0fc0c1a1f00!8m2!3d40.3929405!4d49.9398253!16s%2Fg%2F11g7y_17fy!19sChIJ15OpKBZjMEARAB8aDPywBlU?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 4.8,
         "reviews": 5,
         "address": "9WVQ+5WG BMW Ehtiyyat Hisseleri, Baku"
@@ -326,16 +326,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.851514,
-          40.3875184
+          40.3875184,
+          49.851514
         ]
       },
       "properties": {
         "place_id": "ChIJPQ7ZFg19MEARDshjM8C_CkE",
         "name": "Lada Tuning",
         "link": "https://www.google.com/maps/place/Lada+Tuning/data=!4m7!3m6!1s0x40307d0d16d90e3d:0x410abfc03363c80e!8m2!3d40.3875184!4d49.851514!16s%2Fg%2F1pzrd7bhk!19sChIJPQ7ZFg19MEARDshjM8C_CkE?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 3.2,
         "reviews": 5,
         "address": "9VQ2+2J2 Lada Tuning, Baku"
@@ -346,8 +346,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9208973,
-          40.3929895
+          40.3929895,
+          49.9208973
         ]
       },
       "properties": {
@@ -358,7 +358,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 5,
-        "address": "9WVC+59R Avtoyuma Omer, Bab?k Prospekti, Qaracuxur"
+        "address": "9WVC+59R Avtoyuma Omer, Bab\u00c9\u2122k Prospekti, Qaracuxur"
       }
     },
     {
@@ -366,8 +366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.0958746,
-          40.4364832
+          40.4364832,
+          50.0958746
         ]
       },
       "properties": {
@@ -378,7 +378,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 4.2,
         "reviews": 5,
-        "address": "7/24 50 qepik moyka, ?li Isazad?"
+        "address": "7/24 50 qepik moyka, \u00c9\u2122li Isazad\u00c9\u2122"
       }
     },
     {
@@ -386,8 +386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.3592543,
-          40.663788
+          40.663788,
+          46.3592543
         ]
       },
       "properties": {
@@ -398,7 +398,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 4,
-        "address": "M975+GP6 Elbarin moykasi, G?nc?"
+        "address": "M975+GP6 Elbarin moykasi, G\u00c9\u2122nc\u00c9\u2122"
       }
     },
     {
@@ -406,8 +406,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.3309138,
-          40.6827199
+          40.6827199,
+          46.3309138
         ]
       },
       "properties": {
@@ -426,8 +426,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.811072,
-          40.398488
+          40.398488,
+          49.811072
         ]
       },
       "properties": {
@@ -435,7 +435,7 @@
         "name": "OLDSCHOOL DETAILING",
         "link": "https://www.google.com/maps/place/OLDSCHOOL+DETAILING/data=!4m7!3m6!1s0x403087790fd114d1:0x2bcaf78e0d2187a2!8m2!3d40.398488!4d49.811072!16s%2Fg%2F11clsf_w14!19sChIJ0RTRD3mHMEARoochDY73yis?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
-        "categories": "Avtomobil Yuyulmasi, Kimy?vi T?mizl?m?",
+        "categories": "Avtomobil Yuyulmasi, Kimy\u00c9\u2122vi T\u00c9\u2122mizl\u00c9\u2122m\u00c9\u2122",
         "rating": 5.0,
         "reviews": 4,
         "address": "OLDSCHOOL DETAILING, 57/A Tbilisi prospekti, Baki"
@@ -446,8 +446,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8381462,
-          40.3740464
+          40.3671555,
+          49.8267458
+        ]
+      },
+      "properties": {
+        "place_id": "ChIJW5CYTNd9MEARPpGu8BW-znE",
+        "name": "Eagle Eye Marketing & Distribution Company MMC",
+        "link": "https://www.google.com/maps/place/Eagle+Eye+Marketing+%26+Distribution+Company+MMC/data=!4m7!3m6!1s0x40307dd74c98905b:0x71cebe15f0ae913e!8m2!3d40.3671555!4d49.8267458!16s%2Fg%2F11s8z54psy!19sChIJW5CYTNd9MEARPpGu8BW-znE?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 4.5,
+        "reviews": 4,
+        "address": "Eagle Eye Marketing & Distribution Company MMC, 12 Seyx Samil Kuc\u00c9\u2122si, Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.3740464,
+          49.8381462
         ]
       },
       "properties": {
@@ -466,8 +486,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8439651,
-          40.3766591
+          40.3766591,
+          49.8439651
         ]
       },
       "properties": {
@@ -486,8 +506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8162328,
-          40.4190695
+          40.4190695,
+          49.8162328
         ]
       },
       "properties": {
@@ -498,7 +518,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 4,
-        "address": "098 AVTOYUMA, 37 A ?lisg?nd?r Isg?nd?rov, Baki"
+        "address": "098 AVTOYUMA, 37 A \u00c9\u2122lisg\u00c9\u2122nd\u00c9\u2122r Isg\u00c9\u2122nd\u00c9\u2122rov, Baki"
       }
     },
     {
@@ -506,8 +526,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9347037,
-          40.4190251
+          40.4190251,
+          49.9347037
         ]
       },
       "properties": {
@@ -526,19 +546,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8385311,
-          40.396955
+          40.396955,
+          49.8385311
         ]
       },
       "properties": {
         "place_id": "ChIJ4aeVh5x9MEARv38KVNeZN6A",
-        "name": "H?s?n Avto Yuma",
+        "name": "H\u00c9\u2122s\u00c9\u2122n Avto Yuma",
         "link": "https://www.google.com/maps/place/H%C9%99s%C9%99n+Avto+Yuma/data=!4m7!3m6!1s0x40307d9c8795a7e1:0xa03799d7540a7fbf!8m2!3d40.396955!4d49.8385311!16s%2Fg%2F11fp8clvnh!19sChIJ4aeVh5x9MEARv38KVNeZN6A?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 4,
-        "address": "H?s?n Avto Yuma, 61 Abbas Sahhat, Baku 1007"
+        "address": "H\u00c9\u2122s\u00c9\u2122n Avto Yuma, 61 Abbas Sahhat, Baku 1007"
       }
     },
     {
@@ -546,8 +566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8273905,
-          40.3840989
+          40.3840989,
+          49.8273905
         ]
       },
       "properties": {
@@ -566,8 +586,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.860383,
-          40.4088764
+          40.4088764,
+          49.860383
         ]
       },
       "properties": {
@@ -575,7 +595,7 @@
         "name": "Ziebart Premium Baku",
         "link": "https://www.google.com/maps/place/Ziebart+Premium+Baku/data=!4m7!3m6!1s0x40307d85faf76563:0x96ee151f7960c7c0!8m2!3d40.4088764!4d49.860383!16s%2Fg%2F11jyjb5hl3!19sChIJY2X3-oV9MEARwMdgeR8V7pY?authuser=0&hl=az&rclk=1",
         "main_category": "Vehicle wrapping service",
-        "categories": "Vehicle wrapping service, Auto window tinting service, Avtomobil Xidm?ti",
+        "categories": "Vehicle wrapping service, Auto window tinting service, Avtomobil Xidm\u00c9\u2122ti",
         "rating": 4.8,
         "reviews": 4,
         "address": "9a, Ziebart Premium Baku, 3 Ahmad Rajabli, Baku 1075"
@@ -586,16 +606,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.870162,
-          40.4277031
+          40.4277031,
+          49.870162
         ]
       },
       "properties": {
         "place_id": "ChIJH58tOi2JMEARKz44jP7iLD4",
         "name": "HorsePower",
         "link": "https://www.google.com/maps/place/HorsePower/data=!4m7!3m6!1s0x4030892d3a2d9f1f:0x3e2ce2fe8c383e2b!8m2!3d40.4277031!4d49.870162!16s%2Fg%2F11smwfst47!19sChIJH58tOi2JMEARKz44jP7iLD4?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 5.0,
         "reviews": 4,
         "address": "CVHC+33 HorsePower, Baku"
@@ -606,16 +626,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8126904,
-          40.3754582
+          40.3754582,
+          49.8126904
         ]
       },
       "properties": {
         "place_id": "ChIJw4Uq0x99MEARMEvz0b2hSO8",
         "name": "Bir Auto Detailing & Wash",
         "link": "https://www.google.com/maps/place/Bir+Auto+Detailing+%26+Wash/data=!4m7!3m6!1s0x40307d1fd32a85c3:0xef48a1bdd1f34b30!8m2!3d40.3754582!4d49.8126904!16s%2Fg%2F11r4xjcmh4!19sChIJw4Uq0x99MEARMEvz0b2hSO8?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 5.0,
         "reviews": 4,
         "address": "Bir Auto Detailing & Wash, 5 Bakhtiyar Vahabzadeh, Baku"
@@ -626,19 +646,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.853012,
-          40.41991
+          40.41991,
+          49.853012
         ]
       },
       "properties": {
         "place_id": "ChIJwyfISxKHMEART9ZEtLUSLVI",
-        "name": "50 q?pik moyka",
+        "name": "50 q\u00c9\u2122pik moyka",
         "link": "https://www.google.com/maps/place/50+q%C9%99pik+moyka/data=!4m7!3m6!1s0x403087124bc827c3:0x522d12b5b444d64f!8m2!3d40.41991!4d49.853012!16s%2Fg%2F11tnhzspq1!19sChIJwyfISxKHMEART9ZEtLUSLVI?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": 4.8,
         "reviews": 4,
-        "address": "CV93+W96 50 q?pik moyka, Baku"
+        "address": "CV93+W96 50 q\u00c9\u2122pik moyka, Baku"
       }
     },
     {
@@ -646,8 +666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9605946,
-          40.4137231
+          40.4137231,
+          49.9605946
         ]
       },
       "properties": {
@@ -658,7 +678,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 4,
-        "address": "EC Avto ayuma, qenberov Ramiz Q?mb?rov, Baki 1111"
+        "address": "EC Avto ayuma, qenberov Ramiz Q\u00c9\u2122mb\u00c9\u2122rov, Baki 1111"
       }
     },
     {
@@ -666,19 +686,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7537139,
-          40.4702808
+          40.4702808,
+          49.7537139
         ]
       },
       "properties": {
         "place_id": "ChIJ2acoKbGFMEAR9a34dansL-8",
-        "name": "50 q?pik avtoyuma",
+        "name": "50 q\u00c9\u2122pik avtoyuma",
         "link": "https://www.google.com/maps/place/50+q%C9%99pik+avtoyuma/data=!4m7!3m6!1s0x403085b12928a7d9:0xef2feca975f8adf5!8m2!3d40.4702808!4d49.7537139!16s%2Fg%2F11smb1xgcy!19sChIJ2acoKbGFMEAR9a34dansL-8?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 4,
-        "address": "FQC3+3HV 50 q?pik avtoyuma, Masazir"
+        "address": "FQC3+3HV 50 q\u00c9\u2122pik avtoyuma, Masazir"
       }
     },
     {
@@ -686,8 +706,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.6838665,
-          40.5791179
+          40.5791179,
+          49.6838665
         ]
       },
       "properties": {
@@ -706,8 +726,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8482447,
-          40.3908003
+          40.3908003,
+          49.8482447
         ]
       },
       "properties": {
@@ -726,8 +746,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8159551,
-          40.3841521
+          40.3841521,
+          49.8159551
         ]
       },
       "properties": {
@@ -746,8 +766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8695367,
-          40.3846668
+          40.3846668,
+          49.8695367
         ]
       },
       "properties": {
@@ -766,8 +786,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7680511,
-          40.4201142
+          40.4201142,
+          49.7680511
         ]
       },
       "properties": {
@@ -786,8 +806,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9519931,
-          40.4137421
+          40.4137421,
+          49.9519931
         ]
       },
       "properties": {
@@ -798,7 +818,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 4.0,
         "reviews": 3,
-        "address": "LaserWash avtoyuma, 2524 Rust?m Rust?mov, Baki"
+        "address": "LaserWash avtoyuma, 2524 Rust\u00c9\u2122m Rust\u00c9\u2122mov, Baki"
       }
     },
     {
@@ -806,8 +826,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.854304,
-          40.430277
+          40.430277,
+          49.854304
         ]
       },
       "properties": {
@@ -818,7 +838,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 3,
-        "address": "Hacioglu.detailing, 3123 Suleyman Sani Axundov kuc?si, Baki"
+        "address": "Hacioglu.detailing, 3123 Suleyman Sani Axundov kuc\u00c9\u2122si, Baki"
       }
     },
     {
@@ -826,8 +846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9657043,
-          40.4054838
+          40.4054838,
+          49.9657043
         ]
       },
       "properties": {
@@ -846,16 +866,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9309935,
-          40.4260038
+          40.4260038,
+          49.9309935
         ]
       },
       "properties": {
         "place_id": "ChIJV4uCsGZiMEARLSRJndr14v0",
         "name": "RM Tuning",
         "link": "https://www.google.com/maps/place/RM+Tuning/data=!4m7!3m6!1s0x40306266b0828b57:0xfde2f5da9d49242d!8m2!3d40.4260038!4d49.9309935!16s%2Fg%2F11c7_xtjff!19sChIJV4uCsGZiMEARLSRJndr14v0?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 3.7,
         "reviews": 3,
         "address": "CWGJ+C95 RM Tuning, Baki"
@@ -866,16 +886,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8792855,
-          40.3806702
+          40.3806702,
+          49.8792855
         ]
       },
       "properties": {
         "place_id": "ChIJESkkSm19MEARDLrXpJoDqgo",
         "name": "SONAX BAKU GENEL MERKEZ",
         "link": "https://www.google.com/maps/place/SONAX+BAKU+GENEL+MERKEZ/data=!4m7!3m6!1s0x40307d6d4a242911:0xaaa039aa4d7ba0c!8m2!3d40.3806702!4d49.8792855!16s%2Fg%2F11q4dlb120!19sChIJESkkSm19MEARDLrXpJoDqgo?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 5.0,
         "reviews": 3,
         "address": "SONAX BAKU GENEL MERKEZ, 23a 8 Noyabr Prospekti, Baki"
@@ -886,19 +906,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8891188,
-          40.39501
+          40.39501,
+          49.8891188
         ]
       },
       "properties": {
         "place_id": "ChIJfcVp3r99MEARR_k-98S20uI",
         "name": "Soffit Detailing Babek",
         "link": "https://www.google.com/maps/place/Soffit+Detailing+Babek/data=!4m7!3m6!1s0x40307dbfde69c57d:0xe2d2b6c4f73ef947!8m2!3d40.39501!4d49.8891188!16s%2Fg%2F11sskz20f8!19sChIJfcVp3r99MEARR_k-98S20uI?authuser=0&hl=az&rclk=1",
-        "main_category": "Avto Kokl?m? Xidm?ti",
-        "categories": "Avto Kokl?m? Xidm?ti",
+        "main_category": "Avto Kokl\u00c9\u2122m\u00c9\u2122 Xidm\u00c9\u2122ti",
+        "categories": "Avto Kokl\u00c9\u2122m\u00c9\u2122 Xidm\u00c9\u2122ti",
         "rating": 5.0,
         "reviews": 3,
-        "address": "Soffit Detailing Babek, Bab?k Prospekti, Baki"
+        "address": "Soffit Detailing Babek, Bab\u00c9\u2122k Prospekti, Baki"
       }
     },
     {
@@ -906,19 +926,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8947984,
-          40.3897678
+          40.3897678,
+          49.8947984
         ]
       },
       "properties": {
         "place_id": "ChIJf25ndHh9MEARP4y_zfKgdno",
         "name": "Pro Detailing",
         "link": "https://www.google.com/maps/place/Pro+Detailing/data=!4m7!3m6!1s0x40307d7874676e7f:0x7a76a0f2cdbf8c3f!8m2!3d40.3897678!4d49.8947984!16s%2Fg%2F11twq2nb_l!19sChIJf25ndHh9MEARP4y_zfKgdno?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 5.0,
         "reviews": 3,
-        "address": "Pro Detailing, 33 Bab?k Prospekti, Baki"
+        "address": "Pro Detailing, 33 Bab\u00c9\u2122k Prospekti, Baki"
       }
     },
     {
@@ -926,19 +946,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8698973,
-          40.3886498
+          40.3886498,
+          49.8698973
         ]
       },
       "properties": {
         "place_id": "ChIJd8HZjO99MEAR88-h4S7n9h0",
-        "name": "Acar Al?mi Az?rbaycan",
+        "name": "Acar Al\u00c9\u2122mi Az\u00c9\u2122rbaycan",
         "link": "https://www.google.com/maps/place/A%C3%A7ar+Al%C9%99mi+Az%C9%99rbaycan/data=!4m7!3m6!1s0x40307def8cd9c177:0x1df6e72ee1a1cff3!8m2!3d40.3886498!4d49.8698973!16s%2Fg%2F11t9t8b0yy!19sChIJd8HZjO99MEAR88-h4S7n9h0?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 3.7,
         "reviews": 3,
-        "address": "Acar Al?mi Az?rbaycan, 23/34 Bab?k Prospekti, Baki 1000"
+        "address": "Acar Al\u00c9\u2122mi Az\u00c9\u2122rbaycan, 23/34 Bab\u00c9\u2122k Prospekti, Baki 1000"
       }
     },
     {
@@ -946,8 +966,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9649302,
-          40.3784349
+          40.3784349,
+          49.9649302
         ]
       },
       "properties": {
@@ -958,7 +978,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 3,
-        "address": "Ximcistka Baku, 3 General ?liaga Sixlinski kuc?si, Baki"
+        "address": "Ximcistka Baku, 3 General \u00c9\u2122liaga Sixlinski kuc\u00c9\u2122si, Baki"
       }
     },
     {
@@ -966,8 +986,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8548885,
-          40.4037824
+          40.4037824,
+          49.8548885
         ]
       },
       "properties": {
@@ -978,7 +998,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 3,
-        "address": "CV33+GX6 Avto Yuma 071, H?s?n ?liyev Kuc?si, Baki"
+        "address": "CV33+GX6 Avto Yuma 071, H\u00c9\u2122s\u00c9\u2122n \u00c9\u2122liyev Kuc\u00c9\u2122si, Baki"
       }
     },
     {
@@ -986,8 +1006,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8230946,
-          40.4249252
+          40.4249252,
+          49.8230946
         ]
       },
       "properties": {
@@ -1006,8 +1026,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.951292,
-          40.397056
+          40.397056,
+          49.951292
         ]
       },
       "properties": {
@@ -1026,19 +1046,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.0096721,
-          40.5150955
+          40.5150955,
+          50.0096721
         ]
       },
       "properties": {
         "place_id": "ChIJL-9B5af1MEARzIm2VTs6UzQ",
-        "name": "?kb?rin moykasi",
+        "name": "\u00c9\u2122kb\u00c9\u2122rin moykasi",
         "link": "https://www.google.com/maps/place/%C6%8Fkb%C9%99rin+moykas%C4%B1/data=!4m7!3m6!1s0x4030f5a7e541ef2f:0x34533a3b55b689cc!8m2!3d40.5150955!4d50.0096721!16s%2Fg%2F11l5cn3br5!19sChIJL-9B5af1MEARzIm2VTs6UzQ?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 3,
-        "address": "G285+2R ?kb?rin moykasi, Baki"
+        "address": "G285+2R \u00c9\u2122kb\u00c9\u2122rin moykasi, Baki"
       }
     },
     {
@@ -1046,8 +1066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9649413,
-          40.3854854
+          40.3854854,
+          49.9649413
         ]
       },
       "properties": {
@@ -1066,19 +1086,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1213371,
-          40.4221205
+          40.4221205,
+          50.1213371
         ]
       },
       "properties": {
         "place_id": "ChIJufLljz1nMEARmklffoZTnvk",
-        "name": "H?ci,K?rb?yali,M?s?di Cahidin moykasi",
+        "name": "H\u00c9\u2122ci,K\u00c9\u2122rb\u00c9\u2122yali,M\u00c9\u2122s\u00c9\u2122di Cahidin moykasi",
         "link": "https://www.google.com/maps/place/H%C9%99ci,K%C9%99rb%C9%99yali,M%C9%99%C5%9F%C9%99di+Cahidin+moykas%C4%B1/data=!4m7!3m6!1s0x4030673d8fe5f2b9:0xf99e53867e5f499a!8m2!3d40.4221205!4d50.1213371!16s%2Fg%2F11s90vzvnv!19sChIJufLljz1nMEARmklffoZTnvk?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 3,
-        "address": "H?ci,K?rb?yali,M?s?di Cahidin moykasi, X?z?r"
+        "address": "H\u00c9\u2122ci,K\u00c9\u2122rb\u00c9\u2122yali,M\u00c9\u2122s\u00c9\u2122di Cahidin moykasi, X\u00c9\u2122z\u00c9\u2122r"
       }
     },
     {
@@ -1086,8 +1106,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.3758834,
-          40.6972741
+          40.6972741,
+          46.3758834
         ]
       },
       "properties": {
@@ -1098,7 +1118,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 2.5,
         "reviews": 2,
-        "address": "Avtoyuma, 13 Elbrus Allahverdiyev, G?nc? 2023"
+        "address": "Avtoyuma, 13 Elbrus Allahverdiyev, G\u00c9\u2122nc\u00c9\u2122 2023"
       }
     },
     {
@@ -1106,8 +1126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7916836,
-          40.3975916
+          40.3975916,
+          49.7916836
         ]
       },
       "properties": {
@@ -1126,8 +1146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8617868,
-          40.4074338
+          40.4074338,
+          49.8617868
         ]
       },
       "properties": {
@@ -1146,8 +1166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8064207,
-          40.3828761
+          40.3828761,
+          49.8064207
         ]
       },
       "properties": {
@@ -1166,8 +1186,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8700709,
-          40.4081004
+          40.4081004,
+          49.8700709
         ]
       },
       "properties": {
@@ -1186,8 +1206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8098197,
-          40.3821107
+          40.3821107,
+          49.8098197
         ]
       },
       "properties": {
@@ -1198,7 +1218,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 2,
-        "address": "Garage Detailing, 121 Zahid X?lilov Kuc?si, Baki"
+        "address": "Garage Detailing, 121 Zahid X\u00c9\u2122lilov Kuc\u00c9\u2122si, Baki"
       }
     },
     {
@@ -1206,8 +1226,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8419716,
-          40.385667
+          40.385667,
+          49.8419716
         ]
       },
       "properties": {
@@ -1226,8 +1246,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8723184,
-          40.3892753
+          40.3892753,
+          49.8723184
         ]
       },
       "properties": {
@@ -1246,8 +1266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7914526,
-          40.3965468
+          40.3965468,
+          49.7914526
         ]
       },
       "properties": {
@@ -1266,8 +1286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8647703,
-          40.4068961
+          40.4068961,
+          49.8647703
         ]
       },
       "properties": {
@@ -1278,7 +1298,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 3.0,
         "reviews": 2,
-        "address": "Shine Systems Detailing, 1963 m?h?ll?, ?hm?d R?c?bli, Baki"
+        "address": "Shine Systems Detailing, 1963 m\u00c9\u2122h\u00c9\u2122ll\u00c9\u2122, \u00c9\u2122hm\u00c9\u2122d R\u00c9\u2122c\u00c9\u2122bli, Baki"
       }
     },
     {
@@ -1286,8 +1306,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8437537,
-          40.4115958
+          40.4115958,
+          49.8437537
         ]
       },
       "properties": {
@@ -1306,8 +1326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8321034,
-          40.4175148
+          40.4175148,
+          49.8321034
         ]
       },
       "properties": {
@@ -1318,7 +1338,7 @@
         "categories": "Self Servis Oto Yikama",
         "rating": 5.0,
         "reviews": 2,
-        "address": "Avtoyuma- Premium rich auto, OBA MTK binalarinin yani, C?f?r X?ndan, Baki 1117"
+        "address": "Avtoyuma- Premium rich auto, OBA MTK binalarinin yani, C\u00c9\u2122f\u00c9\u2122r X\u00c9\u2122ndan, Baki 1117"
       }
     },
     {
@@ -1326,8 +1346,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8070187,
-          40.3761615
+          40.3761615,
+          49.8070187
         ]
       },
       "properties": {
@@ -1346,8 +1366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7935246,
-          40.4217265
+          40.4217265,
+          49.7935246
         ]
       },
       "properties": {
@@ -1358,7 +1378,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 2,
-        "address": "Avtoyuma, Az?rbaycan, Baki, Avtovagzal, 1-ci, 221 motodron dong?si, Baki 1005"
+        "address": "Avtoyuma, Az\u00c9\u2122rbaycan, Baki, Avtovagzal, 1-ci, 221 motodron dong\u00c9\u2122si, Baki 1005"
       }
     },
     {
@@ -1366,8 +1386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8180789,
-          40.3974895
+          40.3974895,
+          49.8180789
         ]
       },
       "properties": {
@@ -1386,8 +1406,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8315097,
-          40.3849186
+          40.3849186,
+          49.8315097
         ]
       },
       "properties": {
@@ -1406,8 +1426,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8881738,
-          40.3908225
+          40.3908225,
+          49.8881738
         ]
       },
       "properties": {
@@ -1426,8 +1446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8212462,
-          40.3978909
+          40.3978909,
+          49.8212462
         ]
       },
       "properties": {
@@ -1438,7 +1458,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 2,
-        "address": "9RXC+5F5 Avtomoyka Seyid, Az?r ?liyev, Baki"
+        "address": "9RXC+5F5 Avtomoyka Seyid, Az\u00c9\u2122r \u00c9\u2122liyev, Baki"
       }
     },
     {
@@ -1446,8 +1466,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8170764,
-          40.4202207
+          40.4202207,
+          49.8170764
         ]
       },
       "properties": {
@@ -1466,8 +1486,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8324565,
-          40.3815072
+          40.3815072,
+          49.8324565
         ]
       },
       "properties": {
@@ -1486,8 +1506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8212974,
-          40.3918563
+          40.3918563,
+          49.8212974
         ]
       },
       "properties": {
@@ -1506,19 +1526,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.81637,
-          40.4016
+          40.4016,
+          49.81637
         ]
       },
       "properties": {
         "place_id": "ChIJsSYFwouHMEARYzoO2IRo8bE",
-        "name": "50 q?pik moyka",
+        "name": "50 q\u00c9\u2122pik moyka",
         "link": "https://www.google.com/maps/place/50+q%C9%99pik+moyka/data=!4m7!3m6!1s0x4030878bc20526b1:0xb1f16884d80e3a63!8m2!3d40.4016!4d49.81637!16s%2Fg%2F11k528t7zh!19sChIJsSYFwouHMEARYzoO2IRo8bE?authuser=0&hl=az&rclk=1",
         "main_category": "",
         "categories": "",
         "rating": 3.0,
         "reviews": 2,
-        "address": "50 q?pik moyka, 53 Abdulvahab Salamzade, Baku"
+        "address": "50 q\u00c9\u2122pik moyka, 53 Abdulvahab Salamzade, Baku"
       }
     },
     {
@@ -1526,19 +1546,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9619082,
-          40.4385569
+          40.4385569,
+          49.9619082
         ]
       },
       "properties": {
         "place_id": "ChIJmbkJhE5jMEARdDzzAXgkWOk",
-        "name": "AUTOCLEAN.AZ P?s?kar Kimy?vi T?mizl?m?",
+        "name": "AUTOCLEAN.AZ P\u00c9\u2122s\u00c9\u2122kar Kimy\u00c9\u2122vi T\u00c9\u2122mizl\u00c9\u2122m\u00c9\u2122",
         "link": "https://www.google.com/maps/place/AUTOCLEAN.AZ+P%C9%99%C5%9F%C9%99kar+Kimy%C9%99vi+T%C9%99mizl%C9%99m%C9%99/data=!4m7!3m6!1s0x4030634e8409b999:0xe958247801f33c74!8m2!3d40.4385569!4d49.9619082!16s%2Fg%2F11g0w0wxtc!19sChIJmbkJhE5jMEARdDzzAXgkWOk?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 5.0,
         "reviews": 2,
-        "address": "CXQ6+CQF AUTOCLEAN.AZ P?s?kar Kimy?vi T?mizl?m?, Bakixanov qes. (Razin), kecmis Komsomol dair?si, Baku"
+        "address": "CXQ6+CQF AUTOCLEAN.AZ P\u00c9\u2122s\u00c9\u2122kar Kimy\u00c9\u2122vi T\u00c9\u2122mizl\u00c9\u2122m\u00c9\u2122, Bakixanov qes. (Razin), kecmis Komsomol dair\u00c9\u2122si, Baku"
       }
     },
     {
@@ -1546,16 +1566,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8506038,
-          40.3733971
+          40.3733971,
+          49.8506038
         ]
       },
       "properties": {
         "place_id": "ChIJm9uzAKx9MEARV7g9cgxN4z4",
         "name": "Auto Unical",
         "link": "https://www.google.com/maps/place/Auto+Unical/data=!4m7!3m6!1s0x40307dac00b3db9b:0x3ee34d0c723db857!8m2!3d40.3733971!4d49.8506038!16s%2Fg%2F11cjkdtljg!19sChIJm9uzAKx9MEARV7g9cgxN4z4?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 5.0,
         "reviews": 2,
         "address": "9VF2+965 Auto Unical, Azadliq Ave, Baku"
@@ -1566,19 +1586,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9654141,
-          40.3780538
+          40.3780538,
+          49.9654141
         ]
       },
       "properties": {
         "place_id": "ChIJC-alsxljMEAR4vGNpcEFFWM",
         "name": "AVTO DETAL",
         "link": "https://www.google.com/maps/place/AVTO+DETAL/data=!4m7!3m6!1s0x40306319b3a5e60b:0x631505c1a58df1e2!8m2!3d40.3780538!4d49.9654141!16s%2Fg%2F11sy70_19j!19sChIJC-alsxljMEAR4vGNpcEFFWM?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 5.0,
         "reviews": 2,
-        "address": "AVTO DETAL, 1 ?LIAGA SIXLINSKI, Baku 1149"
+        "address": "AVTO DETAL, 1 \u00c9\u2122LIAGA SIXLINSKI, Baku 1149"
       }
     },
     {
@@ -1586,16 +1606,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8775485,
-          40.3803729
+          40.3803729,
+          49.8775485
         ]
       },
       "properties": {
         "place_id": "ChIJs0geobJ9MEARu24JW1TYcN4",
         "name": "Cars detailing baku",
         "link": "https://www.google.com/maps/place/Cars+detailing+baku/data=!4m7!3m6!1s0x40307db2a11e48b3:0xde70d8545b096ebb!8m2!3d40.3803729!4d49.8775485!16s%2Fg%2F11h9445fz6!19sChIJs0geobJ9MEARu24JW1TYcN4?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 5.0,
         "reviews": 2,
         "address": "Cars detailing baku, 23 8 Noyabr Prospekti, Baki 1000"
@@ -1606,16 +1626,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7920524,
-          40.3883526
+          40.3883526,
+          49.7920524
         ]
       },
       "properties": {
         "place_id": "ChIJlRammbiHMEARCDWFgaUm3oM",
         "name": "R&Q Garage",
         "link": "https://www.google.com/maps/place/R%26Q+Garage/data=!4m7!3m6!1s0x403087b899a61695:0x83de26a581853508!8m2!3d40.3883526!4d49.7920524!16s%2Fg%2F11rwpfjnfj!19sChIJlRammbiHMEARCDWFgaUm3oM?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 5.0,
         "reviews": 2,
         "address": "R&Q Garage, Alatava Street 7, Baki 1005"
@@ -1626,8 +1646,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8111983,
-          40.4535846
+          40.4535846,
+          49.8111983
         ]
       },
       "properties": {
@@ -1646,8 +1666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1364189,
-          40.4905413
+          40.4905413,
+          50.1364189
         ]
       },
       "properties": {
@@ -1658,7 +1678,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 2,
-        "address": "F4RP+6H7 Senan Moyka, M?rd?kan"
+        "address": "F4RP+6H7 Senan Moyka, M\u00c9\u2122rd\u00c9\u2122kan"
       }
     },
     {
@@ -1666,8 +1686,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9801232,
-          40.3860574
+          40.4849959,
+          50.1843473
+        ]
+      },
+      "properties": {
+        "place_id": "ChIJQ5KfCABfMEAR1st80EsGgBc",
+        "name": "Peysel salmanin yani",
+        "link": "https://www.google.com/maps/place/Peysel+salmanin+yani/data=!4m7!3m6!1s0x40305f00089f9243:0x1780064bd07ccbd6!8m2!3d40.4849959!4d50.1843473!16s%2Fg%2F11vplbwbmc!19sChIJQ5KfCABfMEAR1st80EsGgBc?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": 1.0,
+        "reviews": 2,
+        "address": "Peysel salmanin yani, Shuvelan Park, Almas Ildirim, Baku 1044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.3860574,
+          49.9801232
         ]
       },
       "properties": {
@@ -1686,8 +1726,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.3620833,
-          40.7002529
+          40.7002529,
+          46.3620833
         ]
       },
       "properties": {
@@ -1698,7 +1738,7 @@
         "categories": "Self Servis Oto Yikama",
         "rating": 5.0,
         "reviews": 1,
-        "address": "AVTO YUMA 333, Ataturk, 177c S?m?d Vurgun, G?nc? 2000"
+        "address": "AVTO YUMA 333, Ataturk, 177c S\u00c9\u2122m\u00c9\u2122d Vurgun, G\u00c9\u2122nc\u00c9\u2122 2000"
       }
     },
     {
@@ -1706,8 +1746,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.3540328,
-          40.7183089
+          40.7183089,
+          46.3540328
         ]
       },
       "properties": {
@@ -1718,7 +1758,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "P993+8JF ASEA Avtoyuma, R21, G?nc?"
+        "address": "P993+8JF ASEA Avtoyuma, R21, G\u00c9\u2122nc\u00c9\u2122"
       }
     },
     {
@@ -1726,8 +1766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.360112,
-          40.69251
+          40.69251,
+          46.360112
         ]
       },
       "properties": {
@@ -1738,7 +1778,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "M9R5+VWG Avtoyuma_gence_999, G?nc?"
+        "address": "M9R5+VWG Avtoyuma_gence_999, G\u00c9\u2122nc\u00c9\u2122"
       }
     },
     {
@@ -1746,19 +1786,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.3582657,
-          40.684939
+          40.684939,
+          46.3582657
         ]
       },
       "properties": {
         "place_id": "ChIJ56oLDyRRP0ARIRL4OF_3VOU",
-        "name": "ELITE CAR WASH G?nc?",
+        "name": "ELITE CAR WASH G\u00c9\u2122nc\u00c9\u2122",
         "link": "https://www.google.com/maps/place/ELITE+CAR+WASH+G%C9%99nc%C9%99/data=!4m7!3m6!1s0x403f51240f0baae7:0xe554f75f38f81221!8m2!3d40.684939!4d46.3582657!16s%2Fg%2F11jlyyxkgl!19sChIJ56oLDyRRP0ARIRL4OF_3VOU?authuser=0&hl=az&rclk=1",
-        "main_category": "Avto B?rpaciliq Xidm?ti",
-        "categories": "Avto B?rpaciliq Xidm?ti",
+        "main_category": "Avto B\u00c9\u2122rpaciliq Xidm\u00c9\u2122ti",
+        "categories": "Avto B\u00c9\u2122rpaciliq Xidm\u00c9\u2122ti",
         "rating": 5.0,
         "reviews": 1,
-        "address": "ELITE CAR WASH G?nc?, 321 Ataturk pr, G?nc?"
+        "address": "ELITE CAR WASH G\u00c9\u2122nc\u00c9\u2122, 321 Ataturk pr, G\u00c9\u2122nc\u00c9\u2122"
       }
     },
     {
@@ -1766,8 +1806,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.6928583,
-          40.5766832
+          40.5766832,
+          49.6928583
         ]
       },
       "properties": {
@@ -1786,8 +1826,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7292807,
-          40.5289131
+          40.5289131,
+          49.7292807
         ]
       },
       "properties": {
@@ -1806,8 +1846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.5763791,
-          40.6213546
+          40.6213546,
+          49.5763791
         ]
       },
       "properties": {
@@ -1826,8 +1866,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7119442,
-          40.5502918
+          40.5502918,
+          49.7119442
         ]
       },
       "properties": {
@@ -1846,8 +1886,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.5757869,
-          40.6217424
+          40.6217424,
+          49.5757869
         ]
       },
       "properties": {
@@ -1866,8 +1906,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8948245,
-          40.3920092
+          40.3920092,
+          49.8948245
         ]
       },
       "properties": {
@@ -1878,7 +1918,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 4.0,
         "reviews": 1,
-        "address": "9VRV+RW4 Avto yuma (Moyka), M?s?di Hilal Kazimov, Baki"
+        "address": "9VRV+RW4 Avto yuma (Moyka), M\u00c9\u2122s\u00c9\u2122di Hilal Kazimov, Baki"
       }
     },
     {
@@ -1886,8 +1926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8321038,
-          40.4418413
+          40.4418413,
+          49.8321038
         ]
       },
       "properties": {
@@ -1906,8 +1946,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7302506,
-          40.3273285
+          40.3273285,
+          49.7302506
         ]
       },
       "properties": {
@@ -1918,7 +1958,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "8PGJ+W4J Car Wash 50 qegik, Nizami G?nc?vi, Lokbatan"
+        "address": "8PGJ+W4J Car Wash 50 qegik, Nizami G\u00c9\u2122nc\u00c9\u2122vi, Lokbatan"
       }
     },
     {
@@ -1926,8 +1966,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8044308,
-          40.3278271
+          40.3278271,
+          49.8044308
         ]
       },
       "properties": {
@@ -1946,8 +1986,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8234302,
-          40.3791082
+          40.3791082,
+          49.8234302
         ]
       },
       "properties": {
@@ -1966,8 +2006,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8376455,
-          40.4155471
+          40.4155471,
+          49.8376455
         ]
       },
       "properties": {
@@ -1978,7 +2018,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "Car spa, 32 ?c?mi Naxcivani, Baki"
+        "address": "Car spa, 32 \u00c9\u2122c\u00c9\u2122mi Naxcivani, Baki"
       }
     },
     {
@@ -1986,8 +2026,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.861438,
-          40.385307
+          40.385307,
+          49.861438
         ]
       },
       "properties": {
@@ -2006,8 +2046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.872353,
-          40.4099663
+          40.4099663,
+          49.872353
         ]
       },
       "properties": {
@@ -2026,8 +2066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8670924,
-          40.4092617
+          40.4092617,
+          49.8670924
         ]
       },
       "properties": {
@@ -2046,8 +2086,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8352142,
-          40.3863314
+          40.3863314,
+          49.8352142
         ]
       },
       "properties": {
@@ -2058,7 +2098,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "9RPP+G3P Avtoyuyucu, M?rdanov Qardaslari, Baki"
+        "address": "9RPP+G3P Avtoyuyucu, M\u00c9\u2122rdanov Qardaslari, Baki"
       }
     },
     {
@@ -2066,8 +2106,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8153353,
-          40.3688726
+          40.3688726,
+          49.8153353
         ]
       },
       "properties": {
@@ -2086,8 +2126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8612773,
-          40.3789427
+          40.3789427,
+          49.8612773
         ]
       },
       "properties": {
@@ -2106,8 +2146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8201744,
-          40.3977586
+          40.3977586,
+          49.8201744
         ]
       },
       "properties": {
@@ -2118,7 +2158,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "QARAJ 085 AVTOYUMA, 57b Az?r ?liyev, Baki"
+        "address": "QARAJ 085 AVTOYUMA, 57b Az\u00c9\u2122r \u00c9\u2122liyev, Baki"
       }
     },
     {
@@ -2126,8 +2166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8700544,
-          40.4081282
+          40.4081282,
+          49.8700544
         ]
       },
       "properties": {
@@ -2146,8 +2186,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8452557,
-          40.4120336
+          40.4120336,
+          49.8452557
         ]
       },
       "properties": {
@@ -2166,8 +2206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9475122,
-          40.3586681
+          40.3586681,
+          49.9475122
         ]
       },
       "properties": {
@@ -2186,8 +2226,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9108796,
-          40.3865063
+          40.3865063,
+          49.9108796
         ]
       },
       "properties": {
@@ -2198,7 +2238,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "9WP6+J92 Lux wash, R?sid Bagirov kuc?si, Baki"
+        "address": "9WP6+J92 Lux wash, R\u00c9\u2122sid Bagirov kuc\u00c9\u2122si, Baki"
       }
     },
     {
@@ -2206,8 +2246,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9283279,
-          40.3719391
+          40.3719391,
+          49.9283279
         ]
       },
       "properties": {
@@ -2226,8 +2266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8275921,
-          40.39585
+          40.39585,
+          49.8275921
         ]
       },
       "properties": {
@@ -2238,7 +2278,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "ARES Detailing Center, 89 C?lil M?mm?dquluzad? kuc?si, Baki 1078"
+        "address": "ARES Detailing Center, 89 C\u00c9\u2122lil M\u00c9\u2122mm\u00c9\u2122dquluzad\u00c9\u2122 kuc\u00c9\u2122si, Baki 1078"
       }
     },
     {
@@ -2246,8 +2286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.786871,
-          40.3895879
+          40.3895879,
+          49.786871
         ]
       },
       "properties": {
@@ -2258,7 +2298,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "AvtiYuma, 45A ?s?d ?hm?dov, Baki"
+        "address": "AvtiYuma, 45A \u00c9\u2122s\u00c9\u2122d \u00c9\u2122hm\u00c9\u2122dov, Baki"
       }
     },
     {
@@ -2266,8 +2306,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7926438,
-          40.3990335
+          40.3990335,
+          49.7926438
         ]
       },
       "properties": {
@@ -2286,8 +2326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.836803,
-          40.4224929
+          40.4224929,
+          49.836803
         ]
       },
       "properties": {
@@ -2306,8 +2346,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8583962,
-          40.3986581
+          40.3986581,
+          49.8583962
         ]
       },
       "properties": {
@@ -2326,8 +2366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8040021,
-          40.3925512
+          40.3925512,
+          49.8040021
         ]
       },
       "properties": {
@@ -2338,7 +2378,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "RR100 Avtoyuma, 190 Abbas Mirz? S?rifzad? kuc?si, Baki"
+        "address": "RR100 Avtoyuma, 190 Abbas Mirz\u00c9\u2122 S\u00c9\u2122rifzad\u00c9\u2122 kuc\u00c9\u2122si, Baki"
       }
     },
     {
@@ -2346,8 +2386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8051845,
-          40.4511033
+          40.4511033,
+          49.8051845
         ]
       },
       "properties": {
@@ -2366,8 +2406,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8399789,
-          40.414117
+          40.414117,
+          49.8399789
         ]
       },
       "properties": {
@@ -2378,7 +2418,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "Andrey Avto yuma, 35 ?c?mi Naxcivani, Baki"
+        "address": "Andrey Avto yuma, 35 \u00c9\u2122c\u00c9\u2122mi Naxcivani, Baki"
       }
     },
     {
@@ -2386,8 +2426,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9160292,
-          40.3920846
+          40.3920846,
+          49.9160292
         ]
       },
       "properties": {
@@ -2398,7 +2438,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "9WR8+RCJ CarCube Premium Detailing, Bab?k Prospekti, Baki"
+        "address": "9WR8+RCJ CarCube Premium Detailing, Bab\u00c9\u2122k Prospekti, Baki"
       }
     },
     {
@@ -2406,8 +2446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8574345,
-          40.3829772
+          40.3829772,
+          49.8574345
         ]
       },
       "properties": {
@@ -2426,8 +2466,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8507167,
-          40.411125
+          40.411125,
+          49.8507167
         ]
       },
       "properties": {
@@ -2446,8 +2486,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8723336,
-          40.389213
+          40.389213,
+          49.8723336
         ]
       },
       "properties": {
@@ -2466,16 +2506,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7920462,
-          40.3882738
+          40.3882738,
+          49.7920462
         ]
       },
       "properties": {
         "place_id": "ChIJ7zFpG6CHMEARrNk8b2Ncgew",
         "name": "Procar Autodetailing",
         "link": "https://www.google.com/maps/place/Procar+Autodetailing/data=!4m7!3m6!1s0x403087a01b6931ef:0xec815c636f3cd9ac!8m2!3d40.3882738!4d49.7920462!16s%2Fg%2F11h1lssky5!19sChIJ7zFpG6CHMEARrNk8b2Ncgew?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 5.0,
         "reviews": 1,
         "address": "Procar Autodetailing, 62 Abdulla Qarayev, Baku"
@@ -2486,16 +2526,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8670924,
-          40.4092617
+          40.4092617,
+          49.8670924
         ]
       },
       "properties": {
         "place_id": "ChIJ2Q8Sk1N9MEARJ8x3lKODCLs",
         "name": "METAS VIP",
         "link": "https://www.google.com/maps/place/METAS+V%C4%B0P/data=!4m7!3m6!1s0x40307d5393120fd9:0xbb0883a39477cc27!8m2!3d40.4092617!4d49.8670924!16s%2Fg%2F11d_7fpz3z!19sChIJ2Q8Sk1N9MEARJ8x3lKODCLs?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 5.0,
         "reviews": 1,
         "address": "METAS VIP, Baki"
@@ -2506,19 +2546,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8795395,
-          40.4166877
+          40.4166877,
+          49.8795395
         ]
       },
       "properties": {
         "place_id": "ChIJZ4FeT6RjMEARVoWHst0wp9k",
         "name": "Alfa Service Azerbaijan Detailing",
         "link": "https://www.google.com/maps/place/Alfa+Service+Azerbaijan+Detailing/data=!4m7!3m6!1s0x403063a44f5e8167:0xd9a730ddb2878556!8m2!3d40.4166877!4d49.8795395!16s%2Fg%2F11sn_3q209!19sChIJZ4FeT6RjMEARVoWHst0wp9k?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 5.0,
         "reviews": 1,
-        "address": "Alfa Service Azerbaijan Detailing, ?l?sg?r Qayibov, Baki"
+        "address": "Alfa Service Azerbaijan Detailing, \u00c9\u2122l\u00c9\u2122sg\u00c9\u2122r Qayibov, Baki"
       }
     },
     {
@@ -2526,16 +2566,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.812804,
-          40.3756443
+          40.3756443,
+          49.812804
         ]
       },
       "properties": {
         "place_id": "ChIJuzEJM999MEARZPHi8hXzA9s",
         "name": "Mr. Clean Auto Detailing",
         "link": "https://www.google.com/maps/place/Mr.+Clean+Auto+Detailing/data=!4m7!3m6!1s0x40307ddf330931bb:0xdb03f315f2e2f164!8m2!3d40.3756443!4d49.812804!16s%2Fg%2F11m899mll2!19sChIJuzEJM999MEARZPHi8hXzA9s?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 1.0,
         "reviews": 1,
         "address": "Mr. Clean Auto Detailing, 5b Bakhtiyar Vahabzadeh, Baku"
@@ -2546,16 +2586,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8573404,
-          40.3925779
+          40.3925779,
+          49.8573404
         ]
       },
       "properties": {
         "place_id": "ChIJT-4qx9h9MEAR5QgLgIqGwMM",
         "name": "Car WOW Baku",
         "link": "https://www.google.com/maps/place/Car+WOW+Baku/data=!4m7!3m6!1s0x40307dd8c72aee4f:0xc3c0868a800b08e5!8m2!3d40.3925779!4d49.8573404!16s%2Fg%2F11s5j6nlqv!19sChIJT-4qx9h9MEAR5QgLgIqGwMM?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 5.0,
         "reviews": 1,
         "address": "Car WOW Baku, 69b Tabriz St, Baku"
@@ -2566,16 +2606,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9664141,
-          40.4253882
+          40.4253882,
+          49.9664141
         ]
       },
       "properties": {
         "place_id": "ChIJrccsJx5jMEARvU-YCWLv4Wo",
         "name": "Khan Dizayn",
         "link": "https://www.google.com/maps/place/Khan+Dizayn/data=!4m7!3m6!1s0x4030631e272cc7ad:0x6ae1ef6209984fbd!8m2!3d40.4253882!4d49.9664141!16s%2Fg%2F11t36s6rw1!19sChIJrccsJx5jMEARvU-YCWLv4Wo?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 5.0,
         "reviews": 1,
         "address": "Khan Dizayn, 179 Nazim Ismayilov St, Baku 1040"
@@ -2586,16 +2626,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9246587,
-          40.3754511
+          40.3754511,
+          49.9246587
         ]
       },
       "properties": {
         "place_id": "ChIJo9d9V6F9MEAR2jRU0dB-CrE",
         "name": "Deri Berpa Baku",
         "link": "https://www.google.com/maps/place/Deri+Berpa+Baku/data=!4m7!3m6!1s0x40307da1577dd7a3:0xb10a7ed0d15434da!8m2!3d40.3754511!4d49.9246587!16s%2Fg%2F11swt9zw3f!19sChIJo9d9V6F9MEAR2jRU0dB-CrE?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 1.0,
         "reviews": 1,
         "address": "Deri Berpa Baku, 8 November Ave, 1 Jorad, Baku"
@@ -2606,8 +2646,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8865443,
-          40.3815764
+          40.3815764,
+          49.8865443
         ]
       },
       "properties": {
@@ -2618,7 +2658,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "White City Car Wash, 1-ci f?vvar?l?r kuc?si, Baki 2002"
+        "address": "White City Car Wash, 1-ci f\u00c9\u2122vvar\u00c9\u2122l\u00c9\u2122r kuc\u00c9\u2122si, Baki 2002"
       }
     },
     {
@@ -2626,19 +2666,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.919492,
-          40.3925715
+          40.3925715,
+          49.919492
         ]
       },
       "properties": {
         "place_id": "ChIJtUhosyhjMEARvFwuIuVY3iw",
-        "name": "Mazda Honda Subaru ehtiyat his?l?ri",
+        "name": "Mazda Honda Subaru ehtiyat his\u00c9\u2122l\u00c9\u2122ri",
         "link": "https://www.google.com/maps/place/Mazda+Honda+Subaru+ehtiyat+his%C9%99l%C9%99ri/data=!4m7!3m6!1s0x40306328b36848b5:0x2cde58e5222e5cbc!8m2!3d40.3925715!4d49.919492!16s%2Fg%2F11cs1k_m14!19sChIJtUhosyhjMEARvFwuIuVY3iw?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": 5.0,
         "reviews": 1,
-        "address": "9WV9+2QH Mazda Honda Subaru ehtiyat his?l?ri, Babak Ave, Baku"
+        "address": "9WV9+2QH Mazda Honda Subaru ehtiyat his\u00c9\u2122l\u00c9\u2122ri, Babak Ave, Baku"
       }
     },
     {
@@ -2646,19 +2686,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.889188,
-          40.38977
+          40.38977,
+          49.889188
         ]
       },
       "properties": {
         "place_id": "ChIJUz8vbep9MEARgKr2yuYjktI",
-        "name": "R?sad Avtoyuma",
+        "name": "R\u00c9\u2122sad Avtoyuma",
         "link": "https://www.google.com/maps/place/R%C9%99%C5%9Fad+Avtoyuma/data=!4m7!3m6!1s0x40307dea6d2f3f53:0xd29223e6caf6aa80!8m2!3d40.38977!4d49.889188!16s%2Fg%2F11y1wsbsy9!19sChIJUz8vbep9MEARgKr2yuYjktI?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "9VQQ+VFP R?sad Avtoyuma, Baki"
+        "address": "9VQQ+VFP R\u00c9\u2122sad Avtoyuma, Baki"
       }
     },
     {
@@ -2666,8 +2706,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8241148,
-          40.374996
+          40.374996,
+          49.8241148
         ]
       },
       "properties": {
@@ -2686,8 +2726,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8814086,
-          40.4006319
+          40.4006319,
+          49.8814086
         ]
       },
       "properties": {
@@ -2698,7 +2738,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 1.0,
         "reviews": 1,
-        "address": "PRO Montin Avtoyuma, 34-40 ?liyar ?liyev, Baki 1005"
+        "address": "PRO Montin Avtoyuma, 34-40 \u00c9\u2122liyar \u00c9\u2122liyev, Baki 1005"
       }
     },
     {
@@ -2706,8 +2746,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8718632,
-          40.427429
+          40.427429,
+          49.8718632
         ]
       },
       "properties": {
@@ -2726,8 +2766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9611107,
-          40.4320879
+          40.4320879,
+          49.9611107
         ]
       },
       "properties": {
@@ -2746,8 +2786,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9319384,
-          40.4392202
+          40.4392202,
+          49.9319384
         ]
       },
       "properties": {
@@ -2758,7 +2798,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "Sabuncu Avtoyuma, 2 Els?n Mehdiyev, Baki"
+        "address": "Sabuncu Avtoyuma, 2 Els\u00c9\u2122n Mehdiyev, Baki"
       }
     },
     {
@@ -2766,8 +2806,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9296792,
-          40.4218838
+          40.4218838,
+          49.9296792
         ]
       },
       "properties": {
@@ -2786,8 +2826,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9461875,
-          40.4486875
+          40.4486875,
+          49.9461875
         ]
       },
       "properties": {
@@ -2806,8 +2846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9441498,
-          40.4184574
+          40.4184574,
+          49.9441498
         ]
       },
       "properties": {
@@ -2818,7 +2858,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "Moyka Muraz, 18 ?liaga Kurcayl, Baki 1002"
+        "address": "Moyka Muraz, 18 \u00c9\u2122liaga Kurcayl, Baki 1002"
       }
     },
     {
@@ -2826,8 +2866,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9519174,
-          40.4074345
+          40.4074345,
+          49.9519174
         ]
       },
       "properties": {
@@ -2838,7 +2878,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "Kerimin Moykasi, 67 C?msid Naxcivanski, Baki"
+        "address": "Kerimin Moykasi, 67 C\u00c9\u2122msid Naxcivanski, Baki"
       }
     },
     {
@@ -2846,8 +2886,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9427549,
-          40.4285238
+          40.4285238,
+          49.9427549
         ]
       },
       "properties": {
@@ -2866,8 +2906,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9439621,
-          40.4144365
+          40.4144365,
+          49.9439621
         ]
       },
       "properties": {
@@ -2886,8 +2926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9466304,
-          40.4017391
+          40.4017391,
+          49.9466304
         ]
       },
       "properties": {
@@ -2906,8 +2946,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9648003,
-          40.3663498
+          40.3663498,
+          49.9648003
         ]
       },
       "properties": {
@@ -2926,8 +2966,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.92462,
-          40.4211299
+          40.4211299,
+          49.92462
         ]
       },
       "properties": {
@@ -2938,7 +2978,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "CWCF+FR5 AVTO YUMA, ?li V?liyev, Kuc?si"
+        "address": "CWCF+FR5 AVTO YUMA, \u00c9\u2122li V\u00c9\u2122liyev, Kuc\u00c9\u2122si"
       }
     },
     {
@@ -2946,8 +2986,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9580593,
-          40.3887753
+          40.3887753,
+          49.9580593
         ]
       },
       "properties": {
@@ -2966,8 +3006,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9576094,
-          40.3599085
+          40.3599085,
+          49.9576094
         ]
       },
       "properties": {
@@ -2986,8 +3026,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.968694,
-          40.3807522
+          40.3807522,
+          49.968694
         ]
       },
       "properties": {
@@ -3006,8 +3046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8187156,
-          40.4159101
+          40.4159101,
+          49.8187156
         ]
       },
       "properties": {
@@ -3026,8 +3066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8102561,
-          40.4192489
+          40.4192489,
+          49.8102561
         ]
       },
       "properties": {
@@ -3038,7 +3078,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "Avto Yuma 555, 34 Mir C?lal, Baki"
+        "address": "Avto Yuma 555, 34 Mir C\u00c9\u2122lal, Baki"
       }
     },
     {
@@ -3046,19 +3086,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8184906,
-          40.4234776
+          40.4234776,
+          49.8184906
         ]
       },
       "properties": {
         "place_id": "ChIJE2VdtXCHMEARSlTbEBGG5QU",
-        "name": "50 q?pik avto yuma",
+        "name": "50 q\u00c9\u2122pik avto yuma",
         "link": "https://www.google.com/maps/place/50+q%C9%99pik+avto+yuma/data=!4m7!3m6!1s0x40308770b55d6513:0x5e5861110db544a!8m2!3d40.4234776!4d49.8184906!16s%2Fg%2F11v0tdbp08!19sChIJE2VdtXCHMEARSlTbEBGG5QU?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": 1.0,
         "reviews": 1,
-        "address": "CRF9+99X 50 q?pik avto yuma, Mir C?lal, Baki"
+        "address": "CRF9+99X 50 q\u00c9\u2122pik avto yuma, Mir C\u00c9\u2122lal, Baki"
       }
     },
     {
@@ -3066,19 +3106,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8413787,
-          40.4619418
+          40.4619418,
+          49.8413787
         ]
       },
       "properties": {
         "place_id": "ChIJwW7FR9WJMEARyDUqHFDiBPc",
-        "name": "Dsk yolu 50 q?pik moyka",
+        "name": "Dsk yolu 50 q\u00c9\u2122pik moyka",
         "link": "https://www.google.com/maps/place/Dsk+yolu+50+q%C9%99pik+moyka/data=!4m7!3m6!1s0x403089d547c56ec1:0xf704e2501c2a35c8!8m2!3d40.4619418!4d49.8413787!16s%2Fg%2F11v5zgy5kj!19sChIJwW7FR9WJMEARyDUqHFDiBPc?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "FR6R+FJW Dsk yolu 50 q?pik moyka, Baki"
+        "address": "FR6R+FJW Dsk yolu 50 q\u00c9\u2122pik moyka, Baki"
       }
     },
     {
@@ -3086,8 +3126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8315734,
-          40.3995768
+          40.3995768,
+          49.8315734
         ]
       },
       "properties": {
@@ -3098,7 +3138,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "Moyka, 941 S?m?d Vurgun, Baki"
+        "address": "Moyka, 941 S\u00c9\u2122m\u00c9\u2122d Vurgun, Baki"
       }
     },
     {
@@ -3106,8 +3146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1358908,
-          40.4903135
+          40.4903135,
+          50.1358908
         ]
       },
       "properties": {
@@ -3118,7 +3158,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "F4RP+6H7 Ali Moyka, M?rd?kan"
+        "address": "F4RP+6H7 Ali Moyka, M\u00c9\u2122rd\u00c9\u2122kan"
       }
     },
     {
@@ -3126,8 +3166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1102968,
-          40.5176966
+          40.5176966,
+          50.1102968
         ]
       },
       "properties": {
@@ -3146,8 +3186,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.089068,
-          40.4467826
+          40.4467826,
+          50.089068
         ]
       },
       "properties": {
@@ -3158,7 +3198,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "C3WQ+PJ8 Dost Avto Yuma, X?z?r Rayonu Bin? q?s?b?si, Baki 1045"
+        "address": "C3WQ+PJ8 Dost Avto Yuma, X\u00c9\u2122z\u00c9\u2122r Rayonu Bin\u00c9\u2122 q\u00c9\u2122s\u00c9\u2122b\u00c9\u2122si, Baki 1045"
       }
     },
     {
@@ -3166,8 +3206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1020034,
-          40.4473071
+          40.4473071,
+          50.1020034
         ]
       },
       "properties": {
@@ -3178,7 +3218,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "C4W3+R24 Namiq moyka, M?rd?kan"
+        "address": "C4W3+R24 Namiq moyka, M\u00c9\u2122rd\u00c9\u2122kan"
       }
     },
     {
@@ -3186,19 +3226,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1365345,
-          40.4925121
+          40.4925121,
+          50.1365345
         ]
       },
       "properties": {
         "place_id": "ChIJKdZl2gxfMEARSZ-ZdwSEgRE",
         "name": "Buta AvtoServis",
         "link": "https://www.google.com/maps/place/Buta+AvtoServis/data=!4m7!3m6!1s0x40305f0cda65d629:0x1181840477999f49!8m2!3d40.4925121!4d50.1365345!16s%2Fg%2F11h9bnkgm3!19sChIJKdZl2gxfMEARSZ-ZdwSEgRE?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil T?miri",
-        "categories": "Avtomobil T?miri, Avtomobil Yuyulmasi",
+        "main_category": "Avtomobil T\u00c9\u2122miri",
+        "categories": "Avtomobil T\u00c9\u2122miri, Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "Buta AvtoServis, Mehdi Huseynzade kucesi donge 4 ev 19, M?rd?kan 1044"
+        "address": "Buta AvtoServis, Mehdi Huseynzade kucesi donge 4 ev 19, M\u00c9\u2122rd\u00c9\u2122kan 1044"
       }
     },
     {
@@ -3206,19 +3246,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.100784,
-          40.4577123
+          40.4577123,
+          50.100784
         ]
       },
       "properties": {
         "place_id": "ChIJK0oEhJNfMEARtXI2lGPfTyY",
-        "name": "50 q?pik moyka",
+        "name": "50 q\u00c9\u2122pik moyka",
         "link": "https://www.google.com/maps/place/50+q%C9%99pik+moyka/data=!4m7!3m6!1s0x40305f9384044a2b:0x264fdf63943672b5!8m2!3d40.4577123!4d50.100784!16s%2Fg%2F11rylf0tss!19sChIJK0oEhJNfMEARtXI2lGPfTyY?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "F452+38M 50 q?pik moyka"
+        "address": "F452+38M 50 q\u00c9\u2122pik moyka"
       }
     },
     {
@@ -3226,19 +3266,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.112048,
-          40.4495857
+          40.4495857,
+          50.112048
         ]
       },
       "properties": {
         "place_id": "ChIJCztAdABfMEAR9ImHRf3liC0",
-        "name": "523 AVTO BOYA M?RK?ZI.TOFIQ RUST?M",
+        "name": "523 AVTO BOYA M\u00c9\u2122RK\u00c9\u2122ZI.TOFIQ RUST\u00c9\u2122M",
         "link": "https://www.google.com/maps/place/523+AVTO+BOYA+M%C6%8FRK%C6%8FZI.TOFIQ+RUST%C6%8FM/data=!4m7!3m6!1s0x40305f0074403b0b:0x2d88e5fd458789f4!8m2!3d40.4495857!4d50.112048!16s%2Fg%2F11lchhb2rn!19sChIJCztAdABfMEAR9ImHRf3liC0?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "523 AVTO BOYA M?RK?ZI.TOFIQ RUST?M, Nadir Sah Avsar"
+        "address": "523 AVTO BOYA M\u00c9\u2122RK\u00c9\u2122ZI.TOFIQ RUST\u00c9\u2122M, Nadir Sah Avsar"
       }
     },
     {
@@ -3246,8 +3286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9356347,
-          40.3979243
+          40.3979243,
+          49.9356347
         ]
       },
       "properties": {
@@ -3266,19 +3306,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.0468351,
-          40.4236154
+          40.4236154,
+          50.0468351
         ]
       },
       "properties": {
         "place_id": "ChIJ620TFHBhMEARAsHKNGHrCEQ",
-        "name": "Ozun yu 50 q?pik",
+        "name": "Ozun yu 50 q\u00c9\u2122pik",
         "link": "https://www.google.com/maps/place/%C3%96z%C3%BCn+yu+50+q%C9%99pik/data=!4m7!3m6!1s0x4030617014136deb:0x4408eb6134cac102!8m2!3d40.4236154!4d50.0468351!16s%2Fg%2F11sd0vbc79!19sChIJ620TFHBhMEARAsHKNGHrCEQ?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "C2FW+GV9 Ozun yu 50 q?pik, 7th cornering, Baki"
+        "address": "C2FW+GV9 Ozun yu 50 q\u00c9\u2122pik, 7th cornering, Baki"
       }
     },
     {
@@ -3286,19 +3326,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.094226,
-          40.4391235
+          40.4391235,
+          50.094226
         ]
       },
       "properties": {
         "place_id": "ChIJYbpoEXZhMEARGfLP3_ztl_w",
-        "name": "Moyka 50 q?pik",
+        "name": "Moyka 50 q\u00c9\u2122pik",
         "link": "https://www.google.com/maps/place/Moyka+50+q%C9%99pik/data=!4m7!3m6!1s0x403061761168ba61:0xfc97edfcdfcff219!8m2!3d40.4391235!4d50.094226!16s%2Fg%2F11tcvg56jm!19sChIJYbpoEXZhMEARGfLP3_ztl_w?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "C3QV+JM Moyka 50 q?pik, Baki"
+        "address": "C3QV+JM Moyka 50 q\u00c9\u2122pik, Baki"
       }
     },
     {
@@ -3306,19 +3346,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9304815,
-          40.4445831
+          40.4445831,
+          49.9304815
         ]
       },
       "properties": {
         "place_id": "ChIJkeESVAuJMEAR0Vuz0sE8wRc",
-        "name": "?c?mi 2",
+        "name": "\u00c9\u2122c\u00c9\u2122mi 2",
         "link": "https://www.google.com/maps/place/%C6%8Fc%C9%99mi+2/data=!4m7!3m6!1s0x4030890b5412e191:0x17c13cc1d2b35bd1!8m2!3d40.4445831!4d49.9304815!16s%2Fg%2F11sc70bmj2!19sChIJkeESVAuJMEAR0Vuz0sE8wRc?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "CWWJ+333 ?c?mi 2, Baki"
+        "address": "CWWJ+333 \u00c9\u2122c\u00c9\u2122mi 2, Baki"
       }
     },
     {
@@ -3326,8 +3366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.0503308,
-          40.5182038
+          40.5182038,
+          50.0503308
         ]
       },
       "properties": {
@@ -3346,8 +3386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7583578,
-          40.4887382
+          40.4887382,
+          49.7583578
         ]
       },
       "properties": {
@@ -3358,7 +3398,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "Avto yuma, 40 ?liaga Vahid, Masazir"
+        "address": "Avto yuma, 40 \u00c9\u2122liaga Vahid, Masazir"
       }
     },
     {
@@ -3366,8 +3406,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9515037,
-          40.3712964
+          40.3712964,
+          49.9515037
         ]
       },
       "properties": {
@@ -3378,7 +3418,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": 5.0,
         "reviews": 1,
-        "address": "9XC2+GMM Logovo Serika, Xudu M?mm?dov, Baki"
+        "address": "9XC2+GMM Logovo Serika, Xudu M\u00c9\u2122mm\u00c9\u2122dov, Baki"
       }
     },
     {
@@ -3386,8 +3426,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1179819,
-          40.4239214
+          40.4239214,
+          50.1179819
         ]
       },
       "properties": {
@@ -3406,8 +3446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.3660153,
-          40.7011374
+          40.7011374,
+          46.3660153
         ]
       },
       "properties": {
@@ -3418,7 +3458,7 @@
         "categories": "Self Servis Oto Yikama",
         "rating": null,
         "reviews": null,
-        "address": "Apex Avto Yuma, Sah Ismayil X?tai kuc?si, G?nc?"
+        "address": "Apex Avto Yuma, Sah Ismayil X\u00c9\u2122tai kuc\u00c9\u2122si, G\u00c9\u2122nc\u00c9\u2122"
       }
     },
     {
@@ -3426,8 +3466,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.3780476,
-          40.6792988
+          40.6792988,
+          46.3780476
         ]
       },
       "properties": {
@@ -3446,8 +3486,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.3880056,
-          40.6844498
+          40.6844498,
+          46.3880056
         ]
       },
       "properties": {
@@ -3466,8 +3506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.3541747,
-          40.6966575
+          40.6966575,
+          46.3541747
         ]
       },
       "properties": {
@@ -3478,7 +3518,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "M9W3+FR8 Avto yuma, Shah Ismayil Khetayi Ave, G?nc?"
+        "address": "M9W3+FR8 Avto yuma, Shah Ismayil Khetayi Ave, G\u00c9\u2122nc\u00c9\u2122"
       }
     },
     {
@@ -3486,8 +3526,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.3773086,
-          40.6712499
+          40.6712499,
+          46.3773086
         ]
       },
       "properties": {
@@ -3498,7 +3538,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "M9CG+HHX Avtoyuma, Museyib Bagirov, G?nc?"
+        "address": "M9CG+HHX Avtoyuma, Museyib Bagirov, G\u00c9\u2122nc\u00c9\u2122"
       }
     },
     {
@@ -3506,8 +3546,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.3669308,
-          40.6429669
+          40.6429669,
+          46.3669308
         ]
       },
       "properties": {
@@ -3518,7 +3558,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "J9V8+5Q Avto Yuma Moyka Avtozavod, G?nc?"
+        "address": "J9V8+5Q Avto Yuma Moyka Avtozavod, G\u00c9\u2122nc\u00c9\u2122"
       }
     },
     {
@@ -3526,8 +3566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.3795044,
-          40.7045958
+          40.7045958,
+          46.3795044
         ]
       },
       "properties": {
@@ -3538,7 +3578,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "P93H+RRJ Avto yuma, G?nc?"
+        "address": "P93H+RRJ Avto yuma, G\u00c9\u2122nc\u00c9\u2122"
       }
     },
     {
@@ -3546,8 +3586,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.6592502,
-          40.5918696
+          40.5918696,
+          49.6592502
         ]
       },
       "properties": {
@@ -3566,8 +3606,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.6956548,
-          40.5628683
+          40.5628683,
+          49.6956548
         ]
       },
       "properties": {
@@ -3586,8 +3626,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.6988393,
-          40.577547
+          40.577547,
+          49.6988393
         ]
       },
       "properties": {
@@ -3606,8 +3646,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.6991558,
-          40.5617787
+          40.5617787,
+          49.6991558
         ]
       },
       "properties": {
@@ -3626,8 +3666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.6728071,
-          40.5804576
+          40.5804576,
+          49.6728071
         ]
       },
       "properties": {
@@ -3646,8 +3686,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.6676519,
-          40.5750218
+          40.5750218,
+          49.6676519
         ]
       },
       "properties": {
@@ -3666,8 +3706,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.689986,
-          40.573273
+          40.573273,
+          49.689986
         ]
       },
       "properties": {
@@ -3686,8 +3726,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7295616,
-          40.5287266
+          40.5287266,
+          49.7295616
         ]
       },
       "properties": {
@@ -3706,8 +3746,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7425583,
-          40.5242136
+          40.5242136,
+          49.7425583
         ]
       },
       "properties": {
@@ -3726,8 +3766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.702585,
-          40.5669135
+          40.5669135,
+          49.702585
         ]
       },
       "properties": {
@@ -3746,28 +3786,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.6414169,
-          40.6068448
-        ]
-      },
-      "properties": {
-        "place_id": "ChIJg25JoK2XMEARaf9TaLvwUYQ",
-        "name": "Peysel r?van",
-        "link": "https://www.google.com/maps/place/Peysel+r%C9%99van/data=!4m7!3m6!1s0x403097ada0496e83:0x8451f0bb6853ff69!8m2!3d40.6068448!4d49.6414169!16s%2Fg%2F11vkn1df8s!19sChIJg25JoK2XMEARaf9TaLvwUYQ?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Yuyulmasi",
-        "categories": "Avtomobil Yuyulmasi",
-        "rating": null,
-        "reviews": null,
-        "address": "JJ4R+PJR Peysel r?van, Sumqayit"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.6830724,
-          40.5633566
+          40.5633566,
+          49.6830724
         ]
       },
       "properties": {
@@ -3786,28 +3806,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.6563085,
-          40.5379049
-        ]
-      },
-      "properties": {
-        "place_id": "ChIJnZxIRHmRMEAR-wOFH1AHecs",
-        "name": "Firtdigov",
-        "link": "https://www.google.com/maps/place/F%C4%B1rtd%C4%B1%C4%9Fov/data=!4m7!3m6!1s0x4030917944489c9d:0xcb7907501f8503fb!8m2!3d40.5379049!4d49.6563085!16s%2Fg%2F11vd3m44y3!19sChIJnZxIRHmRMEAR-wOFH1AHecs?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Yuyulmasi",
-        "categories": "Avtomobil Yuyulmasi",
-        "rating": null,
-        "reviews": null,
-        "address": "GMQ4+2Q3 Firtdigov, Seymur Quliyev, Sumqayit"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.716853,
-          40.5612603
+          40.5612603,
+          49.716853
         ]
       },
       "properties": {
@@ -3826,8 +3826,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.6403413,
-          40.5546204
+          40.5546204,
+          49.6403413
         ]
       },
       "properties": {
@@ -3846,8 +3846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.6742297,
-          40.5948356
+          40.5948356,
+          49.6742297
         ]
       },
       "properties": {
@@ -3858,7 +3858,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "HMVF+WPF Lotu isi, Polad H?simov, Sumqayit 5000"
+        "address": "HMVF+WPF Lotu isi, Polad H\u00c9\u2122simov, Sumqayit 5000"
       }
     },
     {
@@ -3866,8 +3866,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7004194,
-          40.5613556
+          40.5918558,
+          49.6671996
+        ]
+      },
+      "properties": {
+        "place_id": "ChIJV-djhsOXMEARvapBeqFZt-0",
+        "name": "Lotular yeri agakisi",
+        "link": "https://www.google.com/maps/place/Lotular+yeri+agakisi/data=!4m7!3m6!1s0x403097c38663e757:0xedb759a17a41aabd!8m2!3d40.5918558!4d49.6671996!16s%2Fg%2F11vl43xwyg!19sChIJV-djhsOXMEARvapBeqFZt-0?authuser=0&hl=az&rclk=1",
+        "main_category": "Avtomobil Yuyulmasi",
+        "categories": "Avtomobil Yuyulmasi",
+        "rating": null,
+        "reviews": null,
+        "address": "Lotular yeri agakisi, 31 Heydar Aliyev Pros, Sumqayit 5000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.5613556,
+          49.7004194
         ]
       },
       "properties": {
@@ -3886,8 +3906,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7344788,
-          40.5525781
+          40.5525781,
+          49.7344788
         ]
       },
       "properties": {
@@ -3906,68 +3926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.6928281,
-          40.5650625
-        ]
-      },
-      "properties": {
-        "place_id": "ChIJYXK5lQuRMEARS0IYGZlNQIs",
-        "name": "Burada ilkan?nindi",
-        "link": "https://www.google.com/maps/place/Burada+ilkan%C9%99nindi/data=!4m7!3m6!1s0x4030910b95b97261:0x8b404d991918424b!8m2!3d40.5650625!4d49.6928281!16s%2Fg%2F11tmsnn68m!19sChIJYXK5lQuRMEARS0IYGZlNQIs?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Yuyulmasi",
-        "categories": "Avtomobil Yuyulmasi",
-        "rating": null,
-        "reviews": null,
-        "address": "HM8V+24G Burada ilkan?nindi, Sumqayit 5011"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.638169,
-          40.5905062
-        ]
-      },
-      "properties": {
-        "place_id": "ChIJid105t2XMEARYB5xzmtkub0",
-        "name": "Bura aga baxir",
-        "link": "https://www.google.com/maps/place/Bura+a%C4%9Fa+bax%C4%B1r/data=!4m7!3m6!1s0x403097dde674dd89:0xbdb9646bce711e60!8m2!3d40.5905062!4d49.638169!16s%2Fg%2F11vhydrl8n!19sChIJid105t2XMEARYB5xzmtkub0?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Yuyulmasi",
-        "categories": "Avtomobil Yuyulmasi",
-        "rating": null,
-        "reviews": null,
-        "address": "HJRQ+67 Bura aga baxir, Sumqayit"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.7072118,
-          40.5758001
-        ]
-      },
-      "properties": {
-        "place_id": "ChIJC2hb5LKRMEARRN_njJA8VJ8",
-        "name": "Yaxsilarin m?hl?si",
-        "link": "https://www.google.com/maps/place/Yaxsilarin+m%C9%99hl%C9%99si/data=!4m7!3m6!1s0x403091b2e45b680b:0x9f543c908ce7df44!8m2!3d40.5758001!4d49.7072118!16s%2Fg%2F11l6s640_x!19sChIJC2hb5LKRMEARRN_njJA8VJ8?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Yuyulmasi",
-        "categories": "Avtomobil Yuyulmasi",
-        "rating": null,
-        "reviews": null,
-        "address": "HPG4+9XJ Yaxsilarin m?hl?si, Sumqayit"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.7015761,
-          40.572658
+          40.572658,
+          49.7015761
         ]
       },
       "properties": {
@@ -3986,8 +3946,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8906341,
-          40.3967939
+          40.3967939,
+          49.8906341
         ]
       },
       "properties": {
@@ -4006,8 +3966,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8673726,
-          40.3789947
+          40.3789947,
+          49.8673726
         ]
       },
       "properties": {
@@ -4026,8 +3986,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8835608,
-          40.3847084
+          40.3847084,
+          49.8835608
         ]
       },
       "properties": {
@@ -4038,7 +3998,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "Balina Carwash, 3 M?rk?zi Bulvar, Baki"
+        "address": "Balina Carwash, 3 M\u00c9\u2122rk\u00c9\u2122zi Bulvar, Baki"
       }
     },
     {
@@ -4046,8 +4006,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8380013,
-          40.3873103
+          40.3873103,
+          49.8380013
         ]
       },
       "properties": {
@@ -4058,7 +4018,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "Detail CarWash Baku, 90 S?m?d Vurgun, Baki"
+        "address": "Detail CarWash Baku, 90 S\u00c9\u2122m\u00c9\u2122d Vurgun, Baki"
       }
     },
     {
@@ -4066,8 +4026,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8440324,
-          40.4100478
+          40.4100478,
+          49.8440324
         ]
       },
       "properties": {
@@ -4086,8 +4046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8800014,
-          40.4041889
+          40.4041889,
+          49.8800014
         ]
       },
       "properties": {
@@ -4106,8 +4066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7355969,
-          40.3281802
+          40.3281802,
+          49.7355969
         ]
       },
       "properties": {
@@ -4126,8 +4086,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.745727,
-          40.33109
+          40.33109,
+          49.745727
         ]
       },
       "properties": {
@@ -4146,19 +4106,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7406533,
-          40.3243568
+          40.3243568,
+          49.7406533
         ]
       },
       "properties": {
         "place_id": "ChIJV9s_EsB_MEARhdxsylQRq2I",
-        "name": "50 Q?pik Moyka",
+        "name": "50 Q\u00c9\u2122pik Moyka",
         "link": "https://www.google.com/maps/place/50+Q%C9%99pik+Moyka/data=!4m7!3m6!1s0x40307fc0123fdb57:0x62ab1154ca6cdc85!8m2!3d40.3243568!4d49.7406533!16s%2Fg%2F11vdc_lkpm!19sChIJV9s_EsB_MEARhdxsylQRq2I?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "8PFR+P8P 50 Q?pik Moyka, Lokbatan"
+        "address": "8PFR+P8P 50 Q\u00c9\u2122pik Moyka, Lokbatan"
       }
     },
     {
@@ -4166,8 +4126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.647187,
-          40.3021788
+          40.3021788,
+          49.647187
         ]
       },
       "properties": {
@@ -4186,8 +4146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8105083,
-          40.3432564
+          40.3432564,
+          49.8105083
         ]
       },
       "properties": {
@@ -4206,8 +4166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8442024,
-          40.4168837
+          40.4168837,
+          49.8442024
         ]
       },
       "properties": {
@@ -4226,8 +4186,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8275739,
-          40.3366557
+          40.3366557,
+          49.8275739
         ]
       },
       "properties": {
@@ -4246,8 +4206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8073464,
-          40.4114051
+          40.4114051,
+          49.8073464
         ]
       },
       "properties": {
@@ -4266,8 +4226,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8028992,
-          40.3400207
+          40.3400207,
+          49.8028992
         ]
       },
       "properties": {
@@ -4278,7 +4238,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "555 AUTOWASH, 29 Seyran M?mm?dov, Baki"
+        "address": "555 AUTOWASH, 29 Seyran M\u00c9\u2122mm\u00c9\u2122dov, Baki"
       }
     },
     {
@@ -4286,8 +4246,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8599539,
-          40.400462
+          40.400462,
+          49.8599539
         ]
       },
       "properties": {
@@ -4298,7 +4258,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "CV25+5XP Car Wash, Koroglu R?himov kuc?si, Baki"
+        "address": "CV25+5XP Car Wash, Koroglu R\u00c9\u2122himov kuc\u00c9\u2122si, Baki"
       }
     },
     {
@@ -4306,8 +4266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8235558,
-          40.3833299
+          40.3833299,
+          49.8235558
         ]
       },
       "properties": {
@@ -4326,8 +4286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8157595,
-          40.4265493
+          40.4265493,
+          49.8157595
         ]
       },
       "properties": {
@@ -4338,7 +4298,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "CRG8+J86 Auto Wash 600, Adil M?mm?dov, Baki"
+        "address": "CRG8+J86 Auto Wash 600, Adil M\u00c9\u2122mm\u00c9\u2122dov, Baki"
       }
     },
     {
@@ -4346,8 +4306,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8672159,
-          40.3889635
+          40.3889635,
+          49.8672159
         ]
       },
       "properties": {
@@ -4366,8 +4326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.839075,
-          40.426489
+          40.426489,
+          49.839075
         ]
       },
       "properties": {
@@ -4386,8 +4346,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8138155,
-          40.3975751
+          40.3975751,
+          49.8138155
         ]
       },
       "properties": {
@@ -4406,8 +4366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8680122,
-          40.3797758
+          40.3797758,
+          49.8680122
         ]
       },
       "properties": {
@@ -4426,8 +4386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9603968,
-          40.3640731
+          40.3640731,
+          49.9603968
         ]
       },
       "properties": {
@@ -4446,8 +4406,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7841422,
-          40.4307333
+          40.4307333,
+          49.7841422
         ]
       },
       "properties": {
@@ -4466,8 +4426,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8362696,
-          40.3490299
+          40.3490299,
+          49.8362696
         ]
       },
       "properties": {
@@ -4486,8 +4446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8291235,
-          40.3365226
+          40.3365226,
+          49.8291235
         ]
       },
       "properties": {
@@ -4506,8 +4466,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8643602,
-          40.406725
+          40.406725,
+          49.8643602
         ]
       },
       "properties": {
@@ -4526,8 +4486,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8150333,
-          40.4041961
+          40.4041961,
+          49.8150333
         ]
       },
       "properties": {
@@ -4538,7 +4498,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "CR38+M2F HM detailing, Ceyhun S?limov103, Baki"
+        "address": "CR38+M2F HM detailing, Ceyhun S\u00c9\u2122limov103, Baki"
       }
     },
     {
@@ -4546,8 +4506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8173027,
-          40.3781729
+          40.3781729,
+          49.8173027
         ]
       },
       "properties": {
@@ -4566,8 +4526,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8064334,
-          40.3373084
+          40.3373084,
+          49.8064334
         ]
       },
       "properties": {
@@ -4586,8 +4546,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8067269,
-          40.3823113
+          40.3823113,
+          49.8067269
         ]
       },
       "properties": {
@@ -4598,7 +4558,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "Corner Wash & Tea House, 43 Mir?li Seyidov, Baki"
+        "address": "Corner Wash & Tea House, 43 Mir\u00c9\u2122li Seyidov, Baki"
       }
     },
     {
@@ -4606,8 +4566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.843992,
-          40.410772
+          40.410772,
+          49.843992
         ]
       },
       "properties": {
@@ -4626,8 +4586,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8327922,
-          40.3830872
+          40.3830872,
+          49.8327922
         ]
       },
       "properties": {
@@ -4646,8 +4606,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8316482,
-          40.3839364
+          40.3839364,
+          49.8316482
         ]
       },
       "properties": {
@@ -4666,8 +4626,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8066628,
-          40.3351865
+          40.3351865,
+          49.8066628
         ]
       },
       "properties": {
@@ -4678,7 +4638,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "8RP4+3MF Avtoyuyucu, Iqor Agayev Kuc?si, Baki"
+        "address": "8RP4+3MF Avtoyuyucu, Iqor Agayev Kuc\u00c9\u2122si, Baki"
       }
     },
     {
@@ -4686,8 +4646,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9152493,
-          40.4233854
+          40.4233854,
+          49.9152493
         ]
       },
       "properties": {
@@ -4706,8 +4666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7717813,
-          40.4357659
+          40.4357659,
+          49.7717813
         ]
       },
       "properties": {
@@ -4726,8 +4686,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7995093,
-          40.406577
+          40.406577,
+          49.7995093
         ]
       },
       "properties": {
@@ -4746,8 +4706,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8164555,
-          40.4191177
+          40.4191177,
+          49.8164555
         ]
       },
       "properties": {
@@ -4766,8 +4726,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.816094,
-          40.4231968
+          40.4231968,
+          49.816094
         ]
       },
       "properties": {
@@ -4786,8 +4746,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8077141,
-          40.4184331
+          40.4184331,
+          49.8077141
         ]
       },
       "properties": {
@@ -4798,7 +4758,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "Avtoyuma, 47 Mir C?lal kuc?si, Baki"
+        "address": "Avtoyuma, 47 Mir C\u00c9\u2122lal kuc\u00c9\u2122si, Baki"
       }
     },
     {
@@ -4806,28 +4766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7225417,
-          40.4359371
-        ]
-      },
-      "properties": {
-        "place_id": "ChIJ8x5hwseFMEARBz1O4uNxaSg",
-        "name": "K?nan boynu",
-        "link": "https://www.google.com/maps/place/K%C9%99nan+boynu/data=!4m7!3m6!1s0x403085c7c2611ef3:0x286971e3e24e3d07!8m2!3d40.4359371!4d49.7225417!16s%2Fg%2F11l5k16h0s!19sChIJ8x5hwseFMEARBz1O4uNxaSg?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Yuyulmasi",
-        "categories": "Avtomobil Yuyulmasi",
-        "rating": null,
-        "reviews": null,
-        "address": "CPPF+92M K?nan boynu, Baki"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.8756974,
-          40.4074471
+          40.4074471,
+          49.8756974
         ]
       },
       "properties": {
@@ -4846,8 +4786,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8309997,
-          40.4259875
+          40.4259875,
+          49.8309997
         ]
       },
       "properties": {
@@ -4866,8 +4806,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8033914,
-          40.4133467
+          40.4133467,
+          49.8033914
         ]
       },
       "properties": {
@@ -4878,7 +4818,7 @@
         "categories": "",
         "rating": null,
         "reviews": null,
-        "address": "CR73+89J Aftoyuma moyka, ?li Tagizad?, Baki"
+        "address": "CR73+89J Aftoyuma moyka, \u00c9\u2122li Tagizad\u00c9\u2122, Baki"
       }
     },
     {
@@ -4886,8 +4826,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.856527,
-          40.4262504
+          40.4262504,
+          49.856527
         ]
       },
       "properties": {
@@ -4906,8 +4846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7370386,
-          40.4586313
+          40.4586313,
+          49.7370386
         ]
       },
       "properties": {
@@ -4926,16 +4866,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8271721,
-          40.3964894
+          40.3964894,
+          49.8271721
         ]
       },
       "properties": {
         "place_id": "ChIJYZrB-Zd9MEARhKLnyma0wqY",
         "name": "CarFit PRO",
         "link": "https://www.google.com/maps/place/CarFit+PRO/data=!4m7!3m6!1s0x40307d97f9c19a61:0xa6c2b466cae7a284!8m2!3d40.3964894!4d49.8271721!16s%2Fg%2F11sp96qh7h!19sChIJYZrB-Zd9MEARhKLnyma0wqY?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": null,
         "reviews": null,
         "address": "CarFit PRO, 196 Jalil Mammadguluzadeh, Baku 1078"
@@ -4946,19 +4886,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8781815,
-          40.4183299
+          40.4183299,
+          49.8781815
         ]
       },
       "properties": {
         "place_id": "ChIJYbCvuNtjMEARzRwDDcu_VMU",
         "name": "Betta Garaj Detailing",
         "link": "https://www.google.com/maps/place/Betta+Garaj+Detailing/data=!4m7!3m6!1s0x403063dbb8afb061:0xc554bfcb0d031ccd!8m2!3d40.4183299!4d49.8781815!16s%2Fg%2F11y1z4xdqg!19sChIJYbCvuNtjMEARzRwDDcu_VMU?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": null,
         "reviews": null,
-        "address": "Betta Garaj Detailing, 10H ?l?sg?r Qayibov, Baki 1202"
+        "address": "Betta Garaj Detailing, 10H \u00c9\u2122l\u00c9\u2122sg\u00c9\u2122r Qayibov, Baki 1202"
       }
     },
     {
@@ -4966,16 +4906,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8619357,
-          40.3963474
+          40.3963474,
+          49.8619357
         ]
       },
       "properties": {
         "place_id": "ChIJI5nmugx9MEAR2C-azeIEBWA",
         "name": "Pantera Design",
         "link": "https://www.google.com/maps/place/Pantera+Design/data=!4m7!3m6!1s0x40307d0cbae69923:0x600504e2cd9a2fd8!8m2!3d40.3963474!4d49.8619357!16s%2Fg%2F11vb7ffcrx!19sChIJI5nmugx9MEAR2C-azeIEBWA?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": null,
         "reviews": null,
         "address": "Pantera Design, Tabriz St, Baku"
@@ -4986,8 +4926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8621991,
-          40.3822239
+          40.3822239,
+          49.8621991
         ]
       },
       "properties": {
@@ -4998,7 +4938,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "Cardeluxe_scw, 7 H?s?n Salmani, Baki 1005"
+        "address": "Cardeluxe_scw, 7 H\u00c9\u2122s\u00c9\u2122n Salmani, Baki 1005"
       }
     },
     {
@@ -5006,16 +4946,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.827484,
-          40.3840337
+          40.3840337,
+          49.827484
         ]
       },
       "properties": {
         "place_id": "ChIJBYGU6H19MEARhVV8eYTkT-8",
         "name": "S8 Auto Detailing",
         "link": "https://www.google.com/maps/place/S8+Auto+Detailing/data=!4m7!3m6!1s0x40307d7de8948105:0xef4fe484797c5585!8m2!3d40.3840337!4d49.827484!16s%2Fg%2F11rv3w31tp!19sChIJBYGU6H19MEARhVV8eYTkT-8?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": null,
         "reviews": null,
         "address": "S8 Auto Detailing, 188 Murtuza Muxtarov, Baki"
@@ -5026,16 +4966,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8519741,
-          40.3758918
+          40.3758918,
+          49.8519741
         ]
       },
       "properties": {
         "place_id": "ChIJybNBss19MEARiFkQF17zHdk",
         "name": "IMOLAB detailing center",
         "link": "https://www.google.com/maps/place/IMOLAB+detailing+center/data=!4m7!3m6!1s0x40307dcdb241b3c9:0xd91df35e17105988!8m2!3d40.3758918!4d49.8519741!16s%2Fg%2F11snkvznv0!19sChIJybNBss19MEARiFkQF17zHdk?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": null,
         "reviews": null,
         "address": "IMOLAB detailing center, 49 Khagani Street, Baku 1010"
@@ -5046,19 +4986,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8596003,
-          40.4004411
+          40.4004411,
+          49.8596003
         ]
       },
       "properties": {
         "place_id": "ChIJMbQ_g059MEAR4xr_3T-cZxQ",
         "name": "Yaglama Avto",
         "link": "https://www.google.com/maps/place/Ya%C4%9Flama+Avto/data=!4m7!3m6!1s0x40307d4e833fb431:0x14679c3fddff1ae3!8m2!3d40.4004411!4d49.8596003!16s%2Fg%2F11k4p1lvsm!19sChIJMbQ_g059MEAR4xr_3T-cZxQ?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": null,
         "reviews": null,
-        "address": "CV25+8QP Yaglama Avto, Koroglu R?himov kuc?si, Baku 1001"
+        "address": "CV25+8QP Yaglama Avto, Koroglu R\u00c9\u2122himov kuc\u00c9\u2122si, Baku 1001"
       }
     },
     {
@@ -5066,19 +5006,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8157605,
-          40.4265498
+          40.4265498,
+          49.8157605
         ]
       },
       "properties": {
         "place_id": "ChIJj3w5R4aHMEAR3ODH3c71ytw",
         "name": "Leon Detailing Service",
         "link": "https://www.google.com/maps/place/Leon+Detailing+Service/data=!4m7!3m6!1s0x4030878647397c8f:0xdccaf5ceddc7e0dc!8m2!3d40.4265498!4d49.8157605!16s%2Fg%2F11y2h1195t!19sChIJj3w5R4aHMEAR3ODH3c71ytw?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": null,
         "reviews": null,
-        "address": "Leon Detailing Service, 117 Adil M?mm?dov, Baki"
+        "address": "Leon Detailing Service, 117 Adil M\u00c9\u2122mm\u00c9\u2122dov, Baki"
       }
     },
     {
@@ -5086,16 +5026,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9384457,
-          40.3654922
+          40.3654922,
+          49.9384457
         ]
       },
       "properties": {
         "place_id": "ChIJn-3sgYwdy2oR3mSDX9NwfAs",
         "name": "049 teker temiri",
         "link": "https://www.google.com/maps/place/049+teker+temiri/data=!4m7!3m6!1s0x6acb1d8c81eced9f:0xb7c70d35f8364de!8m2!3d40.3654922!4d49.9384457!16s%2Fg%2F11s58c96ng!19sChIJn-3sgYwdy2oR3mSDX9NwfAs?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti, Service establishment",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti, Service establishment",
         "rating": null,
         "reviews": null,
         "address": ""
@@ -5106,16 +5046,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8004309,
-          40.437413
+          40.437413,
+          49.8004309
         ]
       },
       "properties": {
         "place_id": "ChIJn7QCwg2HMEAR65cLoVgyl6s",
         "name": "Sonata servis Aslan",
         "link": "https://www.google.com/maps/place/Sonata+servis+Aslan/data=!4m7!3m6!1s0x4030870dc202b49f:0xab973258a10b97eb!8m2!3d40.437413!4d49.8004309!16s%2Fg%2F11y1cflt16!19sChIJn7QCwg2HMEAR65cLoVgyl6s?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": null,
         "reviews": null,
         "address": "CRP2+X57 Sonata servis Aslan, Baku"
@@ -5126,19 +5066,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7987856,
-          40.4381235
+          40.4381235,
+          49.7987856
         ]
       },
       "properties": {
         "place_id": "ChIJxbPYJ6KHMEARwd7BqkGIAUA",
         "name": "Aslan usta servis",
         "link": "https://www.google.com/maps/place/Aslan+usta+servis/data=!4m7!3m6!1s0x403087a227d8b3c5:0x40018841aac1dec1!8m2!3d40.4381235!4d49.7987856!16s%2Fg%2F11krhl52t1!19sChIJxbPYJ6KHMEARwd7BqkGIAUA?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": null,
         "reviews": null,
-        "address": "Aslan usta servis, Ev (bina, 2002 m?nzil 11 Ilqar K?rimov, Baku"
+        "address": "Aslan usta servis, Ev (bina, 2002 m\u00c9\u2122nzil 11 Ilqar K\u00c9\u2122rimov, Baku"
       }
     },
     {
@@ -5146,19 +5086,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8525339,
-          40.4327134
+          40.4327134,
+          49.8525339
         ]
       },
       "properties": {
         "place_id": "ChIJR2LRKG6JMEARvtmHbUFlye4",
         "name": "Evastart ayaq-altilari",
         "link": "https://www.google.com/maps/place/Evastart+ayaq-alt%C4%B1lar%C4%B1/data=!4m7!3m6!1s0x4030896e28d16247:0xeec965416d87d9be!8m2!3d40.4327134!4d49.8525339!16s%2Fg%2F11s5p956x8!19sChIJR2LRKG6JMEARvtmHbUFlye4?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": null,
         "reviews": null,
-        "address": "Evastart ayaq-altilari, Abay Kunanbayev kuc?si, Baki 1071"
+        "address": "Evastart ayaq-altilari, Abay Kunanbayev kuc\u00c9\u2122si, Baki 1071"
       }
     },
     {
@@ -5166,16 +5106,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7790226,
-          40.3743102
+          40.3743102,
+          49.7790226
         ]
       },
       "properties": {
         "place_id": "ChIJ0-3yuq9_MEAROnJ3_H6M4yk",
         "name": "elvin-r service & transportation",
         "link": "https://www.google.com/maps/place/elvin-r+service+%26+transportation/data=!4m7!3m6!1s0x40307fafbaf2edd3:0x29e38c7efc77723a!8m2!3d40.3743102!4d49.7790226!16s%2Fg%2F11khj_gc9z!19sChIJ0-3yuq9_MEAROnJ3_H6M4yk?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": null,
         "reviews": null,
         "address": "9QFH+PJC elvin-r service & transportation"
@@ -5186,8 +5126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8300613,
-          40.3841941
+          40.3841941,
+          49.8300613
         ]
       },
       "properties": {
@@ -5206,19 +5146,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9314391,
-          40.4157299
+          40.4157299,
+          49.9314391
         ]
       },
       "properties": {
         "place_id": "ChIJx_YtbdNjMEAREg_2dwSOgw0",
-        "name": "50 Q?pik Moyka",
+        "name": "50 Q\u00c9\u2122pik Moyka",
         "link": "https://www.google.com/maps/place/50+Q%C9%99pik+Moyka/data=!4m7!3m6!1s0x403063d36d2df6c7:0xd838e0477f60f12!8m2!3d40.4157299!4d49.9314391!16s%2Fg%2F11tghlysgz!19sChIJx_YtbdNjMEAREg_2dwSOgw0?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Xidm?ti",
-        "categories": "Avtomobil Xidm?ti",
+        "main_category": "Avtomobil Xidm\u00c9\u2122ti",
+        "categories": "Avtomobil Xidm\u00c9\u2122ti",
         "rating": null,
         "reviews": null,
-        "address": "50 Q?pik Moyka, Kamil Balakishiyev St"
+        "address": "50 Q\u00c9\u2122pik Moyka, Kamil Balakishiyev St"
       }
     },
     {
@@ -5226,8 +5166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9587607,
-          40.3617914
+          40.3617914,
+          49.9587607
         ]
       },
       "properties": {
@@ -5246,8 +5186,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8512957,
-          40.4188331
+          40.4188331,
+          49.8512957
         ]
       },
       "properties": {
@@ -5266,8 +5206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8485034,
-          40.3911741
+          40.3911741,
+          49.8485034
         ]
       },
       "properties": {
@@ -5278,7 +5218,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "Ist Car Cleaning, 62 Bakixanov Kuc?si, Baki"
+        "address": "Ist Car Cleaning, 62 Bakixanov Kuc\u00c9\u2122si, Baki"
       }
     },
     {
@@ -5286,8 +5226,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9485494,
-          40.430359
+          40.430359,
+          49.9485494
         ]
       },
       "properties": {
@@ -5306,8 +5246,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9639609,
-          40.4214564
+          40.4214564,
+          49.9639609
         ]
       },
       "properties": {
@@ -5318,7 +5258,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "Mister Cleaner Baku, 36 Mukhtar Fataliyev St, Bakixanov q?s?b?si"
+        "address": "Mister Cleaner Baku, 36 Mukhtar Fataliyev St, Bakixanov q\u00c9\u2122s\u00c9\u2122b\u00c9\u2122si"
       }
     },
     {
@@ -5326,8 +5266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9686394,
-          40.420311
+          40.420311,
+          49.9686394
         ]
       },
       "properties": {
@@ -5346,8 +5286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9704245,
-          40.4219035
+          40.4219035,
+          49.9704245
         ]
       },
       "properties": {
@@ -5366,8 +5306,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9677027,
-          40.41607
+          40.41607,
+          49.9677027
         ]
       },
       "properties": {
@@ -5386,8 +5326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9670735,
-          40.4173431
+          40.4173431,
+          49.9670735
         ]
       },
       "properties": {
@@ -5406,8 +5346,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9309566,
-          40.4200578
+          40.4200578,
+          49.9309566
         ]
       },
       "properties": {
@@ -5426,8 +5366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9573281,
-          40.4459375
+          40.4459375,
+          49.9573281
         ]
       },
       "properties": {
@@ -5446,8 +5386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9217174,
-          40.4577568
+          40.4577568,
+          49.9217174
         ]
       },
       "properties": {
@@ -5466,19 +5406,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9507538,
-          40.4431769
+          40.4431769,
+          49.9507538
         ]
       },
       "properties": {
         "place_id": "ChIJkwq6f4BjMEARo_cnlv-SyJY",
-        "name": "T?K?R BALANS-124 MOYKA-124",
+        "name": "T\u00c9\u2122K\u00c9\u2122R BALANS-124 MOYKA-124",
         "link": "https://www.google.com/maps/place/T%C6%8FK%C6%8FR+BALANS-124+MOYKA-124/data=!4m7!3m6!1s0x403063807fba0a93:0x96c892ff9627f7a3!8m2!3d40.4431769!4d49.9507538!16s%2Fg%2F11l5jh35y6!19sChIJkwq6f4BjMEARo_cnlv-SyJY?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "CXV2+78C T?K?R BALANS-124 MOYKA-124, ?f?ndiyev Kuc?si, Baki"
+        "address": "CXV2+78C T\u00c9\u2122K\u00c9\u2122R BALANS-124 MOYKA-124, \u00c9\u2122f\u00c9\u2122ndiyev Kuc\u00c9\u2122si, Baki"
       }
     },
     {
@@ -5486,8 +5426,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9635371,
-          40.4288325
+          40.4288325,
+          49.9635371
         ]
       },
       "properties": {
@@ -5506,8 +5446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.989635,
-          40.457335
+          40.457335,
+          49.989635
         ]
       },
       "properties": {
@@ -5526,8 +5466,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9744399,
-          40.399552
+          40.399552,
+          49.9744399
         ]
       },
       "properties": {
@@ -5538,7 +5478,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "TT AVTOMOYKA, s?h?ri, Qaracuxur q?s?b?si, Baku 1049"
+        "address": "TT AVTOMOYKA, s\u00c9\u2122h\u00c9\u2122ri, Qaracuxur q\u00c9\u2122s\u00c9\u2122b\u00c9\u2122si, Baku 1049"
       }
     },
     {
@@ -5546,8 +5486,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9862336,
-          40.4446384
+          40.4446384,
+          49.9862336
         ]
       },
       "properties": {
@@ -5558,7 +5498,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "CXVP+VF5 Kend, Bulbul?"
+        "address": "CXVP+VF5 Kend, Bulbul\u00c9\u2122"
       }
     },
     {
@@ -5566,8 +5506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9648003,
-          40.3663498
+          40.3663498,
+          49.9648003
         ]
       },
       "properties": {
@@ -5586,8 +5526,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9767675,
-          40.3990716
+          40.3990716,
+          49.9767675
         ]
       },
       "properties": {
@@ -5606,8 +5546,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9516874,
-          40.3923266
+          40.3923266,
+          49.9516874
         ]
       },
       "properties": {
@@ -5626,8 +5566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9469825,
-          40.4150741
+          40.4150741,
+          49.9469825
         ]
       },
       "properties": {
@@ -5638,7 +5578,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "Moyka, 96 M?mm?d?li S?rifli, Baki"
+        "address": "Moyka, 96 M\u00c9\u2122mm\u00c9\u2122d\u00c9\u2122li S\u00c9\u2122rifli, Baki"
       }
     },
     {
@@ -5646,8 +5586,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9869609,
-          40.4406374
+          40.4406374,
+          49.9869609
         ]
       },
       "properties": {
@@ -5666,8 +5606,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9767758,
-          40.3990615
+          40.3990615,
+          49.9767758
         ]
       },
       "properties": {
@@ -5686,8 +5626,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9508895,
-          40.39177
+          40.39177,
+          49.9508895
         ]
       },
       "properties": {
@@ -5706,8 +5646,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9002789,
-          40.4218282
+          40.4218282,
+          49.9002789
         ]
       },
       "properties": {
@@ -5726,8 +5666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.95846,
-          40.3858776
+          40.3858776,
+          49.95846
         ]
       },
       "properties": {
@@ -5746,8 +5686,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9000425,
-          40.4130955
+          40.4130955,
+          49.9000425
         ]
       },
       "properties": {
@@ -5758,7 +5698,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "Premiumwashismayilli, Heyd?r ?liyev prospekti, Baki"
+        "address": "Premiumwashismayilli, Heyd\u00c9\u2122r \u00c9\u2122liyev prospekti, Baki"
       }
     },
     {
@@ -5766,19 +5706,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9799274,
-          40.3824705
+          40.3824705,
+          49.9799274
         ]
       },
       "properties": {
         "place_id": "ChIJfcz3oCJlMEARvQLhV_tUZ7g",
-        "name": "Qazil?r Avtoyuma",
+        "name": "Qazil\u00c9\u2122r Avtoyuma",
         "link": "https://www.google.com/maps/place/Qazil%C9%99r+Avtoyuma/data=!4m7!3m6!1s0x40306522a0f7cc7d:0xb86754fb57e102bd!8m2!3d40.3824705!4d49.9799274!16s%2Fg%2F11h_66tdv8!19sChIJfcz3oCJlMEARvQLhV_tUZ7g?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "Qazil?r Avtoyuma, Middle school No. 278, Baku"
+        "address": "Qazil\u00c9\u2122r Avtoyuma, Middle school No. 278, Baku"
       }
     },
     {
@@ -5786,8 +5726,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.0018973,
-          40.4113942
+          40.4113942,
+          50.0018973
         ]
       },
       "properties": {
@@ -5806,8 +5746,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9817637,
-          40.3923688
+          40.3923688,
+          49.9817637
         ]
       },
       "properties": {
@@ -5826,28 +5766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.902356,
-          40.4041838
-        ]
-      },
-      "properties": {
-        "place_id": "ChIJtbVZ2MdjMEAR-6XcQAMm5lc",
-        "name": "peteney huseyn",
-        "link": "https://www.google.com/maps/place/peteney+huseyn/data=!4m7!3m6!1s0x403063c7d859b5b5:0x57e6260340dca5fb!8m2!3d40.4041838!4d49.902356!16s%2Fg%2F11l6k_7lg5!19sChIJtbVZ2MdjMEAR-6XcQAMm5lc?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Yuyulmasi",
-        "categories": "Avtomobil Yuyulmasi",
-        "rating": null,
-        "reviews": null,
-        "address": "CW32+MWH peteney huseyn, Baki"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.8368452,
-          40.4811327
+          40.4811327,
+          49.8368452
         ]
       },
       "properties": {
@@ -5866,8 +5786,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8557904,
-          40.4314599
+          40.4314599,
+          49.8557904
         ]
       },
       "properties": {
@@ -5886,8 +5806,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8320233,
-          40.4647943
+          40.4647943,
+          49.8320233
         ]
       },
       "properties": {
@@ -5906,19 +5826,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8346321,
-          40.41673
+          40.41673,
+          49.8346321
         ]
       },
       "properties": {
         "place_id": "ChIJL8jHfACHMEAROtGy_RrIj4s",
-        "name": "Avtomobil yuyulma m?nt?q?si",
+        "name": "Avtomobil yuyulma m\u00c9\u2122nt\u00c9\u2122q\u00c9\u2122si",
         "link": "https://www.google.com/maps/place/Avtomobil+yuyulma+m%C9%99nt%C9%99q%C9%99si/data=!4m7!3m6!1s0x403087007cc7c82f:0x8b8fc81afdb2d13a!8m2!3d40.41673!4d49.8346321!16s%2Fg%2F11y2npqhl0!19sChIJL8jHfACHMEAROtGy_RrIj4s?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "Avtomobil yuyulma m?nt?q?si, 43 C?f?r X?ndan Kuc?si, Baki 1053"
+        "address": "Avtomobil yuyulma m\u00c9\u2122nt\u00c9\u2122q\u00c9\u2122si, 43 C\u00c9\u2122f\u00c9\u2122r X\u00c9\u2122ndan Kuc\u00c9\u2122si, Baki 1053"
       }
     },
     {
@@ -5926,8 +5846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8206674,
-          40.4271381
+          40.4271381,
+          49.8206674
         ]
       },
       "properties": {
@@ -5946,8 +5866,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8131021,
-          40.4245435
+          40.4245435,
+          49.8131021
         ]
       },
       "properties": {
@@ -5966,19 +5886,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7849591,
-          40.453503
+          40.453503,
+          49.7849591
         ]
       },
       "properties": {
         "place_id": "ChIJQbQVWwCHMEARimO0QKUwby8",
-        "name": "Moyka 50 q?pik",
+        "name": "Moyka 50 q\u00c9\u2122pik",
         "link": "https://www.google.com/maps/place/Moyka+50+q%C9%99pik/data=!4m7!3m6!1s0x403087005b15b441:0x2f6f30a540b4638a!8m2!3d40.453503!4d49.7849591!16s%2Fg%2F11vrl3nb78!19sChIJQbQVWwCHMEARimO0QKUwby8?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "FQ3M+CX4 Moyka 50 q?pik, Baki"
+        "address": "FQ3M+CX4 Moyka 50 q\u00c9\u2122pik, Baki"
       }
     },
     {
@@ -5986,19 +5906,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8361742,
-          40.4217931
+          40.4217931,
+          49.8361742
         ]
       },
       "properties": {
         "place_id": "ChIJv6LH636HMEARNKBF-q9Hbhw",
-        "name": "Stutqart Avtoyuma s?b?k?si",
+        "name": "Stutqart Avtoyuma s\u00c9\u2122b\u00c9\u2122k\u00c9\u2122si",
         "link": "https://www.google.com/maps/place/%C5%9Etutqart+Avtoyuma+%C5%9F%C9%99b%C9%99k%C9%99si/data=!4m7!3m6!1s0x4030877eebc7a2bf:0x1c6e47affa45a034!8m2!3d40.4217931!4d49.8361742!16s%2Fg%2F11q9m8yvgm!19sChIJv6LH636HMEARNKBF-q9Hbhw?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "Stutqart Avtoyuma s?b?k?si, M?sud Davutoglu, Baki"
+        "address": "Stutqart Avtoyuma s\u00c9\u2122b\u00c9\u2122k\u00c9\u2122si, M\u00c9\u2122sud Davutoglu, Baki"
       }
     },
     {
@@ -6006,19 +5926,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8222376,
-          40.4271641
+          40.4271641,
+          49.8222376
         ]
       },
       "properties": {
         "place_id": "ChIJ4X1hMvOHMEAR7E2IxX_v0w4",
-        "name": "50 q?pik moyka",
+        "name": "50 q\u00c9\u2122pik moyka",
         "link": "https://www.google.com/maps/place/50+q%C9%99pik+moyka/data=!4m7!3m6!1s0x403087f332617de1:0xed3ef7fc5884dec!8m2!3d40.4271641!4d49.8222376!16s%2Fg%2F11l22d9_jh!19sChIJ4X1hMvOHMEAR7E2IxX_v0w4?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "CRGF+X2G 50 q?pik moyka, Baki"
+        "address": "CRGF+X2G 50 q\u00c9\u2122pik moyka, Baki"
       }
     },
     {
@@ -6026,8 +5946,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8134571,
-          40.4387244
+          40.4387244,
+          49.8134571
         ]
       },
       "properties": {
@@ -6046,8 +5966,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8188711,
-          40.4186458
+          40.4186458,
+          49.8188711
         ]
       },
       "properties": {
@@ -6058,7 +5978,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "Moyka, 37 A ?lisg?nd?r Isg?nd?rov, Baki"
+        "address": "Moyka, 37 A \u00c9\u2122lisg\u00c9\u2122nd\u00c9\u2122r Isg\u00c9\u2122nd\u00c9\u2122rov, Baki"
       }
     },
     {
@@ -6066,8 +5986,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8031315,
-          40.4216567
+          40.4216567,
+          49.8031315
         ]
       },
       "properties": {
@@ -6086,8 +6006,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8129869,
-          40.4651026
+          40.4651026,
+          49.8129869
         ]
       },
       "properties": {
@@ -6106,8 +6026,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8083411,
-          40.4500708
+          40.4500708,
+          49.8083411
         ]
       },
       "properties": {
@@ -6126,8 +6046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.842208,
-          40.4153932
+          40.4153932,
+          49.842208
         ]
       },
       "properties": {
@@ -6138,7 +6058,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "268, Avto Yuma, Ibrahimpasa Dadasov, 36 ?c?mi Naxcivani, Baki"
+        "address": "268, Avto Yuma, Ibrahimpasa Dadasov, 36 \u00c9\u2122c\u00c9\u2122mi Naxcivani, Baki"
       }
     },
     {
@@ -6146,28 +6066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8405709,
-          40.4809886
-        ]
-      },
-      "properties": {
-        "place_id": "ChIJl_p03_mJMEARNqxPJuPw1Ic",
-        "name": "Sadigin mercedesi. S?n ol agilli ol",
-        "link": "https://www.google.com/maps/place/Sad%C4%B1%C4%9F%C4%B1n+mercedesi.+S%C9%99n+%C3%B6l+a%C4%9F%C4%B1ll%C4%B1+ol/data=!4m7!3m6!1s0x403089f9df74fa97:0x87d4f0e3264fac36!8m2!3d40.4809886!4d49.8405709!16s%2Fg%2F11krn4_tmk!19sChIJl_p03_mJMEARNqxPJuPw1Ic?authuser=0&hl=az&rclk=1",
-        "main_category": "Avtomobil Yuyulmasi",
-        "categories": "Avtomobil Yuyulmasi",
-        "rating": null,
-        "reviews": null,
-        "address": "FRJR+96W Sadigin mercedesi. S?n ol agilli ol, Bin?q?di-Mehdiabad Sossesi, Baki"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.7804927,
-          40.4587285
+          40.4587285,
+          49.7804927
         ]
       },
       "properties": {
@@ -6186,8 +6086,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.84634,
-          40.4169169
+          40.4169169,
+          49.84634
         ]
       },
       "properties": {
@@ -6198,7 +6098,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "Avto yuma 022, Geodeziya v? Kartoqrafiya MMC, Baki"
+        "address": "Avto yuma 022, Geodeziya v\u00c9\u2122 Kartoqrafiya MMC, Baki"
       }
     },
     {
@@ -6206,8 +6106,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7993044,
-          40.4128389
+          40.4128389,
+          49.7993044
         ]
       },
       "properties": {
@@ -6226,8 +6126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7552881,
-          40.4443001
+          40.4443001,
+          49.7552881
         ]
       },
       "properties": {
@@ -6246,8 +6146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8113817,
-          40.4141301
+          40.4141301,
+          49.8113817
         ]
       },
       "properties": {
@@ -6266,19 +6166,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7703182,
-          40.4412033
+          40.4412033,
+          49.7703182
         ]
       },
       "properties": {
         "place_id": "ChIJWVrdAaaHMEARnDiKYp-Lxks",
-        "name": "50 Q?pik moyka",
+        "name": "50 Q\u00c9\u2122pik moyka",
         "link": "https://www.google.com/maps/place/50+Q%C9%99pik+moyka/data=!4m7!3m6!1s0x403087a601dd5a59:0x4bc68b9f628a389c!8m2!3d40.4412033!4d49.7703182!16s%2Fg%2F11l5fbfycy!19sChIJWVrdAaaHMEARnDiKYp-Lxks?authuser=0&hl=az&rclk=1",
         "main_category": "",
         "categories": "",
         "rating": null,
         "reviews": null,
-        "address": "CQRC+F4P 50 Q?pik moyka, Xirdalan"
+        "address": "CQRC+F4P 50 Q\u00c9\u2122pik moyka, Xirdalan"
       }
     },
     {
@@ -6286,8 +6186,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8602224,
-          40.4131788
+          40.4131788,
+          49.8602224
         ]
       },
       "properties": {
@@ -6298,7 +6198,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "Gipfel detailig yuma, 207 ?hm?d R?c?bli, Baki"
+        "address": "Gipfel detailig yuma, 207 \u00c9\u2122hm\u00c9\u2122d R\u00c9\u2122c\u00c9\u2122bli, Baki"
       }
     },
     {
@@ -6306,8 +6206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8545257,
-          40.4866246
+          40.4866246,
+          49.8545257
         ]
       },
       "properties": {
@@ -6326,8 +6226,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.7544907,
-          40.4512451
+          40.4512451,
+          49.7544907
         ]
       },
       "properties": {
@@ -6338,7 +6238,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "EFR XIRDALAN AVTOYUMA, 10 M?mm?d ?min R?sulzad?, Baki 0101"
+        "address": "EFR XIRDALAN AVTOYUMA, 10 M\u00c9\u2122mm\u00c9\u2122d \u00c9\u2122min R\u00c9\u2122sulzad\u00c9\u2122, Baki 0101"
       }
     },
     {
@@ -6346,19 +6246,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8631326,
-          40.4854362
+          40.4854362,
+          49.8631326
         ]
       },
       "properties": {
         "place_id": "ChIJLSZMHaqJMEARMpPz5XgTUjg",
-        "name": "Ozun?qulluq avtoyuma",
+        "name": "Ozun\u00c9\u2122qulluq avtoyuma",
         "link": "https://www.google.com/maps/place/%C3%96z%C3%BCn%C9%99qulluq+avtoyuma/data=!4m7!3m6!1s0x403089aa1d4c262d:0x38521378e5f39332!8m2!3d40.4854362!4d49.8631326!16s%2Fg%2F11hqp6jbkq!19sChIJLSZMHaqJMEARMpPz5XgTUjg?authuser=0&hl=az&rclk=1",
         "main_category": "",
         "categories": "",
         "rating": null,
         "reviews": null,
-        "address": "FVP7+57C Ozun?qulluq avtoyuma, Bin?q?di-Balaxani Sossesi, Baki"
+        "address": "FVP7+57C Ozun\u00c9\u2122qulluq avtoyuma, Bin\u00c9\u2122q\u00c9\u2122di-Balaxani Sossesi, Baki"
       }
     },
     {
@@ -6366,8 +6266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.809272,
-          40.4087644
+          40.4087644,
+          49.809272
         ]
       },
       "properties": {
@@ -6378,7 +6278,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "CR73+58C Aftoyuma moyka, Asif M?h?rr?mov, Baki"
+        "address": "CR73+58C Aftoyuma moyka, Asif M\u00c9\u2122h\u00c9\u2122rr\u00c9\u2122mov, Baki"
       }
     },
     {
@@ -6386,8 +6286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8670924,
-          40.4092617
+          40.4092617,
+          49.8670924
         ]
       },
       "properties": {
@@ -6406,8 +6306,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8136707,
-          40.4052201
+          40.4052201,
+          49.8136707
         ]
       },
       "properties": {
@@ -6426,8 +6326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8394956,
-          40.4013763
+          40.4013763,
+          49.8394956
         ]
       },
       "properties": {
@@ -6438,7 +6338,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "CR2Q+HQ5 Moyka, Mir?li Qasqay, Baki"
+        "address": "CR2Q+HQ5 Moyka, Mir\u00c9\u2122li Qasqay, Baki"
       }
     },
     {
@@ -6446,8 +6346,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9068136,
-          40.3914582
+          40.3914582,
+          49.9068136
         ]
       },
       "properties": {
@@ -6458,7 +6358,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "Pax Makina Azerbaijan, Nizami Rayonu, Bab?k Prospekti, 39 Q, Baki 1001"
+        "address": "Pax Makina Azerbaijan, Nizami Rayonu, Bab\u00c9\u2122k Prospekti, 39 Q, Baki 1001"
       }
     },
     {
@@ -6466,8 +6366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1385265,
-          40.4918265
+          40.4918265,
+          50.1385265
         ]
       },
       "properties": {
@@ -6478,7 +6378,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "F4RQ+RJ3 Elmarin kuklasi, Park, M?rd?kan"
+        "address": "F4RQ+RJ3 Elmarin kuklasi, Park, M\u00c9\u2122rd\u00c9\u2122kan"
       }
     },
     {
@@ -6486,8 +6386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1454455,
-          40.4810579
+          40.4810579,
+          50.1454455
         ]
       },
       "properties": {
@@ -6506,19 +6406,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1776716,
-          40.4853717
+          40.4853717,
+          50.1776716
         ]
       },
       "properties": {
         "place_id": "ChIJV_fyiQFfMEARL2fqPKcOgS0",
-        "name": "Avtoyuma 50 q?pik",
+        "name": "Avtoyuma 50 q\u00c9\u2122pik",
         "link": "https://www.google.com/maps/place/Avtoyuma+50+q%C9%99pik/data=!4m7!3m6!1s0x40305f0189f2f757:0x2d810ea73cea672f!8m2!3d40.4853717!4d50.1776716!16s%2Fg%2F11l6tl85tk!19sChIJV_fyiQFfMEARL2fqPKcOgS0?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "Avtoyuma 50 q?pik, 41 Almas Ildirim, M?rd?kan"
+        "address": "Avtoyuma 50 q\u00c9\u2122pik, 41 Almas Ildirim, M\u00c9\u2122rd\u00c9\u2122kan"
       }
     },
     {
@@ -6526,19 +6426,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1401582,
-          40.4830846
+          40.4830846,
+          50.1401582
         ]
       },
       "properties": {
         "place_id": "ChIJGQzo1p9fMEARgorcF2RwFBg",
-        "name": "50 Q?pik moyka Makaron",
+        "name": "50 Q\u00c9\u2122pik moyka Makaron",
         "link": "https://www.google.com/maps/place/50+Q%C9%99pik+moyka+Makaron/data=!4m7!3m6!1s0x40305f9fd6e80c19:0x1814706417dc8a82!8m2!3d40.4830846!4d50.1401582!16s%2Fg%2F11tx_tg24v!19sChIJGQzo1p9fMEARgorcF2RwFBg?authuser=0&hl=az&rclk=1",
         "main_category": "",
         "categories": "",
         "rating": null,
         "reviews": null,
-        "address": "F4MQ+6X2 50 Q?pik moyka Makaron, Mardakan"
+        "address": "F4MQ+6X2 50 Q\u00c9\u2122pik moyka Makaron, Mardakan"
       }
     },
     {
@@ -6546,8 +6446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1828079,
-          40.50177
+          40.50177,
+          50.1828079
         ]
       },
       "properties": {
@@ -6558,7 +6458,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "G52M+P4 Aqil Home, M?rd?kan"
+        "address": "G52M+P4 Aqil Home, M\u00c9\u2122rd\u00c9\u2122kan"
       }
     },
     {
@@ -6566,8 +6466,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1369617,
-          40.4715449
+          40.4715449,
+          50.1369617
         ]
       },
       "properties": {
@@ -6578,7 +6478,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "F4CP+JQ8 Ruganiii , M?rd?kan"
+        "address": "F4CP+JQ8 Ruganiii , M\u00c9\u2122rd\u00c9\u2122kan"
       }
     },
     {
@@ -6586,19 +6486,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.0749755,
-          40.4789987
+          40.4789987,
+          50.0749755
         ]
       },
       "properties": {
         "place_id": "ChIJ65fmGwBfMEARSSoMD8Ss2ks",
-        "name": "AT OZUN YU",
+        "name": "50 q\u00c9\u2122pik AT OZUN YU",
         "link": "https://www.google.com/maps/place/AT+%C3%96Z%C3%9CN+YU/data=!4m7!3m6!1s0x40305f001be697eb:0x4bdaacc40f0c2a49!8m2!3d40.4789987!4d50.0749755!16s%2Fg%2F11vppcbx9k!19sChIJ65fmGwBfMEARSSoMD8Ss2ks?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "F3HF+CR AT OZUN YU, M?rd?kan"
+        "address": "F3HF+CR AT OZUN YU, M\u00c9\u2122rd\u00c9\u2122kan"
       }
     },
     {
@@ -6606,19 +6506,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.0933624,
-          40.4529966
+          40.4529966,
+          50.0933624
         ]
       },
       "properties": {
         "place_id": "ChIJz_r1wIRhMEARv_gTEzi7AqE",
-        "name": "R?sadin Moykasi",
+        "name": "R\u00c9\u2122sadin Moykasi",
         "link": "https://www.google.com/maps/place/R%C9%99%C5%9Fad%C4%B1n+Moykas%C4%B1/data=!4m7!3m6!1s0x40306184c0f5facf:0xa102bb381313f8bf!8m2!3d40.4529966!4d50.0933624!16s%2Fg%2F11kr_v386w!19sChIJz_r1wIRhMEARv_gTEzi7AqE?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "F33V+9H R?sadin Moykasi, M?rd?kan"
+        "address": "F33V+9H R\u00c9\u2122sadin Moykasi, M\u00c9\u2122rd\u00c9\u2122kan"
       }
     },
     {
@@ -6626,8 +6526,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1078168,
-          40.4984798
+          40.4984798,
+          50.1078168
         ]
       },
       "properties": {
@@ -6646,8 +6546,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1859998,
-          40.4739727
+          40.4739727,
+          50.1859998
         ]
       },
       "properties": {
@@ -6666,19 +6566,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.0747814,
-          40.4819669
+          40.4819669,
+          50.0747814
         ]
       },
       "properties": {
         "place_id": "ChIJxQi8GABfMEARTLtMQO1OZ1Y",
-        "name": "50 q?pik avto yuma",
+        "name": "50 q\u00c9\u2122pik avto yuma",
         "link": "https://www.google.com/maps/place/50+q%C9%99pik+avto+yuma/data=!4m7!3m6!1s0x40305f0018bc08c5:0x56674eed404cbb4c!8m2!3d40.4819669!4d50.0747814!16s%2Fg%2F11y2hh3y4q!19sChIJxQi8GABfMEARTLtMQO1OZ1Y?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "F3MF+6M 50 q?pik avto yuma, M?rd?kan"
+        "address": "F3MF+6M 50 q\u00c9\u2122pik avto yuma, M\u00c9\u2122rd\u00c9\u2122kan"
       }
     },
     {
@@ -6686,8 +6586,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1500553,
-          40.5106453
+          40.5106453,
+          50.1500553
         ]
       },
       "properties": {
@@ -6698,7 +6598,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "G45X+QRQ Cibildiz, M?rd?kan"
+        "address": "G45X+QRQ Cibildiz, M\u00c9\u2122rd\u00c9\u2122kan"
       }
     },
     {
@@ -6706,8 +6606,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1833888,
-          40.4756613
+          40.4756613,
+          50.1833888
         ]
       },
       "properties": {
@@ -6726,8 +6626,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1154036,
-          40.4932893
+          40.4932893,
+          50.1154036
         ]
       },
       "properties": {
@@ -6746,8 +6646,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.0719158,
-          40.4689705
+          40.4689705,
+          50.0719158
         ]
       },
       "properties": {
@@ -6766,8 +6666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.0601059,
-          40.5261038
+          40.5261038,
+          50.0601059
         ]
       },
       "properties": {
@@ -6786,8 +6686,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.0785265,
-          40.4571089
+          40.4571089,
+          50.0785265
         ]
       },
       "properties": {
@@ -6798,7 +6698,7 @@
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "Yavas Sure Gemi Cirilajax Bu Deyqe, ?li Isazad?"
+        "address": "Yavas Sure Gemi Cirilajax Bu Deyqe, \u00c9\u2122li Isazad\u00c9\u2122"
       }
     },
     {
@@ -6806,8 +6706,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8682955,
-          40.3839045
+          40.3839045,
+          49.8682955
         ]
       },
       "properties": {
@@ -6826,8 +6726,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.085708,
-          40.446418
+          40.446418,
+          50.085708
         ]
       },
       "properties": {
@@ -6846,19 +6746,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1078114,
-          40.4545867
+          40.4545867,
+          50.1078114
         ]
       },
       "properties": {
         "place_id": "ChIJwZwZ449fMEARzqvVONRx0b8",
-        "name": "AVTOYUMA 507 50 Q?PIK",
+        "name": "AVTOYUMA 507 50 Q\u00c9\u2122PIK",
         "link": "https://www.google.com/maps/place/AVTOYUMA+507+50+Q%C6%8FPIK/data=!4m7!3m6!1s0x40305f8fe3199cc1:0xbfd171d438d5abce!8m2!3d40.4545867!4d50.1078114!16s%2Fg%2F11y1l96yx6!19sChIJwZwZ449fMEARzqvVONRx0b8?authuser=0&hl=az&rclk=1",
         "main_category": "Avtomobil Yuyulmasi",
         "categories": "Avtomobil Yuyulmasi",
         "rating": null,
         "reviews": null,
-        "address": "F435+R4M AVTOYUMA 507 50 Q?PIK"
+        "address": "F435+R4M AVTOYUMA 507 50 Q\u00c9\u2122PIK"
       }
     },
     {
@@ -6866,8 +6766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.0788593,
-          40.4486879
+          40.4486879,
+          50.0788593
         ]
       },
       "properties": {
@@ -6886,19 +6786,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9136131,
-          40.3903514
+          40.3903514,
+          49.9136131
         ]
       },
       "properties": {
         "place_id": "ChIJ99aRft9jMEARmepYzdntSmg",
-        "name": "Avtoyuma (moyka) 50 q?pik",
+        "name": "Avtoyuma (moyka) 50 q\u00c9\u2122pik",
         "link": "https://www.google.com/maps/place/Avtoyuma+%28moyka%29+50+q%C9%99pik/data=!4m7!3m6!1s0x403063df7e91d6f7:0x684aedd9cd58ea99!8m2!3d40.3903514!4d49.9136131!16s%2Fg%2F11l774byl0!19sChIJ99aRft9jMEARmepYzdntSmg?authuser=0&hl=az&rclk=1",
         "main_category": "",
         "categories": "",
         "rating": null,
         "reviews": null,
-        "address": "9WR7+4CX Avtoyuma (moyka) 50 q?pik, Ogtay Valiyev Rd, Baku"
+        "address": "9WR7+4CX Avtoyuma (moyka) 50 q\u00c9\u2122pik, Ogtay Valiyev Rd, Baku"
       }
     },
     {
@@ -6906,8 +6806,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1006895,
-          40.5271675
+          40.5271675,
+          50.1006895
         ]
       },
       "properties": {
