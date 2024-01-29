@@ -25,20 +25,33 @@
     <link rel="stylesheet" href="style.css">
 
 </head>
+
 <body>
     <div id='map'></div>
-    <div id="search-container">
-        <input type="text" id="searchInput" placeholder="detailing, 50...">
-        <button onclick="performSearch()">Axtar</button>
+
+    <div class="headerWrapper">
+        <div class="header">
+            <h1 class="header-text">Sizə yaxın moykanı tapın!</h1>
+        </div>
+    
+        <div id='searchWrapper'>
+            <div id="search-container">
+                <input type="text" id="searchInput" placeholder="detailing, 50...">
+                <button onclick="performSearch()">Axtar</button>
+            </div>
+        
+            <div id="results-container">
+                <button class="close-button" onclick="closeResultsContainer()">Bağla</button>
+            </div>
+        </div>
     </div>
-    <div id="results-container">
-        <button class="close-button" onclick="closeResultsContainer()">Bağla</button>
-    </div>
+    
     <!-- Button for Google Forms -->
     <a href="https://forms.gle/mhNZA4jHRe4Rg3eRA" target="_blank">
         <button id="feedbackButton">Fikrinizi bildirin</button>
     </a>
-    
+
     <script src="script.js"></script>
 </body>
+
 </html>
