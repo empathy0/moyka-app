@@ -154,10 +154,10 @@ function processDataAndMap() {
       window.open(`https://www.google.com/maps/search/?api=1&query=${lat},${lon}`);
   };
 
-  // Show the new version popup on page load
-  window.addEventListener('DOMContentLoaded', function() {
-    var popup = document.getElementById('new-version-popup');
-    if (popup) popup.style.display = 'flex';
-  });
-
 })();
+
+// Show the new version popup on page load (ensure this is outside the IIFE)
+window.addEventListener('DOMContentLoaded', function() {
+  var popup = document.getElementById('new-version-popup');
+  if (popup) popup.style.display = 'flex';
+});
